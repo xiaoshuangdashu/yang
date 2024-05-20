@@ -18,7 +18,7 @@
     {"key": "js_mogu","name": "🍄┃蘑菇┃影视","type": 3,"api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./lib/XBPQ.jar;md5;5C5116C70E15343433C8480C3B448408","ext": "http://dt.xn--yety82d.love/js/ddys.js"},
 
     {"key": "js_Lib","name": "🍲┃Lib┃影视","type": 3,"api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://dt.xn--yety82d.love/js/南瓜.js"},
-    {"key": "js_czsapp","name": "🏭️┃厂长┃Js","type": 3,"api": "./js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./libs/czspp.js"},
+    {"key": "js_czsapp","name": "🏭️┃厂长┃Js","type": 3,"api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://dt.xn--yety82d.love/js/ddys.js"},
     {"key": "Kuaikan","name": "🦋┃快看┃影视","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key": "csp_Btwtoo","name":"✌┃两个┃鼻涕","type": 3,"api": "csp_Bttwoo","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key": "js_大师兄","name":"🐵┃师兄┃影视","type": 3,"api": "./js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./libs/大师兄影视.js"},
