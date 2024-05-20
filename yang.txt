@@ -9,7 +9,7 @@
    {"key": "商店","name": "🎰蜂蜜商店","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext": "https://fm.t4tv.hz.cz/json/market.json","jar": "./js/app.jar"},
 
     {"key": "玩偶哥哥","name": "👽玩偶哥哥┃已修复","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"},
-    {"key": "dr_nangua","name": "🎃南瓜┃Js","type": 3,"api": "./js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./libs/nangua.js"},
+    {"key": "dr_nangua","name": "🎃南瓜┃Js","type": 3,"api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://dt.xn--yety82d.love/js/南瓜.js"},
     {"key": "dr_低端","name": "🔥低端┃Js","type": 3,"api": "./js/drpy2.min.js","searchable": 1,"playerType": 2,"quickSearch": 1,"filterable": 1,"ext": "./libs/ddys.js"},
     {"key": "dr_荐片","name": "⏳荐片┃Js","type": 3,"api": "./js/drpy2.min.js","searchable": 1,"playerType": 1,"quickSearch": 1,"filterable": 1,"ext": "./libs/荐片.js"},
     {"key": "骑骑影院","name": "🚵骑骑┃v3","type": 3,"playerType": 2,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.gsjtlxy.top/xgapp.php/v3/"},
