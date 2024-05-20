@@ -10,9 +10,9 @@
 
     {"key": "玩偶哥哥","name": "👽玩偶哥哥┃已修复","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"},
     {"key": "dr_nangua","name": "🎃南瓜┃Js","type": 3,"api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://dt.xn--yety82d.love/js/南瓜.js"},
-    {"key": "dr_低端","name": "🔥低端┃Js","type": 3,"api": "./js/drpy2.min.js","searchable": 1,"playerType": 2,"quickSearch": 1,"filterable": 1,"ext": "./libs/ddys.js"},
-    {"key": "dr_荐片","name": "⏳荐片┃Js","type": 3,"api": "./js/drpy2.min.js","searchable": 1,"playerType": 1,"quickSearch": 1,"filterable": 1,"ext": "./libs/荐片.js"},
-    {"key": "骑骑影院","name": "🚵骑骑┃v3","type": 3,"playerType": 2,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.gsjtlxy.top/xgapp.php/v3/"},
+    {"key": "dr_低端","name": "🔥低端┃Js","type": 3,"api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js": 1,"playerType": 2,"quickSearch": 1,"filterable": 1,"ext": "http://dt.xn--yety82d.love/js/骚火.js"},
+    {"key": "dr_荐片","name": "⏳荐片┃Js","type": 3,"api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js","searchable": 1,"playerType": 1,"quickSearch": 1,"filterable": 1,"ext": "http://dt.xn--yety82d.love/js/爱看.js"},
+    {"key": "骑骑影院","name": "🚵骑骑┃v3","type": 3,"playerType": 2,"api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js": 1,"quickSearch": 1,"filterable": 1,"ext": "http://dt.xn--yety82d.love/js/FreeOK.js"},
     {"key": "XYQH_JOJO","name": "🍁┃久久┃影视","type": 3,"api": "csp_XYQHiker","jar": "./js/XYQH.jar;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16","ext": "./libs/jojo.json"},
     {"key": "XBPQ_黑狐","name": "🦝┃黑狐┃影视","type": 3,"api": "csp_XBPQ","playerType": 1,"jar": "./lib/XBPQ.jar;md5;5C5116C70E15343433C8480C3B448408","ext": "./libs/黑狐.json"},
     {"key": "js_mogu","name": "🍄┃蘑菇┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./lib/XBPQ.jar;md5;5C5116C70E15343433C8480C3B448408","ext": "./libs/蘑菇.json"},
