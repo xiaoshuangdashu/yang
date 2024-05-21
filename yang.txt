@@ -6,7 +6,7 @@
     {"key": "豆瓣","name": "济宁裁缝大叔","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
     {"key": "dr_豆瓣","name": "🌞豆瓣┃Js","type": 3,"api": "./js/drpy2.min.js","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./js/豆瓣.js"},
     {"key": "csp_KungFu404","name": "🔥设置Token","type": 3,"api": "csp_KungFu404","searchable": 0,"filterable": 0,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt","jar": "./js/alibaba.jar"},
-   {"key": "商店","name": "🎰芒果商店","type": 3,"api": "http://o.nxog.top/m/js/nxog.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://o.nxog.top/m/js/mm.js"}
+   {"key": "商店","name": "🎰芒果商店","type": 3,"api": "http://o.nxog.top/m/js/nxog.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://o.nxog.top/m/js/mm.js"}，
     {"key": "玩偶哥哥","name": "👽玩偶哥哥┃已修复","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"},
     {"key": "dr_nangua","name": "🎃南瓜┃Js","type": 3,"api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://dt.xn--yety82d.love/js/南瓜.js"},
     {"key": "dr_低端","name": "🔥低端┃Js","type": 3,"api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js","searchable": 1,"playerType": 2,"quickSearch": 1,"filterable": 1,"ext": "http://dt.xn--yety82d.love/js/骚火.js"},
