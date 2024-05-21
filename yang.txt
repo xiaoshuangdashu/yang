@@ -21,7 +21,7 @@
     {"key": "js_czsapp","name": "🏭️┃厂长┃Js","type": 3,"api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://dt.xn--yety82d.love/js/ddys.js"},
     {"key": "Kuaikan","name": "🦋┃快看┃济宁裁缝大叔","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key": "csp_Btwtoo","name":"✌┃两个┃鼻涕","type": 3,"api": "csp_Bttwoo","searchable": 1,"quickSearch": 1,"filterable": 1},
-    {"key": "js_大师兄","name":"🐵┃师兄┃济宁裁缝大叔","type": 3,"api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/yanglongxiang/my/blob/master/%E8%8D%90%E7%89%87%20.js"},
+    {"key": "js_大师兄","name":"🐵┃师兄┃济宁裁缝大叔","type": 3,"api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://o.nxog.top/m/js/103.js"},
     {"key": "js_电影先生","name":"🤵┃电影┃先生","type": 3,"api": "./js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./libs/电影先生.js"},
     {"key": "csp_胖虎","name":"🐯┃胖虎┃济宁裁缝大叔","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./js/XBPQ.jar;md5;5C5116C70E15343433C8480C3B448408","ext": "./libs/胖虎.json"},
     {"key": "js_Xinsj","name":"🐠┃视觉┃影院","type": 3,"api": "./js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./libs/xsj.js"},
