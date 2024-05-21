@@ -19,7 +19,7 @@
 
     {"key": "js_Lib","name": "🍲┃Lib┃济宁裁缝大叔","type": 3,"api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://dt.xn--yety82d.love/js/南瓜.js"},
     {"key": "js_czsapp","name": "🏭️┃厂长┃Js","type": 3,"api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://dt.xn--yety82d.love/js/ddys.js"},
-    {"key": "Kuaikan","name": "🦋┃快看┃济宁裁缝大叔","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
+    {"key": "Kuaikan","name": "🦋┃快看┃济宁裁缝大叔","type": 3,"api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://dt.xn--yety82d.love/js/ddys.js"},
     {"key": "csp_Btwtoo","name":"✌┃两个┃鼻涕","type": 3,"api": "csp_Bttwoo","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key": "js_大师兄","name":"🐵┃师兄┃济宁裁缝大叔","type": 3,"api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://o.nxog.top/m/js/103.js"},
     {"key": "js_电影先生","name":"🤵┃电影┃先生","type": 3,"api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://o.nxog.top/m/js/mm.js"},
