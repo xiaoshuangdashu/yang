@@ -29,7 +29,7 @@
     {"key": "js_农民","name":"👨‍🌾┃农民┃济宁裁缝大叔","type": 3,"api": "./js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./libs/nongmin.js"},
     {"key": "js_bzys","name":"🌋┃B站┃济宁裁缝大叔","type": 3,"api": "./js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./libs/bzys.js"},
     {"key": "csp_MeiJu69","name": "🗽┃六九┃美剧","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.69mj.com/xgapp.php/v2/"},
-    {"key": "csp_dadagui","name": "🐢┃达龟┃济宁裁缝大叔","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./libs/达达龟.json"},
+    {"key": "csp_dadagui","name": "🐢┃达龟┃济宁裁缝大叔","type": 3,"api": "http://o.nxog.top/m/js/nxog.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://o.nxog.top/m/js/tt.js"},
 
 
 
