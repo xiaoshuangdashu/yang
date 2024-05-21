@@ -19,31 +19,31 @@
 
     {"key": "js_Lib","name": "🍲┃Lib┃济宁裁缝大叔","type": 3,"api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://dt.xn--yety82d.love/js/南瓜.js"},
     {"key": "js_czsapp","name": "🏭️┃厂长┃Js","type": 3,"api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://dt.xn--yety82d.love/js/ddys.js"},
-    {"key": "Kuaikan","name": "🦋┃快看┃济宁裁缝大叔","type": 3,"api": "http://o.nxog.top/m/js/nxog.js","searchable": 1,"quickSearch": 1,"filterable": 1"ext": "http://o.nxog.top/m/js/101.js"},
-    {"key": "csp_Btwtoo","name":"✌┃两个┃鼻涕","type": 3,"api": "http://o.nxog.top/m/js/nxog.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://o.nxog.top/m/js/102.js"},
+    {"key": "Kuaikan","name": "🦋┃快看┃济宁裁缝大叔","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
+    {"key": "csp_Btwtoo","name":"✌┃两个┃鼻涕","type": 3,"api": "csp_Bttwoo","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key": "js_大师兄","name":"🐵┃师兄┃济宁裁缝大叔","type": 3,"api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://o.nxog.top/m/js/103.js"},
     {"key": "js_电影先生","name":"🤵┃电影┃先生","type": 3,"api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://o.nxog.top/m/js/mm.js"},
     {"key": "csp_胖虎","name":"🐯┃胖虎┃济宁裁缝大叔","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./js/XBPQ.jar;md5;5C5116C70E15343433C8480C3B448408","ext": "./libs/胖虎.json"},
     {"key": "js_Xinsj","name":"🐠┃视觉┃影院","type": 3,"api": "./js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./libs/xsj.js"},
-    {"key": "js_骚火电影","name":"🔥┃骚火┃济宁裁缝大叔","type": 3,"api": "http://o.nxog.top/m/js/nxog.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://o.nxog.top/m/js/103.js"},
-    {"key": "js_农民","name":"👨‍🌾┃农民┃济宁裁缝大叔","type": 3,"api": "http://o.nxog.top/m/js/nxog.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://o.nxog.top/m/js/104.js"},
+    {"key": "js_骚火电影","name":"🔥┃骚火┃济宁裁缝大叔","type": 3,"api": "./js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./libs/saohuo.js"},
+    {"key": "js_农民","name":"👨‍🌾┃农民┃济宁裁缝大叔","type": 3,"api": "./js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./libs/nongmin.js"},
     {"key": "js_bzys","name":"🌋┃B站┃济宁裁缝大叔","type": 3,"api": "./js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./libs/bzys.js"},
     {"key": "csp_MeiJu69","name": "🗽┃六九┃美剧","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.69mj.com/xgapp.php/v2/"},
-    {"key": "csp_dadagui","name": "🐢┃达龟┃济宁裁缝大叔","type": 3,"api": "http://o.nxog.top/m/js/nxog.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://o.nxog.top/m/js/tt.js"},
+    {"key": "csp_dadagui","name": "🐢┃达龟┃济宁裁缝大叔","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./libs/达达龟.json"},
 
 
 
     {"key": "鑫鑫济宁裁缝大叔","name": "🥇┃鑫鑫┃App","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://yingszj.xn--654a.cc/api.php/app/"},
-    {"key": "js_007","name": "🕵‍┃优优┃济宁裁缝大叔","type": 3,"api": "http://o.nxog.top/m/js/nxog.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://o.nxog.top/m/js/yy.js"},
+    {"key": "js_007","name": "🕵‍┃特工┃济宁裁缝大叔","type": 3,"api": "./js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./libs/007.js"},
     {"key": "csp_beijihu","name": "🎪┃极狐┃App","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.kuin.one/api.php/app/"},
     {"key": "csp_XBPQ_圣城","name": "🏯┃圣城┃济宁裁缝大叔","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./lib/XBPQ.jar;md5;5C5116C70E15343433C8480C3B448408","ext": "./libs/圣城.json"},
     {"key": "csp_XBPQ_348z","name": "🎲┃348┃电影","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./js/XBPQ.jar;md5;5C5116C70E15343433C8480C3B448408","ext": "./libs/348z.json"},
     {"key": "csp_XBPQ_haoxi","name": "⚡️┃好戏┃济宁裁缝大叔","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./js/XBPQ.jar;md5;5C5116C70E15343433C8480C3B448408","ext": "./libs/好戏.json"},
-    {"key": "益达济宁裁缝大叔","name": "🌝┃芒芒┃App","type": 3,"api": "http://o.nxog.top/m/js/nxog.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://o.nxog.top/m/js/mm.js"},
+    {"key": "益达济宁裁缝大叔","name": "🌝┃益达┃App","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://myd666.tv/lvdou_api.php/v1.vod"},
 
 
 
-    {"key": "js_555","name": "🌟┃爱爱┃济宁裁缝大叔","type": 3,"api": "http://o.nxog.top/m/js/nxog.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://o.nxog.top/m/js/aa.js"},
+    {"key": "js_555","name": "🌟┃三五┃济宁裁缝大叔","type": 3,"api": "./js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./libs/555.js"},
     {"key": "csp_FreeOK","name": "💰️┃Free┃影院","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./js/XBPQ.jar;md5;5C5116C70E15343433C8480C3B448408","ext": "./libs/free.json"},
     {"key": "csp_奇优","name": "🧼┃奇优┃影院","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./js/XBPQ.jar;md5;5C5116C70E15343433C8480C3B448408","ext": "./libs/奇优影院.json"},
     {"key": "49zy","name": "🦁┃四九┃资源","type": 1,"api": "https://49zy1.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["国产剧","纪录片","欧美剧","香港剧","动作片","爱情片","科幻片","恐怖片","剧情片","战争片","喜剧片","动画片","犯罪片","韩国剧","动漫","电影","大陆综艺","港台综艺","日韩综艺","欧美综艺","台湾剧","国产动漫","日本动漫","欧美动漫","泰国剧","日剧","电影解说","奇幻片","灾难片","悬疑片","其他片","体育赛事","海外剧"]},
