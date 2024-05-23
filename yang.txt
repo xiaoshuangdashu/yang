@@ -101,8 +101,7 @@
     {"key": "csp_Ysj","name": "🎀异界┃动漫","type": 3,"api": "csp_Ysj","searchable": 1,"quickSearch": 1,"changeable": 1 },
 
     {"key": "csp_Yj1211","name": "📽️网红┃直播","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"changeable": 1 },
-    {"key": "短视频","name": "📱┃网红┃美女","type": 3,"api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://gitee.com/stanlyshi/roas/raw/master/js/KOK%E5%BD%B1%E9%99%A2.js"
-    }
+    {"key": "短视频","name": "📱┃网红┃美女","type": 3,"api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://gitee.com/stanlyshi/roas/raw/master/js/KOK%E5%BD%B1%E9%99%A2.js"},
   ],
   "parses": [
     {"name": "聚合","type": 3,"url": "Demo" },
