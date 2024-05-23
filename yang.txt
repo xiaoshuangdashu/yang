@@ -100,8 +100,7 @@
     {"key": "csp_Ying","name": "💮樱花┃动漫","type": 3,"api": "csp_Ying","searchable": 1,"quickSearch": 1,"changeable": 1 },
     {"key": "csp_Ysj","name": "🎀异界┃动漫","type": 3,"api": "csp_Ysj","searchable": 1,"quickSearch": 1,"changeable": 1 },
 
-    {"key": "csp_Yj1211","name": "📽️网红┃直播","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"changeable": 1 },
-    {"key": "短视频","name": "📱┃网红┃美女","type": 3,"api":"http://o.nxog.top/m/js/nxog.js","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "http://o.nxog.top/m/js/aa.js"}
+    {"key": "csp_Yj1211","name": "📽️网红┃直播","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"changeable": 1 }
   ],
   "parses": [
     {"name": "聚合","type": 3,"url": "Demo" },
