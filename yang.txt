@@ -91,7 +91,7 @@
     {"key": "js_磁力熊","name": "🐻‍贝尔磁力┃Js","type": 3,"api": "./js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./libs/bear.js"},
     {"key": "js_酷吧","name": "😎酷吧磁力┃Js","type": 3,"api": "./js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/kuba.js"},
     {"key": "XYQH_电影港","name": "🛳┃港口┃磁力","type": 3,"playerType": 1,"api": "csp_XYQHiker","jar": "./js/duo.txt;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16","ext": "./libs/港口.json"},
-
+ { "key": "儿童", "name": "📚┃儿童┃启蒙", "type": 3, "api": "http://alist.xn--z7x900a.live/ddrpy2.m.js", "searchable": 0, "quickSearch": 0, "changeable": 0, "style": { "type": "rect", "ratio": 1.597 }, "ext": "http://alist.xn--z7x900a.live/兔小贝.js" }, { "key": "少儿", "name": "📚┃少儿┃教育", "type": 3, "api": "csp_Bili", "searchable": 0, "quickSearch": 0, "changeable": 0, "style": { "type": "rect", "ratio": 1.597 }, "ext": "http://alist.xn--z7x900a.live/少儿教育.json" }, { "key": "小学", "name": "📚┃小学┃课堂", "type": 3, "api": "csp_Bili", "searchable": 0, "quickSearch": 0, "changeable": 0, "style": { "type": "rect", "ratio": 1.597 }, "ext": "http://alist.xn--z7x900a.live/小学课堂.json" }, { "key": "初中", "name": "📚┃初中┃课堂", "type": 3, "api": "csp_Bili", "searchable": 0, "quickSearch": 0, "changeable": 0, "style": { "type": "rect", "ratio": 1.597 }, "ext": "http://alist.xn--z7x900a.live/初中课堂.json" }, { "key": "高中", "name": "📚┃高中┃课堂", "type": 3, "api": "csp_Bili", "searchable": 0, "quickSearch": 0, "changeable": 0, "style": { "type": "rect", "ratio": 1.597 }, "ext": "http://alist.xn--z7x900a.live/高中课堂.json" },
 
 
 
