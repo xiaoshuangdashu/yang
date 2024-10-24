@@ -1753,7 +1753,7 @@ CETV4,http://lovegfs.top:8000/udp/239.120.2.71:5141
 直播室19,http://lovegfs.top:8000/udp/239.120.1.202:9240
 直播室20,http://lovegfs.top:8000/udp/239.120.1.203:9246
 直播室21,http://lovegfs.top:8000/udp/239.120.1.204:9252
-上海电信,#genre#
+山东联通,#genre#
 
 
 1905电影国内,http://php.jdshipin.com:8880/1905.php?id=1905dy
@@ -2605,7 +2605,7 @@ V音乐,http://xubo0712.asuscomm.cn:9999/udp/239.93.0.157:2194
 直播室7，http://xubo0712.asuscomm.cn:9999/udp/239.93.1.186:5140
 直播室8，http://xubo0712.asuscomm.cn:9999/udp/239.93.1.187:5140
 直播室9,http://xubo0712.asuscomm.cn:9999/udp/239.93.0.97:5140
-裁缝济宁联通,#genre#
+裁缝济宁移动,#genre#
 
 1905国内电影，http://php.jdshipin.com:8880/1905.php?id=1905dy
 1905国外,http://php.jdshipin.com:8880/1905.php?id=1905dy2
