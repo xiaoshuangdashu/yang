@@ -1,4 +1,4 @@
-iHOT频道，#流派#
+iHOT频道,#genre#
 iHOT爱喜剧,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000032/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000 000 032&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 iHOT爱科幻,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000033/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000 000 033&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 iHOT爱院线,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000034/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=200000000400 000 0034&IASHttpSessionId=OTT19019320240419154124000281&阳- 1989年
@@ -17,20 +17,26 @@ iHOT 爱体育,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000
 
 
 裁缝大叔,#genre#
-凤凰资讯，https://dl.zhoujie218.top/new/fhx.php?id=fhzx
+凤凰资讯,https://dl.zhoujie218.top/new/fhx.php?id=fhzx
 凤凰中文,https://dl.zhoujie218.top/new/fhx.php?id=fhzw
 凤凰香港,https://dl.zhoujie218.top/new/fhx.php?id=fhhk
-TVB翡翠,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
-TVB星河,http://cdn9.1689.us.kg/smt1.1.php?id=Xinhe
+
 凤凰中文,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰香港,http://203.205.220.174:80/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰中文,https://stream1.freetv.fun/16bc0b847b4c0a5a1a8645fc01576a0a28d5d8667bad711c48e5d80d12d2d329.ctv
 凤凰资讯,https://stream1.freetv.fun/2a72335a63dd0749c5a32d1bf1b0c001a81a26cc81d7e94534791d36f2c87d7d.ctv
+凤凰中文,http://223.105.252.60/PLTV/3/224/3221228527/1.m3u8?icpid=3&from=1&hms_devid=6885
+凤凰中文,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu001-golive.flv
+凤凰资讯,http://223.105.252.60/PLTV/3/224/3221228524/1.m3u8?icpid=3&from=1&hms_devid=6885
+凤凰资讯,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu002-golive.flv
+凤凰香港,http://223.105.252.60/PLTV/3/224/3221228530/1.m3u8?icpid=3&from=1&hms_devid=6885
+凤凰香港,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu003-golive.flv
+
 凤凰电影,http://117.114.153.18:8180/TV00000000000000000072@HHZT
-CHC动作电影，http://www.cjtt.love:9307/udp/239.253.250.153:8000
-CHC电影，http://www.cjtt.love:9307/udp高清/239.253.250.154:8000
-CHC家庭影院，http://www.cjtt.love:9307/udp/239.253.250.152:8000
+CHC动作电影,http://www.cjtt.love:9307/udp/239.253.250.153:8000
+CHC高清电影,http://www.cjtt.love:9307/udp/239.253.250.154:8000
+CHC家庭影院,http://www.cjtt.love:9307/udp/239.253.250.152:8000
 
 
 湖南都市,http://phonetx.qing.mgtv.com/live/0.0&/HNDSMPP360.m3u8
@@ -65,7 +71,8 @@ TVBS新闻台EN,http://61.221.215.25:8800/hls/9/index.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 济宁综合,http://lives.jnnews.tv/video/s10001-JNTV-1/index.m3u8?shandd
 济宁公共,http://lives.jnnews.tv/video/s10001-JNTV3/index.m3u8?shandd
-
+TVB翡翠,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
+TVB星河,http://cdn9.1689.us.kg/smt1.1.php?id=Xinhe
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
 
 无线新闻频道，http://grandprix2023.asuscomm.com:8892/bysid/83
