@@ -1,15 +1,15 @@
 
 
 💝咪咕频道👉全网,#genre#
-鳳凰衛視·中文,https://tv.iill.top/IPTV/fhzw
-鳳凰衛視·資訊,https://tv.iill.top/IPTV/fhzx
-翡翠台,https://tv.iill.top/IPTV/fc
-無綫新聞台,https://tv.iill.top/IPTV/wx
-美亞電影台,https://tv.iill.top/IPTV/my
-PopC,https://tv.iill.top/IPTV/popc
-ROCK Action,https://tv.iill.top/IPTV/ra
-CNN,https://tv.iill.top/IPTV/cnn
-TVB 星河台,https://tv.iill.top/IPTV/xh
+CHC动作电影,http://www.cjtt.love:9307/udp/239.253.250.153:8000
+CHC高清电影,http://www.cjtt.love:9307/udp/239.253.250.154:8000
+CHC家庭影院,http://www.cjtt.love:9307/udp/239.253.250.152:8000
+凤凰中文,http://dns.yiandrive.com:16813/phenix/fhzw
+凤凰资讯,http://dns.yiandrive.com:16813/phenix/fhzx
+凤凰香港,http://dns.yiandrive.com:16813/phenix/fhhk
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+
 CCTV1,http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000001
 CCTV1,http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000501
 CCTV2,http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000502
