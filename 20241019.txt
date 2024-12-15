@@ -3327,10 +3327,6 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 
 IPTV频道,#genre#
 
-凤凰资讯,http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰中文,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰香港,http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
-
 
 优漫卡通,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
 哈哈炫动,http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
@@ -4924,11 +4920,11 @@ CETV-4,http://39.134.144.6:8089/PLTV/88888888/224/3221226199/index.m3u8
 好莱坞大片1,http://zby.xjqxz.top/hlwdy1/live.m3u8
 中外经典喜剧轮播,http://zby.xjqxz.top/live13/live.m3u8
 抗战专用频道,http://zby.xjqxz.top/kzzypd/live.m3u8
-谍战专用频道,http://zby.xjqxz.top/dzzypd/live.m3u8
-谍战专用频道2,http://zby.xjqxz.top/dzzypd2/live.m3u8
-谍战专用频道3,http://zby.xjqxz.top/dzzypd3/live.m3u8
-谍战专用频道4,http://zby.xjqxz.top/dzzypd4/live.m3u8
-谍战专用频道5,http://zby.xjqxz.top/dzzypd5/live.m3u8
+焦点战专用频道,http://zby.xjqxz.top/dzzypd/live.m3u8
+焦点战专用频道2,http://zby.xjqxz.top/dzzypd2/live.m3u8
+焦点战专用频道3,http://zby.xjqxz.top/dzzypd3/live.m3u8
+焦点战专用频道4,http://zby.xjqxz.top/dzzypd4/live.m3u8
+焦点战专用频道5,http://zby.xjqxz.top/dzzypd5/live.m3u8
 古装武侠剧,http://zby.xjqxz.top/gzwxj/live.m3u8
 古装电视剧1,http://zby.xjqxz.top/gzdsj1/live.m3u8
 古装电视剧2,http://zby.xjqxz.top/gzdsj2/live.m3u8
@@ -4937,93 +4933,10 @@ CETV-4,http://39.134.144.6:8089/PLTV/88888888/224/3221226199/index.m3u8
 古装电视剧5,http://zby.xjqxz.top/gzdsj5/live.m3u8
 都市电视剧1,http://zby.xjqxz.top/dsdsj1/live.m3u8
 都市电视剧2,http://zby.xjqxz.top/dsdsj2/live.m3u8
-都市电视剧3,http://zby.xjqxz.top/dsdsj3/live.m3u8
-破案警匪,http://zby.xjqxz.top/pajf/live.m3u8
-寻情记,http://zby.xjqxz.top/xqj/live.m3u8
-电影_星爷,http://cfss.cc/cdn/hy/11342412.flv
-电影_英叔,http://cfss.cc/cdn/hy/11342421.flv
-电影_发哥,http://cfss.cc/cdn/hy/11342387.flv
-电影_成龙,http://cfss.cc/cdn/hy/11342386.flv
-电影_王晶,http://cfss.cc/cdn/hy/11602058.flv
-电影_沈腾,http://cfss.cc/cdn/hy/11601968.flv
-电影_黄渤,http://cfss.cc/cdn/hy/11352876.flv
-电影_强森,http://cfss.cc/cdn/hy/21059581.flv
-电影_漫威,http://cfss.cc/cdn/hy/11602034.flv
-许冠英,http://cfss.cc/cdn/hy/11601972.flv
-五福星,http://cfss.cc/cdn/hy/11282233.flv
-邱淑贞,http://cfss.cc/cdn/hy/11352949.flv
-古天乐,http://cfss.cc/cdn/hy/11602041.flv
-徐克,http://cfss.cc/cdn/hy/11352909.flv
-冯小刚,http://cfss.cc/cdn/hy/11352906.flv
-甄子丹,http://cfss.cc/cdn/hy/11352935.flv
-电影_周星星,http://cfss.cc/cdn/hy/11336587.flv
-电影_李连杰,http://cfss.cc/cdn/hy/11342390.flv
-电影_洪金宝,http://cfss.cc/cdn/hy/11279251.flv
-电影_梁家辉,http://cfss.cc/cdn/hy/11342429.flv
-电影_刘德华,http://cfss.cc/cdn/hy/11342424.flv
-电影_曾江,http://cfss.cc/cdn/hy/11601981.flv
-电影_周海媚,http://cfss.cc/cdn/hy/11279247.flv
-电影_宇宙,http://cfss.cc/cdn/hy/11342428.flv
-电影_怪兽,http://cfss.cc/cdn/hy/21059577.flv
-电影_武侠,http://cfss.cc/cdn/hy/11342427.flv
-电影_警匪,http://cfss.cc/cdn/hy/11352886.flv
-电影_罪犯,http://cfss.cc/cdn/hy/11352962.flv
-电影_枪战,http://cfss.cc/cdn/hy/21059579.flv
-电影_海盗,http://cfss.cc/cdn/hy/21059595.flv
-电影_推荐,http://cfss.cc/cdn/hy/11602041.flv
-电影_救援,http://cfss.cc/cdn/hy/21059594.flv
-电影_热血,http://cfss.cc/cdn/hy/11352934.flv
-电影_盗墓,http://cfss.cc/cdn/hy/21059552.flv
-电影_贺岁,http://cfss.cc/cdn/hy/11601971.flv
-电影_玄幻,http://cfss.cc/cdn/hy/11342414.flv
-电影_谍战,http://cfss.cc/cdn/hy/21059585.flv
-电影_战争,http://cfss.cc/cdn/hy/21059592.flv
-电影_喜剧,http://cfss.cc/cdn/hy/11352877.flv
-电影_港片,http://cfss.cc/cdn/hy/11602043.flv
-电影_国产,http://cfss.cc/cdn/hy/11352973.flv
-电影_八点档,http://cfss.cc/cdn/hy/880261.flv
-电影_超异能族,http://cfss.cc/cdn/hy/21059586.flv
-电影_古墓系列,http://cfss.cc/cdn/hy/11352913.flv
-电影_蜘蛛侠,http://cfss.cc/cdn/hy/21059599.flv
-电影_贺岁片,http://cfss.cc/cdn/hy/11601986.flv
-电影_功夫片,http://cfss.cc/cdn/hy/11352941.flv
-电影_黑帮片,http://cfss.cc/cdn/hy/11336719.flv
-电影_丧尸片,http://cfss.cc/cdn/hy//21059578.flv
-电影_灾难片,http://cfss.cc/cdn/hy/11602075.flv
-电影_谍战片,http://cfss.cc/cdn/hy/21059587.flv
-电影_战争片,http://cfss.cc/cdn/hy/21059574.flv
-电影_犯罪片,http://cfss.cc/cdn/hy/11352974.flv
-电影_古装片,http://cfss.cc/cdn/hy/11336590.flv
-电影_高分动作,http://cfss.cc/cdn/hy/11352884.flv
-电影_动作电影,http://cfss.cc/cdn/hy/11602077.flv
-电影_搞笑喜剧,http://cfss.cc/cdn/hy/11342423.flv
-电影_喜剧专场,http://cfss.cc/cdn/hy/11602044.flv
-电影_欢笑影院,http://cfss.cc/cdn/hy/11352894.flv
-电影_不挤影院,http://cfss.cc/cdn/hy/11352897.flv
-电影_国产悬疑,http://cfss.cc/cdn/hy/11342395.flv
-电影_快意江湖,http://cfss.cc/cdn/hy/11342435.flv
-电影_黑帮斗争,http://cfss.cc/cdn/hy/11342419.flv
-电影_嫣然影厅,http://cfss.cc/cdn/hy/11601977.flv
-电影_许氏三杰,http://cfss.cc/cdn/hy/11602033.flv
-电影_经典港片,http://cfss.cc/cdn/hy/11352965.flv
-电影_镖行天下,http://cfss.cc/cdn/hy/11352969.flv
-电影_喜乐影院,http://cfss.cc/cdn/hy/21059580.flv
-电影_蘑菇影厅,http://cfss.cc/cdn/hy/11601981.flv
-电影_搞笑恐怖,http://cfss.cc/cdn/hy/11601960.flv
-电影_死神来了,http://cfss.cc/cdn/hy/11352903.flv
-电影_变形金刚,http://cfss.cc/cdn/hy/21059596.flv
-电影_怪兽系列,http://cfss.cc/cdn/hy/21059554.flv
-剧集_老三国,http://cfss.cc/cdn/hy/11602081.flv
-剧集_新三国,http://cfss.cc/cdn/hy/11352944.flv
-剧集_新水浒,http://cfss.cc/cdn/hy/11342384.flv
-剧集_纪晓岚,http://cfss.cc/cdn/hy/11342396.flv
-剧集_庆余年,http://cfss.cc/cdn/hy/11352960.flv
-剧集_雍正王朝,http://cfss.cc/cdn/hy/11342439.flv
-剧集_士兵突击,http://cfss.cc/cdn/hy/11342430.flv
-剧集_爱情公寓,http://cfss.cc/cdn/hy/11336726.flv
-剧集_武林外传,http://cfss.cc/cdn/hy/21059598.flv
-剧集_地下交通站,http://cfss.cc/cdn/hy/11342433.flv
-剧集_邻里一家亲,http://cfss.cc/cdn/hy/11342426.flv
+电视剧都市3,http://zby.xjqxz.top/dsdsj3/live.m3u8
+破警案匪,http://zby.xjqxz.top/pajf/live.m3u8
+
+
 007全集轮播,http://zby.xjqxz.top/live5/live.m3u8
 碟中碟全集轮播,http://zby.xjqxz.top/live6/live.m3u8
 哈利·波特全集轮播,http://zby.xjqxz.top/live7/live.m3u8
@@ -5069,11 +4982,11 @@ CETV-4,http://39.134.144.6:8089/PLTV/88888888/224/3221226199/index.m3u8
 好莱坞大片1,http://zby.xjqxz.top/hlwdy1/live.m3u8
 中外经典喜剧轮播,http://zby.xjqxz.top/live13/live.m3u8
 抗战专用频道,http://zby.xjqxz.top/kzzypd/live.m3u8
-谍战专用频道,http://zby.xjqxz.top/dzzypd/live.m3u8
-谍战专用频道2,http://zby.xjqxz.top/dzzypd2/live.m3u8
-谍战专用频道3,http://zby.xjqxz.top/dzzypd3/live.m3u8
-谍战专用频道4,http://zby.xjqxz.top/dzzypd4/live.m3u8
-谍战专用频道5,http://zby.xjqxz.top/dzzypd5/live.m3u8
+焦点战专用频道,http://zby.xjqxz.top/dzzypd/live.m3u8
+焦点战专用频道2,http://zby.xjqxz.top/dzzypd2/live.m3u8
+焦点战专用频道3,http://zby.xjqxz.top/dzzypd3/live.m3u8
+焦点战专用频道4,http://zby.xjqxz.top/dzzypd4/live.m3u8
+焦点战专用频道5,http://zby.xjqxz.top/dzzypd5/live.m3u8
 古装武侠剧,http://zby.xjqxz.top/gzwxj/live.m3u8
 古装电视剧1,http://zby.xjqxz.top/gzdsj1/live.m3u8
 古装电视剧2,http://zby.xjqxz.top/gzdsj2/live.m3u8
@@ -5082,8 +4995,8 @@ CETV-4,http://39.134.144.6:8089/PLTV/88888888/224/3221226199/index.m3u8
 古装电视剧5,http://zby.xjqxz.top/gzdsj5/live.m3u8
 都市电视剧1,http://zby.xjqxz.top/dsdsj1/live.m3u8
 都市电视剧2,http://zby.xjqxz.top/dsdsj2/live.m3u8
-都市电视剧3,http://zby.xjqxz.top/dsdsj3/live.m3u8
-破案警匪,http://zby.xjqxz.top/pajf/live.m3u8
+电视剧都市3,http://zby.xjqxz.top/dsdsj3/live.m3u8
+破警案匪,http://zby.xjqxz.top/pajf/live.m3u8
 寻情记,http://zby.xjqxz.top/xqj/live.m3u8
 今日说法,http://zby.xjqxz.top/jrsf/live.m3u8
 法治在线,http://zby.xjqxz.top/fzzx/live.m3u8
@@ -5428,20 +5341,20 @@ yy小品3,http://11.xmyxc.cn/api/php/yy.php?id=1354936198
 雍正王朝,https://live.metshop.top/huya/11342439?cdn=txcdn
 封神榜陈浩民版,https://live.metshop.top/huya/23749096?cdn=txcdn
 少年张三丰,https://live.metshop.top/huya/26355824?cdn=txcdn
-倚天屠龙记,https://live.metshop.top/huya/11342403?cdn=txcdn
-花千骨,https://live.metshop.top/huya/26355839?cdn=txcdn
+倚天屠龙记，https://live.metshop.top/huya/11342403?cdn=txcdn
+花千骨，https://live.metshop.top/huya/26355839?cdn=txcdn
 延禧攻略,https://live.metshop.top/huya/26355864?cdn=txcdn
-爱情公寓,https://live.metshop.top/huya/11336726?cdn=txcdn
-邻里一家亲,https://live.metshop.top/huya/11342426?cdn=txcdn
+爱情公寓，https://live.metshop.top/huya/11336726?cdn=txcdn
+邻里一家亲，https://live.metshop.top/huya/11342426?cdn=txcdn
 鬼吹灯之云南虫谷,https://live.metshop.top/huya/11352898?cdn=txcdn
-鬼吹灯之南海归墟,https://live.metshop.top/huya/11352883?cdn=txcdn
-鉴证实录,https://live.metshop.top/huya/23903183?cdn=txcdn
-陀枪师姐,https://live.metshop.top/huya/23860039?cdn=txcdn
-创世纪,https://live.metshop.top/huya/23749083?cdn=txcdn
-💻港澳台,#genre#
+鬼灯吹之南海归墟,https://live.metshop.top/huya/11352883?cdn=txcdn
+鉴证录，https://live.metshop.top/huya/23903183?cdn=txcdn
+陀枪师姐，https://live.metshop.top/huya/23860039?cdn=txcdn
+创世纪，https://live.metshop.top/huya/23749083?cdn=txcdn
+港澳台,#流派#
 凤凰香港,http://avd.iptviptv.site:9694/hls/730/index.m3u8
 凤凰中文,http://avd.iptviptv.site:9694/hls/731/index.m3u8
-凤凰资询,http://avd.iptviptv.site:9694/hls/732/index.m3u8
+凤凰资询，http://avd.iptviptv.site:9694/hls/732/index.m3u8
 重温经典,http://avd.iptviptv.site:9694/hls/716/index.m3u8
 新视觉,http://avd.iptviptv.site:9694/hls/717/index.m3u8
 劲爆体育,http://avd.iptviptv.site:9694/hls/718/index.m3u8
@@ -5452,20 +5365,20 @@ yy小品3,http://11.xmyxc.cn/api/php/yy.php?id=1354936198
 翡翠台(原版),http://avd.iptviptv.site:9694/hls/98/index.m3u8
 千禧经典台,http://avd.iptviptv.site:9694/hls/901/index.m3u8
 翡翠台4k,http://avd.iptviptv.site:9694/hls/902/index.m3u8
-Animax,http://avd.iptviptv.site:9694/hls/903/index.m3u8
+动画，http://avd.iptviptv.site:9694/hls/903/index.m3u8
 美亚电影台,http://avd.iptviptv.site:9694/hls/904/index.m3u8
 TVB PLUS,http://avd.iptviptv.site:9694/hls/905/index.m3u8
-无线新闻台,http://avd.iptviptv.site:9694/hls/906/index.m3u8
-天映經典頻道,http://avd.iptviptv.site:9694/hls/914/index.m3u8
-黃金翡翠台,http://avd.iptviptv.site:9694/hls/916/index.m3u8
-TVBSNEWS,http://61.221.215.25:8800/hls/9/index.m3u8
+无线新闻台，http://avd.iptviptv.site:9694/hls/906/index.m3u8
+天映经典频道,http://avd.iptviptv.site:9694/hls/914/index.m3u8
+黄金翡翠台,http://avd.iptviptv.site:9694/hls/916/index.m3u8
+TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 八大戏剧台,http://61.221.215.25:8800/hls/39/index.m3u8
 八大第1台,http://61.221.215.25:8800/hls/55/index.m3u8
 八大综合台,http://61.221.215.25:8800/hls/56/index.m3u8
 纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
 三立戏剧台,http://61.221.215.25:8800/hls/41/index.m3u8
 AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
-TVBSNEWS,http://61.221.215.25:8800/hls/9/index.m3u8
+TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 八大戏剧台,http://61.221.215.25:8800/hls/39/index.m3u8
 八大第1台,http://61.221.215.25:8800/hls/55/index.m3u8
 八大综合台,http://61.221.215.25:8800/hls/56/index.m3u8
@@ -5474,16 +5387,16 @@ TVBSNEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 HKS卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-時尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
-人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
-人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
-大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+时尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
+人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
+人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+大立电视台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
-唯心電視,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
+唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 
-海外剧场,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
+海外播放,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
 
 
 HKS卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
@@ -5494,7 +5407,7 @@ HKS卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1 bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 台视,http://116.93.98.236:8080/sat/tv071.flv
