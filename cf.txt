@@ -1,5 +1,5 @@
 ﻿{
-  "spider": "https://d.kstore.dev/download/8240/spider+%284%29.jar",
+  "spider": "https://gitee.com/yanglongxiang/xs/raw/master/spider.jar",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
