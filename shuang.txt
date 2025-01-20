@@ -89,6 +89,8 @@ APP"},
    "type": 3,
    "api": "https://gitee.com/uncle-jining-tailor/ip/raw/master/live2vod.js","searchable": 0,"quickSearch": 1,"filterable": 0,
    "ext": "https://gitee.com/uncle-jining-tailor/ip/raw/master/live.json"},
+ {"key":"lf_js_lf_live","name":"🇨🇳┃电视┃直播3","type":3,"api":"https://gh.llkk.cc/https://github.com/sintrs/tvbox/blob/master/lib/lf_live_min.js","style":{ "type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"https://d.kstore.dev/download/8240/m3u%E8%AE%A2%E9%98%85.txt"},
+ 
   {"key":"drpy_js_好趣网",
   "name":"电视┃好趣网[js]",
   "type":3,
@@ -107,6 +109,49 @@ APP"},
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
+    },
+  
+   
+   
+  {
+            "key": " 菜狗.js",
+            "name": " 🇨🇳┃菜狗js",
+            "type": 3,
+            "api": "https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
+            
+            "ext": "https://gitee.com/dentist_chen/tvbox/raw/panroda/Js/%E8%8F%9C%E7%8B%97.js"},
+     
+  {
+ "key":"移动云盘",
+ "name":"🇨🇳移动｜影视",
+ "type":3,
+ "jar":"https://700sjro44343.vicp.fun/vip/jar/ouge.php",
+ "api":"csp_YDjisu",
+ "searchable":1,
+ "changeable":1
+ },
+   {
+      "key": "浪酷",
+      "name": "🇨🇳┃浪酷┃蓝光",
+      "type": 3,
+      "api": "csp_TianTian",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/Pizazz.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true,
+        "site": "aHR0cDovL3YubGt1eXMuY24="
+      }
+    },
+    {
+      "key": "蝴蝶",
+      "name": "🇨🇳┃蝴蝶┃蓝光",
+      "type": 3,
+      "api": "csp_Hudie",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/Pizazz.php",
+      "playerType": 2,
+      "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
     },
   {"key":"csp_hmhd",
 "name":"🎃河马┃济宁裁缝大叔",
