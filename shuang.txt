@@ -111,7 +111,52 @@ APP"},
       "filterable": 0
     },
   
-   
+    { "key": "西瓜视频",
+ "name": "🇨🇳┃西瓜短视频app",
+ "type": 3,
+ "jar": "https://git.acwing.com/shhentu/lzxw/-/raw/main/lzxw.php",
+ "api": "csp_AmuXiguaV2",
+ "searchable": 1,
+ "quickSearch": 0,
+ "filterable": 0,
+ "changeable": 0,
+ "style": {
+     "type": "rect",
+     "ratio": 1.597
+ }
+        },
+        
+        
+{"key": "全网影视",
+ "name": "🇨🇳┃神荼蓝光影视",
+ "type": 3,
+ "jar": "https://git.acwing.com/shhentu/lzxw/-/raw/main/lzxw.php",
+ "api": "csp_Quanwk",
+ "searchable": 1,
+ "quickSearch": 1,
+ "filterable": 1,
+ "ext": "https://www.91qkw.com"
+        },
+   {
+ "key": "華為8","name": "🇨🇳┃hw蓝光秒播",
+"type": 3,
+"api": "csp_XBPQ",
+"playUrl": "https://player.dphw8.com/player?url=",
+"ext": "https://d.kstore.dev/download/8240/huawei8.json"
+        },
+
+  {
+            "key": "南瓜弹幕",
+            "name": "🇨🇳南瓜┃蓝光秒播",
+            "jar": "http://cdn.qiaoji8.com/fix250108.jar",
+            "type": 3,
+           "api": "csp_NanGua",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": 1,
+      "filterable": 1,
+      "ext": ""   },
+     
    
   {
             "key": " 菜狗.js",
