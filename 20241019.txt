@@ -238,7 +238,7 @@ CCTV4,http://39.135.133.136/PLTV/88888888/224/3221226092/1.m3u8
 CCTV4,http://39.134.65.175/PLTV/88888888/224/3221225797/1.m3u8
 CCTV4,http://111.29.9.44:6610/000000001000/1000000002000031664/index.m3u8?channel-id=ystenlive&Contentid=1000000002000031664&livemode=1&stbId=3
 CCTV4,http://cntv.dfkj.live/bestv.php?id=cctv4hd8m/8000000
-CCTV4K,http://cntv.dfkj.live/bestv.php?id=cctv4k/15000000
+
 CCTV5,https://stream1.freetv.fun/ipv6-cctv-5-12.m3u8
 CCTV5,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 CCTV5,http://cntv.dfkj.live/bestv.php?id=cctv58m/8000000
