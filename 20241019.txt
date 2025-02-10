@@ -1,5 +1,23 @@
 
 AKTV,#genre#
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰中文,http://cdn.132.us.kg/live/fhzw/stream.m3u8
+1905Z,http://8.134.236.66:45678/simon/dl/1905.php?id=1905a
+1905W,http://8.134.236.66:45678/simon/dl/1905.php?id=1905b
+1905电影Z,https://tv.myukj.cn/1905.php?id=1905a
+1905电影W,https://tv.myukj.cn/1905.php?id=1905b
+
+1905Z,http://8.134.236.66:45678/simon/dl/1905.php?id=1905a
+1905W,http://8.134.236.66:45678/simon/dl/1905.php?id=1905b
+1905环球经典,http://php.jdshipin.com:8880/1905.php?id=1905dy2
+1905极限反转,http://php.jdshipin.com:8880/1905.php?id=1905dy
+凤凰中文,http://35s34p3903.zicp.vip:6688/udp/239.93.0.162:2192
+凤凰中文,http://35s34p3903.zicp.vip:6688/udp/239.93.1.9:2192
+凤凰资讯,http://35s34p3903.zicp.vip:6688/udp/239.93.0.118:2191
+凤凰资讯,http://35s34p3903.zicp.vip:6688/udp/239.93.1.4:2191
 凤凰中文,http://ali.hlspull.yximgs.com/live/huanqiuhklivetvjjpcpvuejljydjjyfjoxvchjwhjwdojjjhjjlsjhbjfhjw.flv
 凤凰香港,http://l8221706.us.kg/fhx.php?id=fhhk
 凤凰香港,http://extraott.com:80/live/6772191932/1654508883/473557.m3u8
@@ -834,9 +852,16 @@ X战警电影,http://zzy789.xyz/douyu1.php?id=9651304
 欧美影院,http://api3.52tb.xyz/info?id=183&token=20230227aesvnb
 强森电影,http://1.94.31.214:35455/huya/21059581
 
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰中文,http://cdn.132.us.kg/live/fhzw/stream.m3u8
+1905Z,http://8.134.236.66:45678/simon/dl/1905.php?id=1905a
+1905W,http://8.134.236.66:45678/simon/dl/1905.php?id=1905b
+1905电影Z,https://tv.myukj.cn/1905.php?id=1905a
+1905电影W,https://tv.myukj.cn/1905.php?id=1905b
 
-1905,http://8.134.236.66:45678/simon/dl/1905.php?id=1905a
-1905,http://8.134.236.66:45678/simon/dl/1905.php?id=1905b
+1905Z,http://8.134.236.66:45678/simon/dl/1905.php?id=1905a
+1905W,http://8.134.236.66:45678/simon/dl/1905.php?id=1905b
 1905环球经典,http://php.jdshipin.com:8880/1905.php?id=1905dy2
 1905极限反转,http://php.jdshipin.com:8880/1905.php?id=1905dy
 AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
@@ -865,6 +890,8 @@ amc最爱电影h,https://stream1.freetv.fun/364e21133ea43460bcc895be1f7ea000065d
 军旅剧场,http://111.29.9.34:6410/200000001898/460000089800010079/1.m3u8?IASHttpSessionId=007
 济宁移动,#genre#
 快手号,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+快手号,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+济宁裁缝,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 快手号,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 济宁裁缝,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 
