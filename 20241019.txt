@@ -427,8 +427,7 @@ AKTV,#genre#
 1905W,http://8.134.236.66:45678/simon/dl/1905.php?id=1905b
 1905电影Z,https://tv.myukj.cn/1905.php?id=1905a
 1905电影W,https://tv.myukj.cn/1905.php?id=1905b
-欢乐颂电视剧,http://wab201.win:35455/douyu/3756989
-好先生电视剧,http://wab201.win:35455/douyu/9650792
+
 我的前半生剧,http://wab201.win:35455/yy/1382735564
 伪装者电视剧,http://wab201.win:35455/yy/1354936244
 
