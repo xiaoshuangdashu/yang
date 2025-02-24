@@ -1,4 +1,7 @@
 动态酒店电视源,#genre#
+凤凰中文,http://dns.yiandrive.com:15907/phenix/fhzw
+凤凰资讯,http://43.129.81.169/qctv.fengshows.cn/live/0701pin72.flv
+
 凤凰香港,http://43.129.81.169/qctv.fengshows.cn/live/0701phk72.flv
 凤凰中文,http://122.117.71.103:8574/http/61.222.53.250:8078/hls/21/80/phoenixch.m3u8
 凤凰中文,http://43.129.81.169/qctv.fengshows.cn/live/0701pcc72.flv
@@ -609,6 +612,8 @@ CCTV-17,http://ttkx.cc:1380/公5558/mg9.php?id=cctv17
 北京卫视,http://ct.370829.xyz:35455/itv/1000000001000021288.m3u8?cdn=ystenlive
 
 AKTV,#genre#
+凤凰中文,http://dns.yiandrive.com:15907/phenix/fhzw
+凤凰资讯,http://43.129.81.169/qctv.fengshows.cn/live/0701pin72.flv
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
