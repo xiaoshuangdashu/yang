@@ -2271,7 +2271,7 @@ Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36#Referer$https://m.cfkj86.co
       "key": "meowtv_nmys",
       "name": "🌾┃农民┃影视",
       "type": 3,
-      "api": "https://gitee.com/uncle-jining-tailor/ip/raw/master/jp.js",
+      "api": "https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -2281,28 +2281,28 @@ Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36#Referer$https://m.cfkj86.co
       "key": "drpy_js_555电影",
       "name": "5️⃣┃555┃[js]",
       "type": 3,
-      "api": "https://gitee.com/uncle-jining-tailor/ip/raw/master/js/drpy2.min.js",
+      "api": "https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
       "ext": "http://ztha.top/catjs/JS/js/555电影.js"
     },
     {
       "key": "drpy_js_碟调影视",
       "name": "⚡️┃碟调┃[js]",
       "type": 3,
-      "api": "https://gitee.com/uncle-jining-tailor/ip/raw/master/jp.js",
+      "api": "https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
       "ext": "http://ztha.top/catjs/JS/js/碟调影视.js"
     },
     {
       "key": "drpy_js_私人影院",
       "name": "🎪┃私人┃[js]",
       "type": 3,
-      "api": "http://ztha.top/catjs/JS/lib/drpy2.min.js",
+      "api": "https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
       "ext": "http://ztha.top/catjs/JS/js/私人影院.js"
     },
     {
       "key": "drpy_js_人人影视",
       "name": "👫┃人人┃[js]",
       "type": 3,
-      "api": "http://ztha.top/catjs/JS/lib/drpy2.min.js",
+      "api": "https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
       "ext": "http://ztha.top/catjs/JS/js/人人影视.js"
     },
     {
