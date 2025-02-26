@@ -115,7 +115,105 @@
 			"api": "csp_AppDrama",
 			"ext": "dZyf/FE+KyNozU1BJTipIlQwV9Exzgodak8HaPQS3+zONEYCA2iEg3LraoCo2u5+6rn3VmrCG6H/XvFKSMzGrev5JV2DZOVsAQxLXRNRbxFUFKM1SEJpngJgi7Fj/n1DfJU3XaJt/aV+5tEC4C+/K7Bx/k1Kz08b1iyW0f8Ghf/NH5BnTsoFeiXrPUjRIyi1oIQh1RUF0aQHwI/DPqGAMHE+KK9efsb7FTDKW7TXastSWVcfpizheTXfXFdRtX+qjWkii8PMPPizDUAlTR3Ptg=="
 		},
+   {
+      "key": "meowtv_nmys",
+      "name": "🌾┃农民┃影视",
+      "type": 3,
+      "api": "https://gitee.com/uncle-jining-tailor/ip/raw/master/jp.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/zxj/zxj/-/raw/main/js/农民.js"
+    },
+    {
+      "key": "drpy_js_555电影",
+      "name": "5️⃣┃555┃[js]",
+      "type": 3,
+      "api": "https://gitee.com/uncle-jining-tailor/ip/raw/master/js/drpy2.min.js",
+      "ext": "http://ztha.top/catjs/JS/js/555电影.js"
+    },
+    {
+      "key": "drpy_js_碟调影视",
+      "name": "⚡️┃碟调┃[js]",
+      "type": 3,
+      "api": "https://gitee.com/uncle-jining-tailor/ip/raw/master/jp.js",
+      "ext": "http://ztha.top/catjs/JS/js/碟调影视.js"
+    },
+    {
+      "key": "drpy_js_私人影院",
+      "name": "🎪┃私人┃[js]",
+      "type": 3,
+      "api": "http://ztha.top/catjs/JS/lib/drpy2.min.js",
+      "ext": "http://ztha.top/catjs/JS/js/私人影院.js"
+    },
+    {
+      "key": "drpy_js_人人影视",
+      "name": "👫┃人人┃[js]",
+      "type": 3,
+      "api": "http://ztha.top/catjs/JS/lib/drpy2.min.js",
+      "ext": "http://ztha.top/catjs/JS/js/人人影视.js"
+    },
+    {
+      "key": "js_changmeng",
+      "name": "💤┃畅梦┃影视",
+      "type": 3,
+      "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/xyh1/zxj/-/raw/main/js/畅梦.js"
+    },
+    {
+      "key": "drpy_js_网飞.TV",
+      "name": "🥇┃网飞.┃[js]",
+      "type": 3,
+      "api": "http://ztha.top/catjs/JS/lib/drpy2.min.js",
+      "ext": "http://ztha.top/catjs/JS/js/网飞.TV.js"
+    },
    
+    {
+      "key": "橙汁影院",
+      "name": "💕┃橙汁┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gitee.com/yanglongxiang/xs/raw/master/spider.jar",
+      "ext": {
+        "简介": "line-height: 20px;\">&&</p >",
+        "线路数组": "module-tab-item tab-item&&</div>",
+        "线路标题": "<span>&&</span>",
+        "跳转播放链接": "https://p.orangek.org/player/ec.php?code=qw&if=1&url=+var player_*\"url\":\"&&\"",
+        "分类url": "https://www.ork.ink/show/{cateId}--{by}-{class}-----{catePg}---{year}.html",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#纪录片$5#体育$35"
+      }
+    },
+    {
+      "key": "妲己",
+      "name": "💕┃妲己┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gitee.com/yanglongxiang/xs/raw/master/spider.jar",
+      "ext": {
+        "分类url": "https://www.ksksl.com/show/{cateId}/area/{area}/by/{by}/page/{catePg}.html",
+        "分类": "育华学堂电影&电视剧&综艺&动漫&记录",
+        "分类值": "dy&tv&zy&dm&jl",
+        "公众号：育华学堂": ""
+      }
+    },
+    {
+      "key": "金鹰🏮蓝光",
+      "name": "金鹰🏮蓝光",
+      "type": 1,
+      "api": "https://jyzyapi.com/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1
+    },
     {
             "key": "1905",
             "name": "🇨🇳┃1905经典影视",
