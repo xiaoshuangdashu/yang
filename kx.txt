@@ -669,9 +669,6 @@
     {"name": "nm","hosts": [  "toutiaovod.com"],"regex": [  "video/tos/cn"] },
     {"name": "cl","hosts": [  "magnet"],"regex": [  "最 新",  "直 播",  "更 新"]
     }
-  ],
-  "lives": [
-    {"name": "live","type": 0,"url": "https://d.kstore.dev/download/8240/1107.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"
-    }
   ]
+ 
 }
