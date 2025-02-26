@@ -1,86 +1,5 @@
 { "spider": "https://gitee.com/yanglongxiang/xs/raw/master/spider.jar","wallpaper": "https://gitee.com/uncle-jining-tailor/ip/raw/master/QQ%E5%9B%BE%E7%89%8720240926223520.png", "logo":"https://gitee.com/uncle-jining-tailor/ip/raw/master/%E8%A3%81%E7%BC%9D%E5%A4%A7%E5%8F%94.gif", 
-  "lives": [
-    {
-      "name": "电视直播",
-      "type": 0,
-      "url": "https://d.kstore.dev/download/8240/1107.txt",
-      "playerType": 2
-    },
-    {
-      "name": "live-1",
-      "type": 0,
-      "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/xiaoshuangdashu/yang/refs/heads/main/20241019.txt",
-      "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
-      "timeout": 10,
-      "catchup": {
-        "days": "7",
-        "type": "append",
-        "regex": "/PLTV/",
-        "source": "?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-      }
-    },
-    {
-      "name": "live-2",
-      "type": 0,
-      "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/SPX372928/MyIPTV/refs/heads/master/%E5%B1%B1%E4%B8%9CSNM%E7%A7%BB%E5%8A%A8CDN%E7%89%88.txt",
-      "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
-      "timeout": 10,
-      "catchup": {
-        "days": "7",
-        "type": "append",
-        "regex": "/PLTV/",
-        "source": "?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-      }
-    },
-     {
-      "name": "电影联播",
-      "type": 0,
-      "url": "https://d.kstore.dev/download/7202/Ironmanlive_theater.txt",
-      "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
-      "timeout": 10,
-      "catchup": {
-        "days": "7",
-        "type": "append",
-        "regex": "/PLTV/",
-        "source": "?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-      }
-    },
-    {
-      "name": "加密",
-      "type": 3,
-      "api": "csp_Smart",
-      "ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/xiaoshuangdashu/yang/refs/heads/main/%E7%BB%BC%E5%90%88.txt"
-    },
-   
-    {
-      "name": "fanmingming",
-      "type": 0,
-      "url": "https://jihulab.com/zxj/zxj/-/raw/main/txt/live.txt",
-      "playerType": 1,
-      "timeout": 10
-    },
-    {
-      "name": "山东联通",
-      "type": 0,
-      "url": "https://d.kstore.dev/download/8240/xiaoshuang.txt",
-      "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
-      "timeout": 10,
-      "catchup": {
-        "days": "7",
-        "type": "append",
-        "regex": "/PLTV/",
-        "source": "?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-      }
-    }
-  ], "sites":[ {"key":"豆瓣","name":"豆瓣","type": 3,"api":"csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
+  "sites":[ {"key":"豆瓣","name":"豆瓣","type": 3,"api":"csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
 
  {"key": "直播转点播2",
    "name": "📺电视┃直播2",
@@ -485,15 +404,15 @@
       "type": 3,
       "api": "csp_XBPQ",
      
-      "ext": "https://gitee.com/MINGERTAI/tvurl/raw/master/XBPQ/%E8%AF%84%E4%B9%A6.json"
-    },
+      "ext": "https://gitee.com/MINGERTAI/tvurl/raw/master/XBPQ/%E8%AF%84%E4%B9%A6.json"  },
+  
      { "key": "DOP影院",
       "name": 🇨🇳┃DOP影院",
       "type": 3,
       "api": "csp_XBPQ",
      
-      "ext": "https://d.kstore.dev/download/8240/%E6%B0%B8%E4%B9%90%E5%BD%B1%E8%A7%86.json"
-    },
+      "ext": "https://d.kstore.dev/download/8240/%E6%B0%B8%E4%B9%90%E5%BD%B1%E8%A7%86.json"  },
+  
 
 {"key":"drpy_js_腾云驾雾", "name":"☁️腾云┃┃直采", 
 "type":3, 
@@ -517,11 +436,16 @@
 "type": 3,
 "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
 "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/腾云驾雾.js"},
-  {"key":"Lib","name": "🇨🇳立播┃秒播","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable":1,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
+  {"key":"Lib","name": "🇨🇳立播┃秒播",
+"type": 3,
+"api": "csp_Libvio","searchable": 1,
+"quickSearch": 1,"changeable":1,
+"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"文采","name":"🇨🇳文采┃秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 
  {"key":"天天","name":"🇨🇳天天┃App",
-"type":3,"jar": "https://d.kstore.dev/download/8240/fix241213.jar",
+"type":3,
+"jar": "https://d.kstore.dev/download/8240/fix241213.jar",
 "api":"csp_TTian",
 "playerType":1,
 "ext":"baHR0cDovL3R0LnlzZHFqcy5jbg=="},
@@ -621,8 +545,8 @@
       "type": 3,
       "api": "https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
       
-      "ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.js"
-    },
+      "ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.js"},
+    
 {
       "key": "可可影视PQ",
       "name": "🏅月亮",
