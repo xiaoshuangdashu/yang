@@ -4,7 +4,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "https://jihulab.com/zxj/zxj/-/raw/main/txt/live.txt",
+      "url": "https://gh.llkk.cc/https://github.com/xiaoshuangdashu/yang/blob/main/20241019.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
     }
   ],
