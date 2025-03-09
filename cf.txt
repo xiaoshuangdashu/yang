@@ -257,7 +257,7 @@
     },
 {"key":"南瓜",
 "name":"🎃南瓜秒播",
-"jar":"https://d.kstore.dev/download/8240/fix241213.jar",
+ "jar":"http://cdn.qiaoji8.com/fix250304.jar",
 "type": 3,
 "searchable": 1,
 "quickSearch":1,
@@ -270,7 +270,7 @@
  {
 "key": "木星",
 "name": "🌞木星影视",
-"jar":"https://gitee.com/yiwu369/6758/raw/master/jar/fan.txt",
+ "jar":"http://cdn.qiaoji8.com/fix250304.jar",
 "type": 3,
 "api": "csp_AppSx",
 "searchable": 1,
