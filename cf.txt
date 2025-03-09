@@ -23,13 +23,7 @@
 		"api": "https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
 		"ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/mygoww/xoxo/main/js/365.js"
 	},
-	{
-		"key": "XYQH_素白白",
-		"name": "🛟素白┃慎用",
-		"type": 3,
-		"api": "csp_XYQHiker",
-		"ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/mygoww/xoxo/main/XYQHiker/素白白.json"
-	},
+	
 	{
 		"key": "XBPQ_98影视",
 		"name": "🍸酒吧┃影视",
@@ -37,100 +31,37 @@
 		"api": "csp_XBPQ",
 		"ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/mygoww/xoxo/main/XBPQ/98影视.json"
 	},
-	{
-		"key": "XBPQ_黑狐",
-		"name": "🦝黑狐┃影视",
-		"type": 3,
-		"api": "csp_XBPQ",
-		"ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/mygoww/xoxo/main/XBPQ/黑狐影视.json"
-	},
-	{
-		"key": "XBPQ_2BT",
-		"name": "🤥鼻涕┃影视",
-		"type": 3,
-		"api": "csp_XBPQ",
-		"ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/mygoww/xoxo/main/XBPQ/2bt.json"
-	},
-	{
-		"key": "drpy_好看",
-		"name": "👀好看┃影视",
-		"type": 3,
-		"api": "https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
-		"ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/mygoww/xoxo/main/js/好看.js"
-	},
+	
+	
+	
 {
 		"key": " drpy_蜻蜓fm",
 		"name": "📻蜻蜓┃FM",
 		"type": 3,
 		"api": "https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
 		"ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/mygoww/xoxo/main/js/蜻蜓FM.js"
-	},{
-		"key": "drpy_vip",
-		"name": "💳威鸭屁┃影视",
-		"type": 3,
-		"api": "https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
-		"ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/mygoww/xoxo/main/js/tvbox29.js"
 	},
 	{
-		"key": " bili_道长哔哩",
-		"name": "👨‍💻哔哩┃通用",
-		"type": 3,
-		"api": "https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
-		"ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/mygoww/xoxo/main/js/我的哔哩.js"
-    },{
 		"key": "XYQH_电影港",
 		"name": "🛟影港┃慎用",
 		"type": 3,
 		"api": "csp_XYQHikerAL",
 		"ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/mygoww/xoxo/main/XYQHiker/电影港.json"
 	},
-	{
-		"key": "XBPQ_wo4K",
-		"name": "🛣️顶级┃慎用",
-		"type": 3,
-		"api": "csp_XBPQ",
-		"ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/mygoww/xoxo/main/XBPQ/wo4K.json"
-	},
+	
 	{
 		"key": "XBPQ_天堂",
 		"name": "🏞️天堂┃电影",
 		"type": 3,
 		"api": "csp_XBPQ",
-		"ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/mygoww/xoxo/main/XBPQ/电影天堂.json"
-	},{
-		"key": "app_兜摔",
-		"name": "🏂兜摔┃影视",
-		"type": 1,
-		"api": "http://103.97.176.128:9527/api.php/provide/vod/?ac=list",
-		"playUrl": "json:http://27.159.67.238:6688/?url="
+		"ext": "https://d.kstore.dev/download/8240/%E5%A4%AE%E5%B9%BF%E7%BD%91.json"
 	},
-	{
-		"key": "drpy_爱迪",
-		"name": "🆔爱迪┃影视",
-		"type": 3,
-		"api": "https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
-		"ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/mygoww/xoxo/main/js/A8音乐.js"
-	},
-	{
-		"key": "drpy_网飞",
-		"name": "🥅网飞┃影视",
-		"type": 3,
-		"api": "https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
-		"ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/mygoww/xoxo/main/js/网飞.js"
-	},
-	{
-		"key": "appys_4kgod6",
-		"name": "🥬白菜┃影视",
-		"type": 3,
-		"api": "csp_AppYsV2",
-		"playerType": 1,
-		"ext": "http://www.4kgod6.club/api.php/app/"
-	},
+	
 
 {
       "key": "木叶",
       "name": "木叶┃App",
-      "jar":"https://d.kstore.dev/download/8240/fix241213.jar",
+      "jar":"http://cdn.qiaoji8.com/fix250304.jar",
       "type": 3,
       "api": "csp_Xdai",
       "playerType": 2,
@@ -203,7 +134,7 @@
   "quickSearch":1,
   "filterable":1,
   "ext":{"简介": "剧情介绍:+style=\"og:description;\"&&</div>",
-  "分类url":"http://www.tvyun04.com/vod/type/id/{cateId}/page/{catePg}.html",
+  "分类url":"http://www.tvyun07.com/vod/type/id/{cateId}/page/{catePg}.html",
   "副标题":"快手号济宁裁缝大叔❄️+module-item-note&&</div>",
          "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
         
