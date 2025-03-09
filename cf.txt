@@ -21,7 +21,7 @@
 {
       "key": "木叶",
       "name": "木叶┃App",
-      "jar":"http://cdn.qiaoji8.com/fix241213.jar;md5;5d2689468818731b89ee0c08afd05090",
+      "jar":"https://d.kstore.dev/download/8240/fix241213.jar",
       "type": 3,
       "api": "csp_Xdai",
       "playerType": 2,
@@ -219,7 +219,7 @@
     },
 {"key":"南瓜",
 "name":"🎃南瓜秒播",
-"jar":"http://cdn.qiaoji8.com/fix241213.jar;md5;5d2689468818731b89ee0c08afd05090",
+"jar":"https://d.kstore.dev/download/8240/fix241213.jar",
 "type": 3,
 "searchable": 1,
 "quickSearch":1,
