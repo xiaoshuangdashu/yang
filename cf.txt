@@ -63,10 +63,8 @@
       "name": "木叶┃App",
       "jar":"http://cdn.qiaoji8.com/fix250304.jar",
       "type": 3,
-      "api": "csp_Xdai",
-      "playerType": 2,
-      "ext": "saHR0cDovLzE1Ni4yMjUuMzAuNjU6Nzc4OHw2dmF4am40dmJrcmhzenA4fDZ2YXhqbjR2YmtyaHN6cDh8MTAw"
-    },
+     "api":"csp_TTian","playerType":1,"ext":"baHR0cDovL3R0LnlzZHFqcy5jbg=="   },
+ 
 {"key":"iyq139","name":"139┃秒播","type":3,
   "api":"csp_XBPQ",
   "searchable":1,
