@@ -16,6 +16,7 @@
    "api": "https://raw.gitmirror.com/mt123456888/test/main/js/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD2.js","searchable": 0,"quickSearch": 1,"filterable": 0,
    "ext": "https://gitee.com/uncle-jining-tailor/ip/raw/master/live.json"},
 
+{"key":"隔壁老王","name":"♎老王影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"请求头":"手机","倒序":"0","数组":"lazy lazyloaded&&</a>","图片":"data-src=\"&&\"","简介":"vod_content\">&&</span>","线路数组":"class=\"module-tab-item tab-item&&</div>","线路标题":"<span>&&</span>","跳转播放链接":"var player_*\"url\":\"&&\"","搜索url":"https://www.laowang.co/vodsearch/{wd}-------------.html","搜索数组":"lazy lazyload&&</a>","搜索图片":"data-src=\"&&\"","搜索标题":"title=\"&&\"","分类url":"https://www.laowang.co/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html[https://www.laowang.co/vodtype/{cateId}-{catePg}.html]","分类":"电影$movie#电视剧$tv#综艺$tvshow#动漫$animation#短剧$duanju#动作片$dongzuo#喜剧片$xiju#剧情片$juqing#战争片$zhanzheng#恐怖片$kongbu#科幻片$kehuan#犯罪片$fanzui#爱情片$aiqing#动画片$donghuadianying#纪录片$jilupian#国产剧$dalu#美剧$meiju#韩剧$hanju#港台剧$gangtaiju#日剧$riju"}},
 {
 		"key": "drpy_365",
 		"name": " 📡365┃影视",
