@@ -2,44 +2,171 @@
 "spider":"https://gitee.com/yanglongxiang/xs/raw/0834f03ea09a506e572215b226d274683d9200de/%E9%87%91%E7%89%8C.jar",
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3BhbmRvd24ucHJvL3R2Ym94L3poaWJvLnR4dA=="]}]}],
-"sites":[
-{"key":"YQK_spider","name":"一起看TV","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api-aws.11ty.top"},
-{"key":"mayiys_spider","name":"蚂蚁影视","api":"csp_Mayiys","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
-{"key":"Tutu_spider","name":"图图影视",
-  "api":"csp_TutuYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"vWXYqNnHMMilWZLtSRK#t0MIw5IARrcMqiaojiChinJ9S7o6sYmMVW"},
-{"key":"百影视频","name":"百影视频","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://47.104.99.175"},
-{"key":"NoSearch_Bdys_spider","name":"哔滴影视","api":"csp_Bdys01","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
+"sites":[ {
+      "key": "白嫖者",
+      "name": "👶白嫖者联盟",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://gitee.com/yanglongxiang/xs/raw/master/spider.jar",
+      "ext": {
+        "分类url": "https://www.qyzf88.com/qyvodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+        "分类": "电影$1#电视剧$2#动漫$4#综艺$3",
+        "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
+         "线路标题": "裁缝大叔专线",
+         "副标题":"裁缝在线+module-item-note&&</div>"
+      }
+    },
+   
+      {
+      "key": "csp_SuBaiBai",
+      "name": "🇨🇳┃素白┃影视",
+      "type": 3,
+      "api": "csp_SuBaiBai",
+      "ext": "https://www.subaibaiys.com"
+    },
+   
+    {
+      "key": "csp_Nongm",
+      "name": "🌾️┃农民┃影视",
+      "type": 3,
+      "api": "csp_Nongm",
+      "ext": "https://wwgz.cn"
+    },
+    {
+      "key": "csp_Nongm",
+      "name": "🕵️┃忍者┃影视",
+      "type": 3,
+      "api": "csp_AppRZ",
+      "ext": "http://rzys.xyz/"
+    },
+    
+   
+  
+   
+    {
+      "key": "csp_J",
+      "name": "🇨🇳┃饺子┃外剧",
+      "type": 3,
+      "api": "csp_Jiaozi",
+      "playerType": 2
+    },
+    {
+      "key": "Ivdy",
+      "name": "💖┃Ivdy┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "http://js.xn--z7x900a.com/json/ivdy.json",
+      "searchable": 0
+    },
+    {
+      "key": "csp_SaoHuo",
+      "name": "🔥┃火火┃影视",
+      "type": 3,
+      "api": "csp_SaoHuo",
+      "playerType": 2
+    },
+    {
+      "key": "csp_Gz360",
+      "name": "🍉┃瓜子┃影视",
+      "type": 3,
+      "api": "csp_Gz360",
+      "playerType": 2
+    },
+    
+    {
+      "key": "csp_Panda_玩偶哥哥",
+      "name": "👲┃玩偶┃影视",
+      "api": "csp_Wogg",
+      "type": 3,
+      "searchable": 1,
+      "playerType": 2,
+      "timeout": 30,
+      "changeable": 0,
+      "ext": "https://www.wogg.net"
+    },
+    {
+      "key": "比特",
+      "name": "✌️️┃比特┃影视",
+      "type": 3,
+      "api": "csp_Bttwo"
+    },
+    {
+      "key": "荐片",
+      "name": "🎬┃荐片┃影视",
+      "api": "csp_Jianpian",
+      "type": 3,
+      "playerType": "2",
+      "ext": "http://api2.rinhome.com"
+    },
+    
+     {
+      "key": "天天",
+      "name": "⛅️天天┃直连",
+      "type": 3,
+      "api": "csp_TianTian",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 10
+    },
+    {
+      "key": "文才",
+      "name": "🌺文才┃在线",
+      "type": 3,
+      "api": "csp_Jpys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 10
+    },
+   
+            {
+      "key": "vidhub",
+      "name": "🇨🇳┃vidhub影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {"简介": "剧情介绍: +style=\"fed-part-esan;\"&&</div>",
+        "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
+         "线路标题": "裁缝大叔专线",
+         "副标题":"裁缝在线+module-item-note&&</div>",
+        
+      "分类url": "https://vidhub.tv/vodshow/{cateId}--------{catePg}---.html",
+ "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5#今日更新$6"
+      }
+    },
+      
+        
+         {
+      "key": "652",
+      "name": "🇨🇳 八度影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": { 
+        "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
+         "线路标题": "裁缝大叔专线",
+         "副标题":"裁缝在线+module-item-note&&</div>",
+       
+      "分类url": "https://www.bdgejys.com/MHjApGm/{cateId}--------{catePg}---.html",
+ "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5#今日更新$6"
+      }
+    },
+        
+
 {"key":"NoSearch_csp_DiDuan","name":"低端影视","type":3,"api":"csp_Ddrk","searchable":1,"playerType":2,"quickSearch":1,"filterable":0},
-{"key":"Lezhu_spider","name":"乐猪影视","api":"csp_Lezhu","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":""},
-{"key":"棉花影视","name":"棉花影视","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://118.190.144.126"},
-{"key":"sliu_spider","name":"石榴电影","api":"csp_ShiLiuDY","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":""},
+
 {"key":"快看影视","name":"快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"playerType":2,"quickSearch":1,"filterable":1},
-{"key":"csp_77","name":"酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"360_spider","name":"360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
-{"key":"小苹果","name":"小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"神马电影","name":"神马电影","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_CZSPP","name":"厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"playerType":2,"quickSearch":1,"filterable":0},
-{"key":"csp_LibVio","name":"LibVio","type":3,"api":"csp_Lib","searchable":1,"playerType":2,"quickSearch":1,"filterable":0},
-{"key":"csp_Auete","name":"Auete","type":3,"api":"csp_Auete","searchable":1,"playerType":2,"quickSearch":1,"filterable":1},
-{"key":"csp_Cokemv","name":"Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"NoSearch_csp_BBB","name":"哔哩哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://www.qiaoji8.com/tvbox/bili.json"},
-{"key":"NoSearch_Yj1211_spider","name":"直播聚合","api":"csp_Yj1211","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1},
-{"key":"Yisou","name":"易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
-{"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
-{"key":"AliPanSou","name":"盘搜","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
-{"key":"UPanSo","name":"优盘搜","type":3,"api":"csp_UPanSo","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
-{"key":"FindZY","name":"找资源","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
-{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
-{"key":"Music_spider","name":"音乐欣赏","api":"csp_Music","type":3,"filterable":0,"quickSearch":1,"searchable":1,"ext":""}
+
+{"key":"360_spider","name":"360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""}
+
 ],
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
-{"name":"巧技专属","type":1,"url":"http://pandown.pro/app/doubiekan.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐
+{"name":"巧技专属","type":1,"url":"https://jx.77flv.cc/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐
 
 视","mgtv","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}},
-{"name":"巧技解析","type":1,"url":"http://pandown.pro/app/kkdy.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒
+{"name":"巧技解析","type":1,"url":"https://jx.xymp4.cc/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒
 
 果","rx","ltnb","bilibili","1905","xigua"]}}
 ],
