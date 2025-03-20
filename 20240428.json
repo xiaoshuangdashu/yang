@@ -5,9 +5,8 @@
 "sites":[
 {"key":"YQK_spider","name":"一起看TV","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api-aws.11ty.top"},
 {"key":"mayiys_spider","name":"蚂蚁影视","api":"csp_Mayiys","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
-{"key":"Tutu_spider","name":"图图影
-
-视","api":"csp_TutuYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"vWXYqNnHMMilWZLtSRK#t0MIw5IARrcMqiaojiChinJ9S7o6sYmMVW"},
+{"key":"Tutu_spider","name":"图图影视",
+  "api":"csp_TutuYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"vWXYqNnHMMilWZLtSRK#t0MIw5IARrcMqiaojiChinJ9S7o6sYmMVW"},
 {"key":"百影视频","name":"百影视频","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://47.104.99.175"},
 {"key":"NoSearch_Bdys_spider","name":"哔滴影视","api":"csp_Bdys01","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"NoSearch_csp_DiDuan","name":"低端影视","type":3,"api":"csp_Ddrk","searchable":1,"playerType":2,"quickSearch":1,"filterable":0},
