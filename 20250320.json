@@ -263,7 +263,7 @@
       "api": "csp_XBPQ",
       "jar": "https://gitee.com/yanglongxiang/xs/raw/master/spider.jar",
       "ext": {
-        "分类url": "https://huadian2.com/show/{cateId}-----------.html",
+        "分类url": "https://youvod.tv/index.php/vod/show/id/{cateId}.html",
         "分类": "电影$1#电视剧$2#动漫$4#综艺$3",
         "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
          "线路标题": "裁缝大叔专线",
