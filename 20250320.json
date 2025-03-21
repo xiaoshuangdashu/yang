@@ -83,8 +83,8 @@
   ],
 "sites":[ {"key":"csp_豆瓣","name":"🌈防失联，关注快手号济宁裁缝大叔","type":3,"api":"csp_Douban","searchable":0,"quickSearch":0,"filterable":0},
   
-     {"key": "🍎白嫖联盟",
- "name": "🍎白嫖🍎联盟",
+     {"key": "🍎白嫖🍎联盟",
+ "name": "🍎白嫖🍎联🍎盟",
  "type": 3,
  "api": "csp_XBPQ",
   "ext": { "简介": "剧情介绍:+style=\"description;\"&&</div>",
