@@ -82,7 +82,180 @@
     }
   ],
 "sites":[ {"key":"csp_豆瓣","name":"🌈防失联，关注快手号济宁裁缝大叔","type":3,"api":"csp_Douban","searchable":0,"quickSearch":0,"filterable":0},
+  
+     
+   {"key":"T4-tangdou","name":"音乐-糖豆(T4)","type":4,"api":"https://catbox.n13.club/t9/tangdou.php"},
+   {
+            "key": "快看",
+            "name": "🫣┃快看┃影视",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "http://kkwk123.top/api.php/app/"
+        },
+          {
+            "key": "韩小圈",
+            "name": "🍩┃韩圈┃",
+            "type": 3,
+             "jar": "https://d.kstore.dev/download/8240/%E9%87%91%E7%89%8C.jar",
+            "api": "csp_HanXiaoQuan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+      {
+      "key": "csp_LiteApple",
+      "name": "🍎苹果┃1080P",
+     "type": 3,
+      "jar": "https://d.kstore.dev/download/8240/03033.jar",
+      "api": "csp_LiteAppleGuard"
+    },
+     {"key": "🍎白嫖者联盟",
+ "name": "🍎白嫖者🍎联盟",
+ "type": 3,
+ "api": "csp_XBPQ",
+  "ext": { "简介": "剧情介绍:+style=\"description;\"&&</div>",
  
+        "副标题":"快手号济宁裁缝大叔️+module-item-note&&</div>",
+         "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
+        "线路标题": "快手号济宁裁缝大叔专线",
+ "分类url": "https://www.laodifang.tv/vodtype/{cateId}.html",
+   "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
+      "类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#奇幻片$10#恐怖片$11#战争片$12#动漫片$20#动画片$26#悬疑片$22#冒险片$23#犯罪片$24#惊悚片$45#歌舞片$46#灾难片$47#网络片$48||国产剧$13#港台剧$14#日剧$15#韩剧$33#欧美剧$16#泰剧$34#新马剧$35#其他剧$25||内地综艺$27#港台综艺$28#日本综艺$29#韩国综艺$36#欧美综艺$30#新马泰综艺$37#其他综艺$38||国产动漫$31#日本动漫$32#韩国动漫$39#港台动漫$40#新马泰动漫$41#欧美动漫$42#其他动漫$43"}},
+      {
+      "key": "天天",
+      "name": "🦢天天┃1080P",
+     "type": 3,"jar": "https://d.kstore.dev/download/8240/03033.jar",
+      "api": "csp_AppRJGuard",
+      "ext": "sHR2rlsfjI4L3t4RXQMknxhunFUlA4159TKiKvIPpfcM1xianxebcSLajBbwFymqC+z9WoGzQYbh7FSvh8KdiC0BKF0CalaPaCEMOZm+ClGEeNzXAaR0FnrV04SiB2NK"
+    },
+    {
+      "key": "热热",
+      "name": "🏜热热┃1080P",
+     "type": 3,"jar": "https://d.kstore.dev/download/8240/03033.jar",
+      "api": "csp_AppRJGuard",
+      "ext": "sHR2rlsfjI4L3t4RXQMkn9mmg6Ofmy66+wcs9waIyn4hKqT9jG9s4kO6qzcu2OSqWS1/T+wfkqe+UwoipekwvcM11PTDrQqKYI8lmMXUc1vBHxp/2uWIw5HUoscBNWEb"
+    },
+    {
+      "key": "追剧",
+      "name": "🏈追剧┃1080P",
+     "type": 3,"jar": "https://d.kstore.dev/download/8240/03033.jar",
+      "api": "csp_AppRJGuard",
+      "ext": "sHR2rlsfjI4L3t4RXQMkn9NPgTvCXvJVoUvXJHT6PqBNTg88Q5I4mc95m2RizprWhdAIQNMU/HShly4WRNzUsfhvqzHXHhHD57G7QagNV0Cx+WDSBgm0uZMAbZVHmzjM"
+    },
+    {
+      "key": "光速",
+      "name": "🌟光速┃1080P",
+     "type": 3,"jar": "https://d.kstore.dev/download/8240/03033.jar",
+      "api": "csp_AppGetV2Guard",
+      "ext": "sHR2rlsfjI4L3t4RXQMkn97hxHYaEbu5lFfPUXOxEzpAZL11z+ayZEbLSb3vs/v8ZS0i6U3Oh/aCVpUdIeZzRgc5TQyB2k7aC0UwqxoW281lBnRyLoSPb+ejqJ92E4RYuH9BABywIr8NA9Bn0Ndnl5c+AJCGNVdUwDUcd6fmGzQoQ+VuzRpX5xfgCbnpjcTp56dL50nhDb7IIe7CtKv7pA=="
+    },
+    {
+      "key": "csp_麻花",
+      "name": "🍡麻花┃1080P",
+     "type": 3,"jar": "https://d.kstore.dev/download/8240/03033.jar",
+      "quickSearch": 1,
+      "api": "csp_AppGetV2Guard",
+      "ext": "sHR2rlsfjI4L3t4RXQMkn64XzcQ7xvStB8jMisBReTIxM41ceZBHTzUgk3r/HwfaQHDZorN0nnVVuvE2MPKn8MPxE7ylJqasRuICMIOVVttRnHTeArnRbQHtOtv9F+MUHJKlwhy6U0meUqFlwIn7psnaR3hGPEBEsJYJsPp76XCOFyL1bvM3tTLekJMN0bE6C8wUUmg83iijAB1Xb6BFY0SFjRkJUBqkeUVtwAx1KA1QQjwUVBpGjtQEZ08jK7hLlREWx4foeg01L1aMK+viow=="
+    },
+   
+    {
+      "key": "csp_AppXY",
+      "name": "🐸上头┃短剧",
+     "type": 3,"jar": "https://d.kstore.dev/download/8240/03033.jar",
+      "api": "csp_AppXYGuard"
+    },
+   
+    {
+      "key": "csp_Gz360",
+      "name": "🍉瓜子┃1080P",
+     "type": 3,"jar": "https://d.kstore.dev/download/8240/03033.jar",
+      "api": "csp_Gz360Guard"
+    },
+    {
+      "key": "csp_Jpys",
+      "name": "🥇金牌┃1080P",
+     "type": 3,"jar": "https://d.kstore.dev/download/8240/03033.jar",
+      "api": "csp_JpysGuard"
+    },
+    {
+      "key": "csp_Wwys",
+      "name": "👨农民┃1080P",
+     "type": 3,"jar": "https://d.kstore.dev/download/8240/03033.jar",
+      "api": "csp_WwysGuard",
+      "ext": "https://www.wwgz.cn"
+    },
+    
+    {
+      "key": "csp_Lkdy",
+      "name": "💐来看┃1080P",
+     "type": 3,"jar": "https://d.kstore.dev/download/8240/03033.jar",
+      "api": "csp_LkdyGuard"
+    },
+    
+  
+  {"key":"火腾讯采集","name":"🌀腾讯采集","type":1,"searchable":0,"quickSearch":1,"filterable":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/"},
+   {
+      "key": "异采集",
+      "name": "奇异采集影视",
+      "type": 1,
+      "api": "https://yys.gangko.cn/api.php/provide/vod",
+      "searchable": 0,
+      "playUrl": "https://www.ikdmjx.com/?url=",
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "科幻片",
+        "恐怖片",
+        "爱情片",
+        "剧情片",
+        "战争片",
+        "记录片",
+        "国产剧",
+        "欧美剧",
+        "犯罪片",
+        "惊悚片",
+        "古装片",
+        "灾难片",
+        "历史片",
+        "香港剧",
+        "韩国剧",
+        "台湾剧",
+        "日本剧",
+        "海外剧",
+        "泰国剧",
+        "其他片",
+        "悬疑片",
+        "奇幻片",
+        "动画片",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺"
+      ]
+    },
+
+{"key":"优酷采集","name":"🌀优酷采集影视","type":1,"searchable":0,"quickSearch":1,"filterable":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/"},
+{"key":"芒果采影视","name":"🌀芒果采影视","type":1,"searchable":1,"quickSearch":1,"filterable":0,"api":"https://yys.gangko.cn/api.php/provide/vod/from/mgtv/?ac=list"},
+{"key":"B站影视","name":"🌀B站影视","type":1,"searchable":0,"quickSearch":1,"filterable":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/from/qiyi/?ac=list"},
+  {"key":"lf_js_lf_live","name":"🇨🇳┃电视┃直播","type":3,"api":"https://gh.llkk.cc/https://github.com/sintrs/tvbox/blob/master/lib/lf_live_min.js","style":{ "type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"https://d.kstore.dev/download/8240/m3u%E8%AE%A2%E9%98%85.txt"},
+   {"key": "直播转点播2",
+   "name": "📺电视┃直播2",
+   "type": 3,
+   "api": "https://gitee.com/uncle-jining-tailor/ip/raw/master/live2vod.js","searchable": 0,"quickSearch": 1,"filterable": 0,
+   "ext": "https://gitee.com/uncle-jining-tailor/ip/raw/master/live.json"},
+   {"key":"csp_Nongm","name":"🌾️┃农民┃影视","type":3,"api":"csp_Nongm","ext":"https://wwgz.cn"},
+
+   
   {
       "key": "白嫖者",
       "name": "👶白嫖者联盟",
@@ -90,7 +263,7 @@
       "api": "csp_XBPQ",
       "jar": "https://gitee.com/yanglongxiang/xs/raw/master/spider.jar",
       "ext": {
-        "分类url": "https://www.qyzf88.com/qyvodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+        "分类url": "https://www.laodifang.tv/vodtype/{cateId}.html",
         "分类": "电影$1#电视剧$2#动漫$4#综艺$3",
         "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
          "线路标题": "裁缝大叔专线",
