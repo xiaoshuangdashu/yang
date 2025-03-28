@@ -55,7 +55,7 @@ ac=list","searchable":1,"filterable":0,"categories":["国产动漫","日韩动�
 		"name": "🍸酒吧┃影视",
 		"type": 3,
 		"api": "csp_XBPQ",
-		"ext": "https://d.kstore.dev/download/8240/%E6%90%9C%E7%8B%97.json"
+		"ext": "https://d.kstore.dev/download/8240/98%E5%BD%B1%E9%99%A2.json"
 	},
 	
 	
