@@ -18,12 +18,14 @@
  { "key": "push_agent",
       "name": "济宁裁缝大叔警示不要相信广告",
       "type": 1,
-			"searchable":0,"quickSearch":1,"filterable":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/"
-    },
+			"searchable":0,"quickSearch":1,"filterable":1,"api":"https://www.ikunzy.com/api.php/provide/vod/"    },
+
     
       { "key": "push_",
       "name": "大叔警示不要相信广告",
-      "type": 1,"searchable":0,"quickSearch":1,"filterable":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/"},
+      "type": 1,"searchable":0,"quickSearch":1,"filterable":1,"api":"https://api.apibdzy.com/api.php/provide/vod?ac=list"},
+
+
 			
     
 
