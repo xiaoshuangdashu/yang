@@ -9,7 +9,7 @@
     }
   ],
   "sites": [{"key":"csp_豆瓣","name":"🌈防失联，关注快手号济宁裁缝大叔","type":3,"api":"csp_Douban","searchable":0,"quickSearch":0,"filterable":0},
-   {"key": "直播转点播","name": "📺电视┃直播","type": 3,"api": "https://gh.llkk.cc/https://github.com/sintrs/tvbox/blob/master/lib/lf_live_min.js","searchable": 0,"quickSearch": 1,"filterable": 0,"ext": "https://d.kstore.dev/download/8240/m3u%E8%AE%A2%E9%98%85.txt"},  
+   {"key": "直播转点播","name": "📺电视┃直播","type": 3,"api": "https://gh-proxy.com/github.com/sintrs/tvbox/blob/master/lib/lf_live_min.js","searchable": 0,"quickSearch": 1,"filterable": 0,"ext": "https://d.kstore.dev/download/8240/m3u%E8%AE%A2%E9%98%85.txt"},  
    {"key": "直播转点播2",
    "name": "📺电视┃直播2",
    "type": 3,
@@ -57,8 +57,8 @@
 		"key": " drpy_蜻蜓fm",
 		"name": "📻蜻蜓┃FM",
 		"type": 3,
-		"api": "https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
-		"ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/mygoww/xoxo/main/js/蜻蜓FM.js"
+		"api": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
+		"ext": "https://gh-proxy.com//https://raw.githubusercontent.com/mygoww/xoxo/main/js/蜻蜓FM.js"
 	},
 	{
 		"key": "XYQH_电影港",
