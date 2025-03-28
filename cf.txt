@@ -39,7 +39,7 @@
 		"key": "drpy_365",
 		"name": " 📡365┃影视",
 		"type": 3,
-		"api": "https://gitee.com/yanglongxiang/my/raw/master/JS2025/drpy2.min.js",
+		"api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
 		"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/mygoww/xoxo/main/js/365.js"
 	},{"key":"老隔壁王 🇲🇪 🇲🇪","name":" 🇧🇲王老影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"请求头":"手机","倒序":"0","数组":"lazy lazyloaded&&</a>","图片":"data-src=\"&&\"","简介":"vod_content\">&&</span>","线路数组":"class=\"module-tab-item tab-item&&</div>",  "副标题":"快手号济宁裁缝大叔️+module-item-note&&</div>","线路标题":"快手号济宁裁缝大叔专线","跳转播放链接":"var player_*\"url\":\"&&\"","搜索url":"https://www.laowang.co/vodsearch/{wd}-------------.html","搜索数组":"lazy lazyload&&</a>","搜索图片":"data-src=\"&&\"","搜索标题":"title=\"&&\"","分类url":"https://www.laowang.co/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html[https://www.laowang.co/vodtype/{cateId}-{catePg}.html]","分类":"电影$movie#电视剧$tv#综艺$tvshow#动漫$animation#短剧$duanju#动作片$dongzuo#喜剧片$xiju#剧情片$juqing#战争片$zhanzheng#恐怖片$kongbu#科幻片$kehuan#犯罪片$fanzui#爱情片$aiqing#动画片$donghuadianying#纪录片$jilupian#国产剧$dalu#美剧$meiju#韩剧$hanju#港台剧$gangtaiju#日剧$riju"}},
 	
