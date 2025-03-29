@@ -26,8 +26,7 @@ CCTV4,http://58.221.214.82:9901/tsfile/live/0004_1.m3u8?key=txiptv&url=tvzb.com
 红色经典佳片,http://1.94.31.214:35455/huya/11602076
 勇敢的心,http://live.iill.top/yy/1354744544
 豪哥带我们发财,http://1.94.31.214:35455/yy/23402146
-穆桂英挂帅,http://live.iill.top/yy/1507704566
-新白娘子传奇,http://live.iill.top/yy/1354490667
+
 勇敢的心 ~24经典,http://live.iill.top/yy/1354744544
 24h九门,http://live.iill.top/yy/1355171357
 战狼3吴京】独播,http://live.iill.top/yy/37999586
