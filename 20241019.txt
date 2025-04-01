@@ -16,6 +16,13 @@ CCTV4,http://58.221.214.82:9901/tsfile/live/0004_1.m3u8?key=txiptv&url=tvzb.com
 凤凰中文,http://dns.yiandrive.com:15907/phenix/fhzw
 中天资讯,http://61.221.215.25:8800/hls/47/index.m3u8
 凤凰资讯,http://43.129.81.169/qctv.fengshows.cn/live/0701pin72.flv
+第一滴血全集,http://live.iill.top/huya/29982674
+敢死队全轮播,http://live.iill.top/huya/11602077
+夺宝奇兵全集,http://live.iill.top/huya/29982674
+美剧解说轮播,http://live.iill.top/huya/29982669
+经典美剧解说,http://live.iill.top/huya/11602088
+雪中悍刀行剧,http://live.iill.top/huya/11336592
+花千骨电视剧,http://live.iill.top/huya/11342414
 
 豆瓣9.8评分电影不间断,http://live.iill.top/huya/30648334
 小染坊,http://live.iill.top/huya/11602086
