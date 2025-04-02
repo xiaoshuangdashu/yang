@@ -18,6 +18,16 @@ CCTV4,http://58.221.214.82:9901/tsfile/live/0004_1.m3u8?key=txiptv&url=tvzb.com
 凤凰资讯,http://43.129.81.169/qctv.fengshows.cn/live/0701pin72.flv
 爱情公寓,https://live.metshop.top/douyu/6863367
 
+军民联合抗日,https://www.goodiptv.club/huya/11352910
+夏雪夏雨,https://www.goodiptv.club/huya/11352872
+杨紫&李现,https://www.goodiptv.club/huya/29982671
+好先生,https://www.goodiptv.club/huya/11602088
+勇敢的心,http://alist.xicp.fun:35455/huya/11602037
+还珠格格3,http://live.iill.top/huya/11601961
+郭麒麟,http://alist.xicp.fun:35455/huya/30080139
+维立方电影,https://www.goodiptv.club/huya/11352917
+香港贺岁,https://www.goodiptv.club/huya/11602043
+情满四合院,https://www.goodiptv.club/huya/11342426
 新世界,https://lunbo.freetv.top/yy/1382736850
 巾帼枭雄之义海豪情,https://lunbo.freetv.top/yy/1382736859
 电影_星爷,https://lunbo.freetv.top/huya/11342412
