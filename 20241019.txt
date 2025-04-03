@@ -17,6 +17,22 @@ CCTV4,http://58.221.214.82:9901/tsfile/live/0004_1.m3u8?key=txiptv&url=tvzb.com
 中天资讯,http://61.221.215.25:8800/hls/47/index.m3u8
 凤凰资讯,http://43.129.81.169/qctv.fengshows.cn/live/0701pin72.flv
 爱情公寓,https://live.metshop.top/douyu/6863367
+郭麒麟,http://dns.yiandrive.com:15907/huya/30080139
+维立方电影,http://dns.yiandrive.com:15907/huya/11352917
+香港贺岁,http://dns.yiandrive.com:15907/huya/11602043
+情满四合院,http://dns.yiandrive.com:15907/huya/11342426
+谈判专家,http://dns.yiandrive.com:15907/yy/1382735560#https://lunbo.freetv.top/yy/1382735560$LR?IPV4『线路2』
+第一滴血全集,http://dns.yiandrive.com:15907/huya/29982674
+敢死队全轮播,http://dns.yiandrive.com:15907/huya/11602077
+电影_星爷,http://dns.yiandrive.com:15907/huya/11342412
+电影_英叔,http://dns.yiandrive.com:15907/huya/11342421
+电影_发哥,http://dns.yiandrive.com:15907/huya/11342387
+电影_成龙,http://dns.yiandrive.com:15907/huya/11342386
+电影_王晶,http://dns.yiandrive.com:15907/huya/11602058
+电影_沈腾,http://dns.yiandrive.com:15907/huya/11601968
+电影_黄渤,http://dns.yiandrive.com:15907/huya/11352876
+电影_强森,http://dns.yiandrive.com:15907/huya/21059581
+勇敢的心,http://dns.yiandrive.com:15907/huya/11602037
 
 军民联合抗日,https://www.goodiptv.club/huya/11352910
 夏雪夏雨,https://www.goodiptv.club/huya/11352872
