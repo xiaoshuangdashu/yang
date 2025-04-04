@@ -95,6 +95,15 @@
 			"searchable": 1,
 			"quickSearch": 1
 		},
+{
+      "key": "xigua官采",
+      "name": "🇨🇳xigua官采/解析",
+      "type": 1,
+      "api": "http://zy.xiaomaomi.cc/api.php/provide/vod/from/xigua/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
 {"key":"柠檬","name":"柠檬┃App","type":3,"api":"csp_Nmvod","playerType":2,"ext":"eaHR0cHM6Ly9ubXZvZC5jbjozMTY2L3dlYmNsb3VkL3JlbGF5LnBocD91cmw9"},  
 {"key":"drpy_js_奇珍异兽", "name":"🦄奇珍┃异兽┃直采", "type":3, "api":"https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy2.min.js", "ext":"https://raw.gitmirror.com/hjdhnx/dr_py/main/js/奇珍异兽.js" },
  {"key":"drpy_js_优酷", "name":"🌱酷酷┃的腾┃直采", "type":3, "api":"https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy2.min.js", "ext":"https://raw.gitmirror.com/hjdhnx/dr_py/main/js/优酷.js" }, 
