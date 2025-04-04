@@ -1,10 +1,83 @@
 {"spider":"http://cdn.qiaoji8.com/fix250304.jar;md5;9d8407a76b2abeeaabdd147b1b93799f","wallpaper": "https://gitee.com/uncle-jining-tailor/ip/raw/master/QQ%E5%9B%BE%E7%89%8720240926223520.png", "logo":"https://gitee.com/uncle-jining-tailor/ip/raw/master/%E8%A3%81%E7%BC%9D%E5%A4%A7%E5%8F%94.gif", 
   "lives": [
     {
-      "name": "live",
+      "name": "电影",
       "type": 0,
-      "url": "https://jihulab.com/zxj/zxj/-/raw/main/txt/live.txt",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+      "url": "https://d.kstore.dev/download/8240/1107.txt",
+      "playerType": 2
+    },
+    {
+      "name": "live-1",
+      "type": 0,
+      "url": "https://ghproxy.cc/https://raw.githubusercontent.com/xiaoshuangdashu/yang/refs/heads/main/20241019.txt",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "timeout": 10,
+      "catchup": {
+        "days": "7",
+        "type": "append",
+        "regex": "/PLTV/",
+        "source": "?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+      }
+    },
+    {
+      "name": "live-2",
+      "type": 0,
+      "url": "https://ghproxy.cc/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "timeout": 10,
+      "catchup": {
+        "days": "7",
+        "type": "append",
+        "regex": "/PLTV/",
+        "source": "?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+      }
+    },
+    {
+      "name": "电影联播",
+      "type": 0,
+      "url": "https://d.kstore.dev/download/7202/Ironmanlive_theater.txt",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "timeout": 10,
+      "catchup": {
+        "days": "7",
+        "type": "append",
+        "regex": "/PLTV/",
+        "source": "?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+      }
+    },
+    {
+      "name": "加密",
+      "type": 3,
+      "api": "csp_Smart",
+      "ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/xiaoshuangdashu/yang/refs/heads/main/%E7%BB%BC%E5%90%88.txt"
+    },
+    {
+      "name": "fanmingming",
+      "type": 0,
+      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+      "playerType": 1,
+      "timeout": 10
+    },
+    {
+      "name": "山东联通",
+      "type": 0,
+      "url": "https://d.kstore.dev/download/8240/xiaoshuang.txt",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "timeout": 10,
+      "catchup": {
+        "days": "7",
+        "type": "append",
+        "regex": "/PLTV/",
+        "source": "?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+      }
     }
   ],"sites":[{  "key": "drpy_js_豆瓣",
   "name": "🇨🇳快手号济宁裁缝大叔豆瓣[js]", 
