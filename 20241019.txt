@@ -31,7 +31,14 @@ TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
 三立戏剧台,http://61.221.215.25:8800/hls/41/index.m3u8
-
+郭麒麟,https://lunbo.freetv.top/huya/30080139
+新世界,https://lunbo.freetv.top/yy/1382736850
+电影_发哥,https://lunbo.freetv.top/huya/11342387
+豆瓣9.8评分电影不间断,http://live.iill.top/huya/30648334
+正阳门下,http://live.iill.top/yy/1453059740
+小染坊,http://live.iill.top/huya/11602086
+情满四合院,http://live.iill.top/huya/11342426
+成龙港片,http://live.iill.top/yy/1459801818
 CCTV1,http://58.221.214.82:9901/tsfile/live/0001_1.m3u8?key=txiptv&url=tvzb.com
 CCTV2,http://58.221.214.82:9901/tsfile/live/0002_1.m3u8?key=txiptv&url=tvzb.com
 CCTV3,http://58.221.214.82:9901/tsfile/live/0003_1.m3u8?key=txiptv&url=tvzb.com
