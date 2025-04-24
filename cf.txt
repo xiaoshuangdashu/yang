@@ -367,7 +367,7 @@ ac=list","searchable":1,"filterable":0,"categories":["国产动漫","日韩动�
         "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
          "线路标题": "裁缝大叔专线",
          "副标题":"裁缝在线+module-item-note&&</div>",
-    "分类url":"http://www.wxtdwxz.com/xwzx/{cateId}.html",
+    "分类url":"http://www.tvyun09.com/vod/type/id/{cateId}.html",
     
     "分类":"电影$1#电视剧$2#综艺$3#动漫$4"
 
@@ -837,7 +837,7 @@ ac=list","searchable":1,"filterable":0,"categories":["国产动漫","日韩动�
  
        "简介": "万能(快手号|济宁裁缝大叔)剧情介绍: +style=description\">&&</div>",
         "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
-      "分类url": "http://www.tvyun03.com/vod/type/id/{cateId}.html",
+      "分类url": "http://www.tvyun09.com/vod/type/id/{cateId}.html",
  "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
       }
     },
