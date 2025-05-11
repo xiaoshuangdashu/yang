@@ -20,6 +20,37 @@
 
 
 凤凰中文,http://dns.yiandrive.com:15907/phenix/fhzw
+
+凤凰资讯,http://43.129.81.169/qctv.fengshows.cn/live/0701pin72.flv
+凤凰资讯,http://47.122.125.40:6666/hls/fhzx.m3u8
+凤凰资讯,https://stream1.freetv.fun/10657ccf76d0f20d4fe8c4596d94152ad1126b8e28537fe469f3da39c15f72fd.ctv
+凤凰资讯,http://110.81.206.138:49231/tsfile/live/23019_1.m3u8
+凤凰资讯,http://218.104.239.114:9901/tsfile/live/1012_1.m3u8
+凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+凤凰中文,http://50.7.234.10:8278/phoenixtv_hd/playlist.m3u8?tid=MF6F2163882521638825&ct=19249&tsum=2375037c2689c4190d14c8a52bc35c83
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰中文,http://198.16.100.186:8278/phoenixtv_hd/playlist.m3u8?tid=MF6F2163882521638825&ct=19249&tsum=2375037c2689c4190d14c8a52bc35c83
+凤凰资讯,http://198.16.100.186:8278/phoenixinfo_hd/playlist.m3u8?tid=mc42afe745533&ct=11595590&tsum=552228fb5dc4fbbea62bdc651db54cd4
+凤凰中文,http://cdn.132.us.kg/live/fhzw/stream.m3u8
+凤凰香港,http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MD0D2495250724952507&ct=19249&tsum=b1c0a577a7f4aaa9af143d124ba24a40
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+
+凤凰中文,https://stream1.freetv.fun/c68367c5e201288655cd55b82ca13953333129ac7997f762cb65f4be8a926758.ctv
+
+拯救大兵瑞恩(美国战争片)h,https://vip.lzcdn2.com/20220318/17_62bcd0a1/index.m3u8
+雪中悍刀行剧,http://live.iill.top/huya/11336592
+庆余年电视剧,http://live.iill.top/huya/11352960
+与凤行电视剧,http://live.iill.top/huya/26355866
+开端电视轮播,http://live.iill.top/huya/11342397
+亮剑电视轮播,http://live.iill.top/huya/30080238
+雪豹电视轮播,http://live.iill.top/huya/29580970
+脱口秀大会肆,http://live.iill.top/huya/30080243
+粤语星爷电影,http://live.iill.top/huya/11336587
+
+
+凤凰中文,http://dns.yiandrive.com:15907/phenix/fhzw
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
 凤凰资讯,http://43.129.81.169/qctv.fengshows.cn/live/0701pin72.flv
 凤凰中文,http://ycsj.aguihome.com:4022/udp/233.50.200.191:5140
