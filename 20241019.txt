@@ -1,7 +1,17 @@
 
 裁缝大叔电视源,#genre#
-联播,http://120.76.248.139/live/bfgd/4200000289.m3u8
-
+爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
+北京电影,http://cici2012.synology.me:35455/bptv/10000100000000050000000003887498.m3u8
+北京卡酷少儿,http://cici2012.synology.me:35455/bptv/10000100000000050000000003904597.m3u8
+北京萌宠,http://cici2012.synology.me:35455/bptv/10000100000000050000000003887495.m3u8
+北京娱乐,http://cici2012.synology.me:35455/bptv/10000100000000050000000003887499.m3u8
+北京体育,http://cici2012.synology.me:35455/bptv/10000100000000050000000003870779.m3u8
+北京新闻,http://cici2012.synology.me:35455/bptv/10000100000000050000000003870780.m3u8
+北京淘Baby,http://cici2012.synology.me:35455/bptv/10000100000000050000000003887496.m3u8
+北京淘电影,http://cici2012.synology.me:35455/bptv/10000100000000050000000003887498.m3u8
+北京淘剧场,http://cici2012.synology.me:35455/bptv/10000100000000050000000003887497.m3u8
+北京淘娱乐,http://cici2012.synology.me:35455/bptv/10000100000000050000000003887499.m3u8
+重温经典,http://cici2012.synology.me:35455/bptv/10000100000000050000000003887494.m3u8
 凤凰中文,https://vcstiok.serv00.net/fhxyh.php?from=web&id=fhzw$fhx
 凤凰中文,http://110.81.206.138:49231/tsfile/live/23020_1.m3u8?key=txiptv&playlive=1&authid=0$%E7%A6%8F%E5%BB%BA%E7%94%B5%E4%BF%A1%E9%85%92%E5%BA%97
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
