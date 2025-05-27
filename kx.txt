@@ -1,6 +1,5 @@
-{"spider": "https://gitee.com/yanglongxiang/xs/raw/master/spider.jar","wallpaper": "https://gitee.com/uncle-jining-tailor/ip/raw/master/QQ%E5%9B%BE%E7%89%8720240926223520.png", 
-
-"logo":"https://gitee.com/uncle-jining-tailor/ip/raw/master/%E8%A3%81%E7%BC%9D%E5%A4%A7%E5%8F%94.gif", 
+{"spider": "https://gitee.com/yanglongxiang/xs/raw/master/spider.jar","wallpaper": "https://gitee.com/yanglongxiang/my/raw/master/%E5%A3%81%E7%BA%B8.png",
+  "logo": "https://gitee.com/yanglongxiang/my/raw/master/%E8%A3%81%E7%BC%9D%E5%A4%A7%E5%8F%94.gif",
   "lives": [
     {
       "name": "电视直播",
@@ -85,14 +84,15 @@
   ],
   "sites": [{"key":"csp_豆瓣","name":"🌈防失联，关注快手号济宁裁缝大叔","type":3,"api":"csp_Douban","searchable":0,"quickSearch":0,"filterable":0},
   
-   {"key": "直播转点播2",
+ {"key": "直播转点播2",
    "name": "📺电视┃直播2",
    "type": 3,
-   "api": "https://gitee.com/uncle-jining-tailor/ip/raw/master/live2vod.js","searchable": 0,"quickSearch": 1,"filterable": 0,
-   "ext": "https://gitee.com/uncle-jining-tailor/ip/raw/master/live.json"},
-   {"key":"lf_js_lf_live","name":"🇨🇳┃电视┃直播3","type":3,"api":"https://gh.llkk.cc/https://github.com/sintrs/tvbox/blob/master/lib/lf_live_min.js","style":{ 
-
-"type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"https://d.kstore.dev/download/8240/m3u%E8%AE%A2%E9%98%85.txt"},
+   "api": "https://gitee.com/uncle-jining-tailor/study/raw/master/live2vod.js","searchable": 0,"quickSearch": 1,"filterable": 0,
+   "ext": "https://gitee.com/uncle-jining-tailor/study/raw/master/live.json"},
+   {"key":"lf_js_lf_live","name":"🇨🇳┃电视┃直播3","type":3,"api":"https://gitee.com/uncle-jining-tailor/study/raw/master/%E7%89%B9%E5%87%BA.js","style":{ "type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"https://d.kstore.dev/download/8240/m3u%E8%AE%A2%E9%98%85.txt"},
+   {"key":"T4-tangdou","name":"音乐-糖豆(T4)","type":4,"api":"https://catbox.n13.club/t9/tangdou.php"},
+   {"key":"taopianapi.com","name":"🐌陶片┃多线","type":0,"api":"https://taopianapi.com/cjapi/mc/vod/xml.html","searchable":1,"quickSearch":1,"filterable":1},
+   {"key":"小猫咪 独立采集","name":"🌀小猫咪 独立采集","type":1,"searchable":1,"quickSearch":1,"filterable":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/from/qq/?ac=list"},
   {"key":"drpy_js_腾云驾雾", "name":"☁️腾云┃┃直采", "type":3, "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js", "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/腾云驾雾.js" },
 
        {"key":"drpy_js_云雾", "name":"☁️奇珍┃驾雾┃直采", "type":3, "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js", "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇珍异兽.js" },
