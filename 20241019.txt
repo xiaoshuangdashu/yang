@@ -295,18 +295,7 @@ CF,http://alist.xicp.fun:35455/huya/115959
 爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
 爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
 1905,http://120.76.248.139/live/lunbo/ssdy.m3u8
-北京IPTV淘电影,http://www.ycyaw.cn:5957/rtp/239.3.1.250:8001/udp/225.1.8.70:8002
-北京IPTV淘剧场,http://www.ycyaw.cn:5957/rtp/239.3.1.95:8001udp/225.1.8.70:8002
-北京IPTV淘剧场,http://www.ycyaw.cn:5957/udp/239.3.1.95:8001
-淘电影北京IPTV,http://www.ycyaw.cn:5957/udp/239.3.1.250:8001/udp/225.1.8.94:8002
-淘电影北京IPTV,http://www.ycyaw.cn:5957/udp/239.3.1.250:8001/udp/225.1.8.95:8002
-淘电影北京IPTV,http://www.ycyaw.cn:5957/udp/239.3.1.250:8001/udp/225.1.8.94:8002
-北京IPTV淘剧场,http://www.ycyaw.cn:5957/udp/239.3.1.95:8001
-北京IPTV淘电影,http://www.ycyaw.cn:5957/rtp/239.3.1.250:8001/udp/225.1.8.70:8002
-北京IPTV淘剧场,http://www.ycyaw.cn:5957/rtp/239.3.1.95:8001udp/225.1.8.70:8002
-淘电影北京IPTV,http://www.ycyaw.cn:5957/udp/239.3.1.250:8001/udp/225.1.8.94:8002
-淘电影北京IPTV,http://www.ycyaw.cn:5957/udp/239.3.1.250:8001/udp/225.1.8.95:8002
-北京IPTV淘剧场,http://www.ycyaw.cn:5957/udp/239.3.1.95:8001
+
 
 顺义新闻,http://livebjsy.chinamcache.com/live/zb02.m3u8
 顺义新闻,http://livebjsy.chinamcache.com/live/zb01.m3u8
