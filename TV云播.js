@@ -1,9 +1,8 @@
-muban.首图.二级.tabs = '.myui-panel__head.bottom-line h3';
-var rule = Object.assign(muban.首图,{
-title:'TV云播',
-host:'http://www.tianyidigital.com',
-url:'/type/id/fyclass/page/fypage.html',
-class_parse:'.item.nav-list.clearfix li:gt(0):lt(5);a&&Text;a&&href;/(\\d+).html',
-推荐:'.myui-panel_bd.clearfix;.myui-vodlist.clearfix&&li;a&&title;a&&data-original;.background-color&&Text;a&&href',
- 一级:'.myui-vodlist li;a&&title;a&&data-original;.pic-tag-top&&Text;a&&href',
-});
+{ 
+         
+        "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
+         "线路标题": "裁缝大叔专线",
+         "副标题":"裁缝在线+module-item-note&&</div>",
+      "分类url": "http://www.tianyidigital.com/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
+ "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
+      }
