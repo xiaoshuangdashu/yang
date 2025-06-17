@@ -6,7 +6,7 @@
   
   "分类": "电影$1#剧集$2#动漫$4#综艺$3#",
   
-  "分类url": "http://www.tvyb03.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
+  "分类url": "http://www.tvyun10.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
   
   "数组": "myui-vodlist__box&&</a>",
   "副标题": "title\">&&</div>",
