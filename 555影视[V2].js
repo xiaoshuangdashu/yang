@@ -1,6 +1,6 @@
 var rule = {
 	title: '555影视[V2]', // csp_AppYsV2
-	host: 'https://555dy7.com',
+	host: 'https://510216.vip/',
 	homeUrl:'/api.php/app/index_video',
 	// url: '/api.php/app/video?tid=fyclass&class=&area=&lang=&year=&limit=20&pg=fypage',
 	url: '/api.php/app/video?tid=fyclassfyfilter&limit=20&pg=fypage',
