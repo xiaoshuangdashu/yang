@@ -3,7 +3,7 @@ var rule = {
     类型: '影视',
     title: '专享影视',
     host: 'https://www.oleol.com',
-    url: '/type/id/fyclass/page/fypage.html',
+    url: '/type/fyclass/page/fypage.html',
     searchUrl: '/search/page/fypage/wd/**.html',
     headers: {'User-Agent': 'UC_UA'},
     searchable: 1, quickSearch: 0, filterable: 0, double: true, play_parse: true, limit: 6,
