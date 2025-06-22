@@ -1,6 +1,6 @@
 var rule = {
 	title: '555电影', // csp_AppYsV2
-	host: 'https://555dy7.com',
+	host: 'https://www.5wuf39.shop/',
 	//host: 'https://555dy1.vip',
 	//host: 'https://555dy2.vip',
 	homeUrl:'/api.php/app/index_video',
