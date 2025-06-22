@@ -5,8 +5,8 @@ var rule = {
 	title:'凌云影视',
 	模板:'短视',
 	// host:'https://www.sao640.com',
-	host:'https://www.jiufengtec.com',
-	url:'/b4GPuYg/fyclassfyfilter.html',
+	host:'https://www.js-jghb.com',
+	url:'/type/fyclassfyfilter.html',
 	filterable:1,//是否启用分类筛选,
 	filter_url:'-{{fl.area}}-{{fl.by}}-{{fl.class}}-{{fl.lang}}----fypage---{{fl.year}}',
 	filter:{
