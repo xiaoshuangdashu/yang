@@ -1,33 +1,124 @@
-muban.短视.二级.title = 'h1&&Text;.main-ui-meta&&div:eq(5)--span&&Text';
-muban.短视.二级.desc = '.otherbox&&Text;;;.attrs&&Text;.main-ui-meta&&div:eq(2)--span&&Text';
-muban.短视.二级.tabs = '.py-tabs&&li';
 var rule = {
-	title:'凌云影视',
-	模板:'短视',
-	// host:'https://www.sao640.com',
-	host:'https://www.js-jghb.com',
-	url:'/type/fyclassfyfilter.html',
-	filterable:1,//是否启用分类筛选,
-	filter_url:'-{{fl.area}}-{{fl.by}}-{{fl.class}}-{{fl.lang}}----fypage---{{fl.year}}',
-	filter:{
-		"movie":[{"key":"class","name":"类型","value":[{"n":"全部","v":""},{"n":"剧情","v":"剧情"},{"n":"科幻","v":"科幻"},{"n":"动作","v":"动作"},{"n":"喜剧","v":"喜剧"},{"n":"爱情","v":"爱情"},{"n":"冒险","v":"冒险"},{"n":"儿童","v":"儿童"},{"n":"歌舞","v":"歌舞"},{"n":"音乐","v":"音乐"},{"n":"奇幻","v":"奇幻"},{"n":"动画","v":"动画"},{"n":"恐怖","v":"恐怖"},{"n":"惊悚","v":"惊悚"},{"n":"丧尸","v":"丧尸"},{"n":"战争","v":"战争"},{"n":"传记","v":"传记"},{"n":"纪录","v":"纪录"},{"n":"犯罪","v":"犯罪"},{"n":"悬疑","v":"悬疑"},{"n":"西部","v":"西部"},{"n":"灾难","v":"灾难"},{"n":"古装","v":"古装"},{"n":"武侠","v":"武侠"},{"n":"家庭","v":"家庭"},{"n":"短片","v":"短片"},{"n":"校园","v":"校园"},{"n":"文艺","v":"文艺"},{"n":"运动","v":"运动"},{"n":"青春","v":"青春"},{"n":"同性","v":"同性"},{"n":"励志","v":"励志"},{"n":"人性","v":"人性"},{"n":"美食","v":"美食"},{"n":"女性","v":"女性"},{"n":"治愈","v":"治愈"},{"n":"历史","v":"历史"},{"n":"真人秀","v":"真人秀"},{"n":"脱口秀","v":"脱口秀"}]},{"key":"year","name":"年代","value":[{"n":"全部","v":""},{"n":"2023","v":"2023"},{"n":"2022","v":"2022"},{"n":"2021","v":"2021"},{"n":"2020","v":"2020"},{"n":"2019","v":"2019"},{"n":"2018","v":"2018"},{"n":"2017","v":"2017"},{"n":"2016","v":"2016"},{"n":"2015","v":"2015"},{"n":"2014","v":"2014"},{"n":"2013","v":"2013"},{"n":"2012","v":"2012"},{"n":"2011","v":"2011"},{"n":"2010","v":"2010"},{"n":"00年代","v":"20002009"},{"n":"90年代","v":"19901999"},{"n":"80年代","v":"19801989"},{"n":"更早","v":"18001979"}]},{"key":"area","name":"地区","value":[{"n":"全部","v":""},{"n":"大陆","v":"大陆"},{"n":"香港","v":"香港"},{"n":"台湾","v":"台湾"},{"n":"美国","v":"美国"},{"n":"日本","v":"日本"},{"n":"韩国","v":"韩国"},{"n":"英国","v":"英国"},{"n":"法国","v":"法国"},{"n":"德国","v":"德国"},{"n":"印度","v":"印度"},{"n":"泰国","v":"泰国"},{"n":"丹麦","v":"丹麦"},{"n":"瑞典","v":"瑞典"},{"n":"巴西","v":"巴西"},{"n":"加拿大","v":"加拿大"},{"n":"俄罗斯","v":"俄罗斯"},{"n":"意大利","v":"意大利"},{"n":"比利时","v":"比利时"},{"n":"爱尔兰","v":"爱尔兰"},{"n":"西班牙","v":"西班牙"},{"n":"澳大利亚","v":"澳大利亚"}]},{"key":"lang","name":"语言","value":[{"n":"全部","v":""},{"n":"英语","v":"英语"},{"n":"法语","v":"法语"},{"n":"国语","v":"国语"},{"n":"粤语","v":"粤语"},{"n":"日语","v":"日语"},{"n":"韩语","v":"韩语"},{"n":"泰语","v":"泰语"},{"n":"德语","v":"德语"},{"n":"俄语","v":"俄语"},{"n":"闽南语","v":"闽南语"},{"n":"丹麦语","v":"丹麦语"},{"n":"波兰语","v":"波兰语"},{"n":"瑞典语","v":"瑞典语"},{"n":"印地语","v":"印地语"},{"n":"挪威语","v":"挪威语"},{"n":"意大利语","v":"意大利语"},{"n":"西班牙语","v":"西班牙语"},{"n":"无对白","v":"无对白"}]},{"key":"by","name":"排序","value":[{"n":"时间","v":"time"},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}],
-		"tv":[{"key":"class","name":"类型","value":[{"n":"全部","v":""},{"n":"剧情","v":"剧情"},{"n":"喜剧","v":"喜剧"},{"n":"动作","v":"动作"},{"n":"爱情","v":"爱情"},{"n":"科幻","v":"科幻"},{"n":"动画","v":"动画"},{"n":"悬疑","v":"悬疑"},{"n":"惊悚","v":"惊悚"},{"n":"恐怖","v":"恐怖"},{"n":"犯罪","v":"犯罪"},{"n":"同性","v":"同性"},{"n":"音乐","v":"音乐"},{"n":"歌舞","v":"歌舞"},{"n":"传记","v":"传记"},{"n":"历史","v":"历史"},{"n":"战争","v":"战争"},{"n":"西部","v":"西部"},{"n":"奇幻","v":"奇幻"},{"n":"冒险","v":"冒险"},{"n":"灾难","v":"灾难"},{"n":"武侠","v":"武侠"},{"n":"文艺","v":"文艺"}]},{"key":"year","name":"年代","value":[{"n":"全部","v":""},{"n":"2023","v":"2023"},{"n":"2022","v":"2022"},{"n":"2021","v":"2021"},{"n":"2020","v":"2020"},{"n":"2019","v":"2019"},{"n":"2018","v":"2018"},{"n":"2017","v":"2017"},{"n":"2016","v":"2016"},{"n":"2015","v":"2015"},{"n":"2014","v":"2014"},{"n":"2013","v":"2013"},{"n":"2012","v":"2012"},{"n":"2011","v":"2011"},{"n":"2010","v":"2010"},{"n":"00年代","v":"20002009"},{"n":"90年代","v":"19901999"},{"n":"80年代","v":"19801989"},{"n":"更早","v":"18001979"}]},{"key":"area","name":"地区","value":[{"n":"全部","v":""},{"n":"大陆","v":"大陆"},{"n":"香港","v":"香港"},{"n":"台湾","v":"台湾"},{"n":"美国","v":"美国"},{"n":"日本","v":"日本"},{"n":"韩国","v":"韩国"},{"n":"英国","v":"英国"},{"n":"法国","v":"法国"},{"n":"德国","v":"德国"},{"n":"印度","v":"印度"},{"n":"泰国","v":"泰国"},{"n":"丹麦","v":"丹麦"},{"n":"瑞典","v":"瑞典"},{"n":"巴西","v":"巴西"},{"n":"加拿大","v":"加拿大"},{"n":"俄罗斯","v":"俄罗斯"},{"n":"意大利","v":"意大利"},{"n":"比利时","v":"比利时"},{"n":"爱尔兰","v":"爱尔兰"},{"n":"西班牙","v":"西班牙"},{"n":"澳大利亚","v":"澳大利亚"}]},{"key":"lang","name":"语言","value":[{"n":"全部","v":""},{"n":"英语","v":"英语"},{"n":"法语","v":"法语"},{"n":"国语","v":"国语"},{"n":"粤语","v":"粤语"},{"n":"日语","v":"日语"},{"n":"韩语","v":"韩语"},{"n":"泰语","v":"泰语"},{"n":"德语","v":"德语"},{"n":"俄语","v":"俄语"},{"n":"闽南语","v":"闽南语"},{"n":"丹麦语","v":"丹麦语"},{"n":"波兰语","v":"波兰语"},{"n":"瑞典语","v":"瑞典语"},{"n":"印地语","v":"印地语"},{"n":"挪威语","v":"挪威语"},{"n":"意大利语","v":"意大利语"},{"n":"西班牙语","v":"西班牙语"},{"n":"无对白","v":"无对白"}]},{"key":"by","name":"排序","value":[{"n":"时间","v":"time"},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}],
-		"variety":[{"key":"class","name":"类型","value":[{"n":"全部","v":""},{"n":"选秀","v":"选秀"},{"n":"情感","v":"情感"},{"n":"访谈","v":"访谈"},{"n":"播报","v":"播报"},{"n":"旅游","v":"旅游"},{"n":"音乐","v":"音乐"},{"n":"美食","v":"美食"},{"n":"纪实","v":"纪实"},{"n":"曲艺","v":"曲艺"},{"n":"生活","v":"生活"},{"n":"游戏","v":"游戏"},{"n":"财经","v":"财经"},{"n":"职场","v":"职场"}]},{"key":"year","name":"年代","value":[{"n":"全部","v":""},{"n":"2023","v":"2023"},{"n":"2022","v":"2022"},{"n":"2021","v":"2021"},{"n":"2020","v":"2020"},{"n":"2019","v":"2019"},{"n":"2018","v":"2018"},{"n":"2017","v":"2017"},{"n":"2016","v":"2016"},{"n":"2015","v":"2015"},{"n":"2014","v":"2014"},{"n":"2013","v":"2013"},{"n":"2012","v":"2012"},{"n":"2011","v":"2011"},{"n":"2010","v":"2010"},{"n":"00年代","v":"20002009"},{"n":"90年代","v":"19901999"},{"n":"80年代","v":"19801989"},{"n":"更早","v":"18001979"}]},{"key":"area","name":"地区","value":[{"n":"全部","v":""},{"n":"内地","v":"内地"},{"n":"港台","v":"港台"},{"n":"日韩","v":"日韩"},{"n":"欧美","v":"欧美"}]},{"key":"lang","name":"语言","value":[{"n":"全部","v":""},{"n":"国语","v":"国语"},{"n":"英语","v":"英语"},{"n":"粤语","v":"粤语"},{"n":"闽南语","v":"闽南语"},{"n":"韩语","v":"韩语"},{"n":"日语","v":"日语"},{"n":"其它","v":"其它"}]},{"key":"by","name":"排序","value":[{"n":"时间","v":"time"},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}],
-		"cartoon":[{"key":"class","name":"类型","value":[{"n":"全部","v":""},{"n":"剧情","v":"剧情"},{"n":"萌系","v":"萌系"},{"n":"科幻","v":"科幻"},{"n":"日常","v":"日常"},{"n":"战斗","v":"战斗"},{"n":"战争","v":"战争"},{"n":"热血","v":"热血"},{"n":"机战","v":"机战"},{"n":"游戏","v":"游戏"},{"n":"搞笑","v":"搞笑"},{"n":"恋爱","v":"恋爱"},{"n":"后宫","v":"后宫"},{"n":"百合","v":"百合"},{"n":"基腐","v":"基腐"},{"n":"冒险","v":"冒险"},{"n":"儿童","v":"儿童"},{"n":"歌舞","v":"歌舞"},{"n":"音乐","v":"音乐"},{"n":"奇幻","v":"奇幻"},{"n":"恐怖","v":"恐怖"},{"n":"惊悚","v":"惊悚"},{"n":"犯罪","v":"犯罪"},{"n":"悬疑","v":"悬疑"},{"n":"西部","v":"西部"},{"n":"灾难","v":"灾难"},{"n":"古装","v":"古装"},{"n":"武侠","v":"武侠"},{"n":"泡面","v":"泡面"},{"n":"校园","v":"校园"},{"n":"运动","v":"运动"},{"n":"体育","v":"体育"},{"n":"青春","v":"青春"},{"n":"美食","v":"美食"},{"n":"治愈","v":"治愈"},{"n":"致郁","v":"致郁"},{"n":"励志","v":"励志"},{"n":"历史","v":"历史"},{"n":"其他","v":"其他"}]},{"key":"year","name":"年代","value":[{"n":"全部","v":""},{"n":"2023","v":"2023"},{"n":"2022","v":"2022"},{"n":"2021","v":"2021"},{"n":"2020","v":"2020"},{"n":"2019","v":"2019"},{"n":"2018","v":"2018"},{"n":"2017","v":"2017"},{"n":"2016","v":"2016"},{"n":"2015","v":"2015"},{"n":"2014","v":"2014"},{"n":"2013","v":"2013"},{"n":"2012","v":"2012"},{"n":"2011","v":"2011"},{"n":"2010","v":"2010"},{"n":"00年代","v":"20002009"},{"n":"90年代","v":"19901999"},{"n":"80年代","v":"19801989"},{"n":"更早","v":"18001979"}]},{"key":"area","name":"地区","value":[{"n":"全部","v":""},{"n":"大陆","v":"大陆"},{"n":"香港","v":"香港"},{"n":"台湾","v":"台湾"},{"n":"美国","v":"美国"},{"n":"日本","v":"日本"},{"n":"韩国","v":"韩国"},{"n":"英国","v":"英国"},{"n":"法国","v":"法国"},{"n":"德国","v":"德国"},{"n":"印度","v":"印度"},{"n":"泰国","v":"泰国"},{"n":"丹麦","v":"丹麦"},{"n":"瑞典","v":"瑞典"},{"n":"巴西","v":"巴西"},{"n":"加拿大","v":"加拿大"},{"n":"俄罗斯","v":"俄罗斯"},{"n":"意大利","v":"意大利"},{"n":"比利时","v":"比利时"},{"n":"爱尔兰","v":"爱尔兰"},{"n":"西班牙","v":"西班牙"},{"n":"澳大利亚","v":"澳大利亚"}]},{"key":"lang","name":"语言","value":[{"n":"全部","v":""},{"n":"英语","v":"英语"},{"n":"法语","v":"法语"},{"n":"国语","v":"国语"},{"n":"粤语","v":"粤语"},{"n":"日语","v":"日语"},{"n":"韩语","v":"韩语"},{"n":"泰语","v":"泰语"},{"n":"德语","v":"德语"},{"n":"俄语","v":"俄语"},{"n":"闽南语","v":"闽南语"},{"n":"丹麦语","v":"丹麦语"},{"n":"波兰语","v":"波兰语"},{"n":"瑞典语","v":"瑞典语"},{"n":"印地语","v":"印地语"},{"n":"挪威语","v":"挪威语"},{"n":"意大利语","v":"意大利语"},{"n":"西班牙语","v":"西班牙语"},{"n":"无对白","v":"无对白"}]},{"key":"by","name":"排序","value":[{"n":"时间","v":"time"},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}]
-	},
-	filter_def:{
-		movie:{by:'time'},
-		tv:{by:'time'},
-		variety:{by:'time'},
-		cartoon:{by:'time'}
-	},
-	searchUrl: '/s/page/fypage/wd/**.html',
-	headers: {
-		'User-Agent': 'PC_UA',
-	},
-	class_parse: '.nav ul li:gt(0):lt(5);a&&Text;a&&href;.*/(.*?).html',
-	lazy:'js:var html=JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);var url=html.url;if(html.encrypt=="1"){url=unescape(url)}else if(html.encrypt=="2"){url=unescape(base64Decode(url))}if(/m3u8|mp4/.test(url)){input=url}else{input}',
-	推荐: '.indexShowBox;ul&&li;*;*;*;*',
-	一级: '.content-list&&li;a&&title;img&&data-src;.bottom2&&Text;a&&href',
-	搜索: '.sr_lists&&dl;strong&&Text;*;.ss1&&Text;*',
+  类型: '影视',
+  title: '麦田影院',
+  desc: '源动力出品',
+  host: 'https://www.mtyy1.com',
+  url: '/vodtype/fyclass-fypage.html',
+  searchUrl: '/vodsearch/**----------fypage---.html',
+  searchable: 2,
+  quickSearch: 0,
+  timeout: 5000,
+  play_parse: true,
+  filterable: 0,
+  class_name: '电视剧&电影&综艺&动漫&短剧&纪录片',
+  class_url: '1&2&3&4&5&6',
+  预处理: async () => {
+    return []
+  },
+  推荐: async function (tid, pg, filter, extend) {
+    const { input, pdfa, pdfh, pd } = this;
+    const html = await request(input);
+    const d = [];
+    const data = pdfa(html, '.box-width .public-list-box');
+
+    data.forEach((it) => {
+      d.push({
+        title: pdfh(it, '.public-list-div a&&title'),
+        pic_url: pdfh(it, '.public-list-div img&&data-src'),
+        desc: pdfh(it, '.public-list-div .public-list-prb&&Text'),
+        url: pdfh(it, '.public-list-div a&&href'),
+      })
+    });
+    return setResult(d);
+  },
+  一级: async function (tid, pg, filter, extend) {
+    const { input, pdfa, pdfh, pd } = this;
+    const html = await request(input);
+    const d = [];
+    const data = pdfa(html, '.flex.wrap.border-box.public-r .public-list-box');
+
+    data.forEach((it) => {
+      d.push({
+        title: pdfh(it, '.public-list-button a.time-title&&Text'),
+        pic_url: pdfh(it, '.public-list-bj img&&data-src'),
+        desc: pdfh(it, '.public-list-bj .public-list-prb&&Text'),
+        url: pdfh(it, '.public-list-button a.time-title&&href'),
+      })
+    });
+    return setResult(d);
+  },
+  二级: async function (ids) {
+    const { input, pdfa, pdfh, pd } = this;
+    const html = await request(`${rule.host}${ids[0]}`);
+    const vod = {
+      vod_id: ids[0],
+      vod_name: pdfh(html, '.slide-desc-box .this-desc-title&&Text'),
+      vod_content: pdfh(html, '.slide-desc-box .this-desc .text&&Text'),
+    };
+
+    let playFroms = [];
+    let playUrls = [];
+  
+    const playList = pdfa(html, '.vod-detail .anthology-tab .swiper-wrapper a');
+    playList.forEach((it) => {
+      playFroms.push(pdfh(it, 'a:not([strong])&&Text'));
+    });
+  
+    const indexList = pdfa(html, '.vod-detail .anthology-list .anthology-list-box');
+    indexList.forEach((lines) => {
+      const tmpUrls = [];
+      const line = pdfa(lines, 'ul li');
+      line.forEach((play) => {
+        const index = pdfh(play, 'a&&Text');
+        const url = pdfh(play, 'a&&href');
+        tmpUrls.push(`${index}$${url}`);
+      });
+      playUrls.push(tmpUrls.join('#'));
+    });
+
+    vod.vod_play_from = playFroms.join('$$$');
+    vod.vod_play_url = playUrls.join('$$$');
+
+    return vod;
+  },
+  搜索: async function (wd, quick, pg) {
+    const { input, pdfa, pdfh, pd } = this;
+    const html = await request(input);
+    const d = [];
+    const data = pdfa(html, '.flex.wrap.border-box.public-r .public-list-box');
+
+    data.forEach((it) => {
+      d.push({
+        title: pdfh(it, '.public-list-button a.time-title&&Text'),
+        pic_url: pdfh(it, '.public-list-bj img&&data-src'),
+        desc: pdfh(it, '.public-list-bj .public-list-prb&&Text'),
+        url: pdfh(it, '.public-list-button a.time-title&&href'),
+      })
+    });
+    return setResult(d);
+  },
+  lazy: async function (flag, id, flags) {
+    const { input, pdfa, pdfh, pd } = this;
+    let url = `${rule.host}${id}`;
+    const html = await request(url);
+    const script = pdfa(html, '.player-top script');
+    const scriptContent = script.filter((e) => e.includes("player_aaaa"))[0];
+
+    const scriptRegex = /var player_aaaa=({[^;]+})/;
+    const match = scriptContent.match(scriptRegex);
+    console.warn(match)
+    if (match && match[1]) {
+      try {
+        const matchStr = match[1];
+        const matchJson = JSON.parse(matchStr);
+        url = matchJson.url;
+      } catch (err) { }
+    };
+
+    if (/m3u8|mp4|flv/.test(url)) {
+      return { parse: 0, url }
+    } else {
+      return { parse: 1, url }
+    }
+  }
 }
