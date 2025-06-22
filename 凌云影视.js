@@ -4,7 +4,7 @@ var rule = {
   desc: '源动力出品',
   host: 'https://www.mtyy1.com',
   url: '/vodtype/fyclass-fypage.html',
-  searchUrl: '/vodsearch/**----------fypage---.html',
+  searchUrl: '/vodshow/**----------fypage---.html',
   searchable: 2,
   quickSearch: 0,
   timeout: 5000,
