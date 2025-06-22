@@ -1,7 +1,7 @@
 // 搜索验证
 var rule={
 title:'骚火电影',
-host:'https://shdy3.com',
+host:'https://www.sao640.com',
 // url:'/list/fyclass-fypage.html',
 url:'/list/fyfilter-fypage.html',
 filterable:1,//是否启用分类筛选,
