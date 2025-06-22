@@ -4,9 +4,9 @@ muban.短视.二级.tabs = '.py-tabs&&li';
 var rule = {
 	title:'凌云影视',
 	模板:'短视',
-	// host:'http://www.hfctwy.com/dy/',
-	host:'http://www.hfctwy.com',
-	url:'/dy/fyclassfyfilter.html',
+	// host:'https://www.sao640.com',
+	host:'https://www.sao640.com',
+	url:'/channel/fyclassfyfilter.html',
 	filterable:1,//是否启用分类筛选,
 	filter_url:'-{{fl.area}}-{{fl.by}}-{{fl.class}}-{{fl.lang}}----fypage---{{fl.year}}',
 	filter:{
