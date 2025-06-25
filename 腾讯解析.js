@@ -1,4 +1,4 @@
-﻿var rule = {
+var rule = {
     title: '腾云驾雾[官]',
     host: 'https://v.%71%71.com',
     // homeUrl: '/x/bu/pagesheet/list?_all=1&append=1&channel=choice&listpage=1&offset=0&pagesize=21&iarea=-1&sort=18',
@@ -158,7 +158,7 @@
         let zp = d.filter(function(it) {
             return !(it.type && it.type !== "正片")
         });
-        VOD.vod_play_from = yg.length < 1 ? "裁缝 在线" : "裁缝 在线T$$$预告及花絮";
+        VOD.vod_play_from = yg.length < 1 ? "微信公众号玉玉应用笔记" : "微信公众号玉玉应用笔记T$$$预告及花絮";
         VOD.vod_play_url = yg.length < 1 ? d.map(function(it) {
             return it.title + "$" + it.url
         }).join("#") : [zp, yg].map(function(it) {
