@@ -1,7 +1,7 @@
 电视源,#genre#
-凤凰资讯,http://115.190.105.236:8123/phoenix/fhzx.flv?token=migu
-凤凰中文,http://115.190.105.236:8123/phoenix/fhzw.flv?token=migu
-凤凰香港,http://115.190.105.236:8123/phoenix/fhhk.flv?token=migu
+
+鳯凰衛視資訊,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1666
+鳯凰衛視中文,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1213
 
 CCTV1,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV1
 CCTV2,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV2
