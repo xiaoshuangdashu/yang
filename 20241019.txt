@@ -1,7 +1,9 @@
 电视源,#genre#
-
-鳯凰衛視資訊,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1666
-鳯凰衛視中文,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1213
+凤凰中文,https://stream1.freetv.fun/a4e7e8c192fe538f4878412af5f611bf10948212e980cf029ac0500a7cb8962f.ctv
+凤凰资讯,https://stream1.freetv.fun/13b7649cb1855ec67116e84e21b5ddb3acc3c6a90676d553c97069fee8ecc522.ctv
+凤凰中文,https://stream1.freetv.fun/2b6cc397f0c461bb2bf1276d221fd2bf9372f51a0ba954e31d14b0a2c6a31da6.ctv
+凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-3.ctv
+凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-22.ctv
 
 CCTV1,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV1
 CCTV2,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV2
@@ -125,9 +127,12 @@ CGTN俄语,http://bailudz.top:1236/111/hahahaha.php?id=cgtnr
 幸福中国年,http://bailudz.top:1236/111/hahahaha.php?id=xfzgn
 最强综艺趴,http://bailudz.top:1236/111/hahahaha.php?id=zqzyp
 港澳台1,#genre#
-凤凰中文,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰中文台
-凤凰资讯,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰资讯台
-凤凰香港,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰香港台
+凤凰中文,https://stream1.freetv.fun/a4e7e8c192fe538f4878412af5f611bf10948212e980cf029ac0500a7cb8962f.ctv
+凤凰资讯,https://stream1.freetv.fun/13b7649cb1855ec67116e84e21b5ddb3acc3c6a90676d553c97069fee8ecc522.ctv
+凤凰中文,https://stream1.freetv.fun/2b6cc397f0c461bb2bf1276d221fd2bf9372f51a0ba954e31d14b0a2c6a31da6.ctv
+凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-3.ctv
+凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-22.ctv
+
 中天新闻,https://gdfire2.67890123.cn:8088/live/ztxw01.m3u8
 中天CTI+,https://ali.hlspull.yximgs.com/live/167ztxw2.flv
 中天CTI+,https://gdfire2.67890123.cn:8088/live/ztxw201.m3u8
