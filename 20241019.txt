@@ -5,7 +5,8 @@
 凤凰资讯,https://stream1.freetv.fun/13b7649cb1855ec67116e84e21b5ddb3acc3c6a90676d553c97069fee8ecc522.ctv
 科幻联播,http://36.105.100.208:35455/huya/11601965
 科幻联播,https://isus.cc/php/huya.php?id=11601965
-
+爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
+爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
 
 CHC动作电影 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index.m3u8
 CHC家庭影院 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002028/index.m3u8
