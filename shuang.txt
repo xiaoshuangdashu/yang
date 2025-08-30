@@ -2802,9 +2802,13 @@ Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36#Referer$https://m.cfkj86.co
     "vivovip.mmszxc.top",
     "qiu.xixiqiu.com",
     "cdnjs.hnfenxun.com",
-    "cms.qdwght.com"
+    "cms.qdwght.com",
+  "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
   ]
 }
+
 
 
 
