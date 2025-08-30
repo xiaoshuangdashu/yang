@@ -4,16 +4,18 @@
     {
       "name": "电视直播",
       "type": 0,
+ "epg": "https://11.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://11.112114.xyz/logo/{name}.png",
       "url": "https://d.kstore.dev/download/8240/1107.txt",
-      "playerType": 2
+      "playerType": 1
     },
     {
       "name": "live-1",
       "type": 0,
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaoshuangdashu/yang/refs/heads/main/20241019.txt",
       "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "epg": "https://11.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://11.112114.xyz/logo/{name}.png",
       "timeout": 10,
       "catchup": {
         "days": "7",
@@ -25,10 +27,10 @@
     {
       "name": "live-2",
       "type": 0,
-      "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
+      "url": "https://gh.qninq.cn/https://github.com/xiongjian83/TvBox/blob/main/live.txt",
       "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "epg": "https://11.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://11.112114.xyz/logo/{name}.png",
       "timeout": 10,
       "catchup": {
         "days": "7",
@@ -42,8 +44,8 @@
       "type": 0,
       "url": "https://d.kstore.dev/download/7202/Ironmanlive_theater.txt",
       "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "epg": "https://11.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://11.112114.xyz/logo/{name}.png",
       "timeout": 10,
       "catchup": {
         "days": "7",
@@ -54,14 +56,26 @@
     },
     {
       "name": "加密",
-      "type": 3,
-      "api": "csp_Smart",
-      "ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/xiaoshuangdashu/yang/refs/heads/main/%E7%BB%BC%E5%90%88.txt"
+      "type":0,
+    
+      "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/xiaoshuangdashu/yang/refs/heads/main/%E7%BB%BC%E5%90%88.txt"
+"playerType": 1,
+      "epg": "https://11.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://11.112114.xyz/logo/{name}.png",
+      "timeout": 10,
+      "catchup": {
+        "days": "7",
+        "type": "append",
+        "regex": "/PLTV/",
+        "source": "?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+      }
     },
     {
       "name": "fanmingming",
       "type": 0,
       "url": "https://jihulab.com/zxj/zxj/-/raw/main/txt/live.txt",
+ "epg": "https://11.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://11.112114.xyz/logo/{name}.png",
       "playerType": 1,
       "timeout": 10
     },
@@ -70,8 +84,8 @@
       "type": 0,
       "url": "https://d.kstore.dev/download/8240/xiaoshuang.txt",
       "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "epg": "https://11.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://11.112114.xyz/logo/{name}.png",
       "timeout": 10,
       "catchup": {
         "days": "7",
@@ -2621,3 +2635,4 @@ Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36#Referer$https://m.cfkj86.co
     "cms.qdwght.com"
   ]
 }
+
