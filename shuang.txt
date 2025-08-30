@@ -5,9 +5,15 @@
       "name": "🎀快手号济宁裁缝大叔🎀电视直播",
       "type": 0,
       "url": "https://d.kstore.dev/download/8240/1107.txt",
-       "logo": "https://diyp0731.112114.xyz/logo/{name}.png",
-       "epg": "https://diyp0731.112114.xyz/?ch={name}&date={date}",
-      "playerType": 1
+    "playerType": 1,
+      "epg": "https://diyp0731.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://diyp0731.112114.xyz/logo/{name}.png",
+      "timeout": 10,
+      "catchup": {
+        "days": "7",
+        "type": "append",
+        "regex": "/PLTV/",
+        "source": "?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
     },
    
      {
@@ -31,7 +37,7 @@
       "url": "https://aries.yuanwangokk.nyc.mn/d3ty",
       "logo": "https://diyp0731.112114.xyz/logo/{name}.png",
         "epg": "https://diyp0731.112114.xyz/?ch={name}&date={date}",
-      "playerType": 2
+      "playerType":1
     },
     
     
@@ -41,13 +47,13 @@
       "url": "http://rihou.cc:567/gggg.nzk/",
        "logo": "https://diyp0731.112114.xyz/logo/{name}.png",
         "epg": "https://diyp0731.112114.xyz/?ch={name}&date={date}",
-      "playerType": 2
+      "playerType":1
     },
     {
       "name": "🎀快手号济宁裁缝大叔🎀live-1",
       "type": 0,
       "url": "https://gh-proxy.com/raw.githubusercontent.com/xiaoshuangdashu/yang/refs/heads/main/20241019.txt",
-      "playerType": 2,
+      "playerType": 1,
       "epg": "https://diyp0731.112114.xyz/?ch={name}&date={date}",
       "logo": "https://diyp0731.112114.xyz/logo/{name}.png",
       "timeout": 10,
@@ -2808,6 +2814,7 @@ Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36#Referer$https://m.cfkj86.co
         }
   ]
 }
+
 
 
 
