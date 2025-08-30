@@ -7,13 +7,8 @@
       "url": "https://d.kstore.dev/download/8240/1107.txt",
     "playerType": 1,
       "epg": "https://diyp0731.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://diyp0731.112114.xyz/logo/{name}.png",
-      "timeout": 10,
-      "catchup": {
-        "days": "7",
-        "type": "append",
-        "regex": "/PLTV/",
-        "source": "?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+      "logo": "https://diyp0731.112114.xyz/logo/{name}.png"
+    
     },
    
      {
@@ -2814,6 +2809,7 @@ Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36#Referer$https://m.cfkj86.co
         }
   ]
 }
+
 
 
 
