@@ -1,7 +1,7 @@
 var rule = {
     title:'追剧迷',
     模板:'vfed',
-    host:'https://www.zhuijumi.cc',
+    host:'https://www.gxshsw.com',
     // url:'/videotype/fyclass-fypage.html',
     url:'/mp4type/fyclass-fypage.html',
     searchUrl:'/vodsearch/**-fypage.html',
