@@ -1,7 +1,10 @@
 ﻿{
-//江雪搜集整理 ️以下全部获自网络大佬资源，所有内容仅供学习，此举如有冒犯，烦请联系删除！
-"spider": "./jar/yydf.jar",
+//快手号济宁裁缝大叔搜集整理 ️以下全部网络资源，所有内容仅供学习，此举如有冒犯，烦请联系删除！
+"spider": "https://gitee.com/dentist_chen/tvbox/raw/ef459a0093b8dfa571188d4e7b4b9b1b37a5d4a9/Interface/jar/yydf.jar",
+"wallpaper": "https://gitee.com/yanglongxiang/my/raw/master/%E5%A3%81%E7%BA%B8.png",
+"logo":"https://gitee.com/yanglongxiang/my/raw/master/%E8%A3%81%E7%BC%9D%E5%A4%A7%E5%8F%94.gif",
 
+ 
 "sites": [
 
 {"key":"豆豆",
@@ -547,3 +550,4 @@
     }
   ]
 }
+
