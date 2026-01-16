@@ -8,7 +8,7 @@
 "sites": [
 
 {"key":"豆豆",
- "name":"月儿V3在线🈲贩卖",
+ "name":"🎀快手号济宁裁缝大叔在线🈲贩卖",
  "type": 3, 
  "api": "csp_DouDou",
  "searchable": 0,
@@ -358,14 +358,14 @@
   ],
 
 "lives": [
-{"name": "钢铁侠TV",
+{"name": "🎀快手号济宁裁缝大叔",
  "type": 0,
  "url": "https://d.kstore.space/download/7202/Ironmanlive_local.txt",
  "playerType": 1,
  "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
  "logo": "https://epg.112114.xyz/logo/{name}.png"},
 
-{"name": "钢铁侠剧场",
+{"name": "🎀快手号济宁裁缝大叔剧场",
  "type": 0,
  "url":"https://7202.kstore.space/Ironmanlive_theater.txt",
  "playerType": 1}
@@ -550,4 +550,5 @@
     }
   ]
 }
+
 
