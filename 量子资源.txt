@@ -19,7 +19,7 @@
 "name":"🐄新浪资源",
 
 "type":1,
-"api":https://api.xinlangapi.com/xinlangapi.php/provide/vod/josn",
+"api":https://api.xinlangapi.com/xinlangapi.php/provide/vod",
 
 "playurl":"http://www.pangujiexi.com/jiexi/?url= ",
 
@@ -571,6 +571,7 @@
     }
   ]
 }
+
 
 
 
