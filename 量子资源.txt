@@ -19,8 +19,8 @@
       "key": "瀑布盘资源网   ",
       "name": "🎀瀑布盘资源网   ",
       "type": 1,
-      "api": "https://dh.ha.cn/api.php/provide/vod",
-      "playUrl": "https://www.iqiyizyjx.com/?url=",
+      "api": "https://dh.ha.cn/api.php/provide/vod/at/xml/",
+      "playUrl": "https://jx.xmflv.com/?url=",
       
       "searchable": 1,
       "quickSearch": 1,
@@ -61,7 +61,7 @@
       "name": "🎀豆掰",
       "type": 1,
       "api": "https://caiji.dbzy5.com/api.php/provide/vod",
-      "playUrl": "https://www.iqiyizyjx.com/?url=",
+      "playUrl": "https://www.dbjiexi.com:966/jx/?url=",
       
       "searchable": 1,
       "quickSearch": 1,
@@ -770,6 +770,7 @@
     }
   ]
 }
+
 
 
 
