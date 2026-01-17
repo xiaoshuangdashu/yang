@@ -360,14 +360,18 @@
 "lives": [
 {"name": "🎀快手号济宁裁缝大叔",
  "type": 0,
- "url": "https://d.kstore.space/download/7202/Ironmanlive_local.txt",
+ "url": "./20241019.txt",
  "playerType": 1,
- "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+
+"epg": "https://diyp0731.112114.xyz/?ch={name}&date={date}",
+
  "logo": "https://epg.112114.xyz/logo/{name}.png"},
 
 {"name": "🎀快手号济宁裁缝大叔剧场",
  "type": 0,
- "url":"https://7202.kstore.space/Ironmanlive_theater.txt",
+ "url":"./济宁移动2.txt",
+ "logo": "https://diyp0731.112114.xyz/logo/{name}.png",
+  "epg": "https://diyp0731.112114.xyz/?ch={name}&date={date}",
  "playerType": 1}
 
 ],
@@ -550,5 +554,6 @@
     }
   ]
 }
+
 
 
