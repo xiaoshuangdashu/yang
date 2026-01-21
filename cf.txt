@@ -9,12 +9,23 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
     }
   ],
-  "sites": [{"key":"csp_豆瓣","name":"🌈防失联，关注快手号济宁裁缝大叔","type":3,"api":"csp_Douban","searchable":0,"quickSearch":0,"filterable":0},
-   {"key": "直播转点播","name": "📺电视┃直播","type": 3,"api": "https://raw.gitmirror.com/mt123456888/test/main/js/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD2.js","searchable": 0,"quickSearch": 1,"filterable": 0,"ext": "https://d.kstore.dev/download/8240/m3u%E8%AE%A2%E9%98%85.txt"},  
+  "sites": [  {  "key": "drpy_js_豆瓣",
+  "name": "🇨🇳快手号济宁裁缝大叔豆瓣[js]", 
+  "type": 3,
+      "api": "https://gitee.com/yanglongxiang/my/raw/master/JS2025/drpy2.min.js",
+      "ext": "https://d.kstore.dev/download/8240/douban.js"},
+  
+   {"key":"天天","name":"天天影院复活",
+"type":3,
+"jar": "https://jihulab.com/yoursmile2/TVBox/-/raw/main/Yoursmile.jar",
+"api":"csp_TTian",
+"playerType":1,
+"ext":"7lj763gg0939791h1l3888jig44gi291li"},
+   {"key": "直播转点播","name": "📺电视┃直播","type": 3,"api": "https://gitee.com/uncle-jining-tailor/study/raw/master/live2vod.js","searchable": 0,"quickSearch": 1,"filterable": 0,"ext": "https://d.kstore.dev/download/8240/m3u%E8%AE%A2%E9%98%85.txt"},  
    {"key": "直播转点播2",
    "name": "📺电视┃直播2",
    "type": 3,
-   "api": "https://raw.gitmirror.com/mt123456888/test/main/js/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD2.js","searchable": 0,"quickSearch": 1,"filterable": 0,
+   "api": "https://gitee.com/uncle-jining-tailor/study/raw/master/live2vod.js","searchable": 0,"quickSearch": 1,"filterable": 0,
    "ext": "https://gitee.com/uncle-jining-tailor/study/raw/master/live.json"},
 
  {
@@ -42,7 +53,71 @@
       "playerType": 2
     },
     
-    
+    {
+"key":"贱贱",
+"name":"🧲荐片影视",
+"type":3,
+"jar":"https://gitee.com/yiwu369/6758/raw/master/fan.jar",
+"api":"csp_JPJGuard",
+"playerType":2,
+"searchable":1,
+"changeable":1
+},
+{"key":"新6V",
+"name":"🧲新6V影视",
+"type":3,
+"jar":"https://gitee.com/yiwu369/6758/raw/master/fan.jar",
+"api":"csp_SixVGuard",
+"playerType":2,
+"searchable":1,
+"changeable":1,
+"ext":"https://www.xb6v.com/"
+},     
+       
+       
+         {
+            "key": "超全",
+            "name": "⚽超全┃看球",
+  "type": 3,
+            "api": "csp_ZbzGuard",
+             "jar":"https://gitee.com/yiwu369/6758/raw/master/fan.jar",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "style": {
+                "type": "list"
+            },
+            "ext": "uqGL1fpJNAUf8fdTwZCE5qSp+Q=="
+        },
+        {
+            "key": "88",
+            "name": "⚽88┃看球",
+
+             "type": 3,
+            "jar":"https://gitee.com/yiwu369/6758/raw/master/fan.jar",
+            "api": "csp_Sir88Guard",
+           
+            "timeout": 15,
+            "searchable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "看球",
+            "name": "⚽手机┃看球",
+             "type": 3, 
+              "jar":"https://gitee.com/yiwu369/6758/raw/master/fan.jar",
+            "api": "csp_KanqiuGuard",
+            "timeout": 15,
+            "searchable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "list"
+            }
+        },
+   
     
     
 {
@@ -210,7 +285,7 @@ ac=list","searchable":1,"filterable":0,"categories":["国产动漫","日韩动�
 		"key": " drpy_蜻蜓fm",
 		"name": "📻蜻蜓┃FM",
 		"type": 3,
-		"api": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
+			"api": "https://gitee.com/yanglongxiang/my/raw/master/JS2025/drpy2.min.js",
 		"ext": "https://gh-proxy.com//https://raw.githubusercontent.com/mygoww/xoxo/main/js/蜻蜓FM.js"
 	},
 	{
@@ -3451,4 +3526,5 @@ Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36#Referer$https://m.cfkj86.co
     }
   ]
 }
+
 
