@@ -41,6 +41,89 @@
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/zyzyzy523/api/main/JS/drpy2.min.js",
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/zyzyzy523/api/main/JS/芒果视频.js"  },
+
+         {
+      "key": "壹影视.py",
+      "name": "壹影视(py)",
+      "type": 3,
+      "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leiyou-li/PyramidStore/15ef8d9816809af43552052c478a0b07e421799f/custom/壹影视.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "order_num": 0,
+      "ext": ""
+    },
+    
+{
+      "key": "58视频.py",
+      "name": "58视频(py)",
+      "type": 3,
+      "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leiyou-li/PyramidStore/15ef8d9816809af43552052c478a0b07e421799f/custom/58视频.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "order_num": 0,
+      "ext": ""
+    },
+
+
+
+    {
+      "key": "土豆浏览器.py",
+      "name": "土豆浏览器(py)",
+      "type": 3,
+      "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leiyou-li/PyramidStore/15ef8d9816809af43552052c478a0b07e421799f/custom/土豆浏览器.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "order_num": 0,
+      "ext": ""
+    },
+
+
+     {
+      "key": "csp_界影视",
+      "name": "界影视(py)",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/py_jieyingshi.py",
+     // "jar": "https://gitee.com/mtmz/test/raw/master/m/jar/xc1201.jar;md5;986eea2da6934d04577661b4f1991ac6",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+     
+    
+     {
+      "key": "影院大全",
+      "name": "影院大全(XBPQ)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "分类url": "https://www.iysdq.cc/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
+      },
+      "jar": "https://gitee.com/mtmz/test/raw/master/m/jar/XYQ0720.jar;md5; 08627128682cda2802a3c4ab7bc3a375"
+    },
+
+    {"key":"csp_Gz360","name":"🍉┃瓜子┃影视","type":3,"api":"csp_Gz360","playerType":2,
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/37e4d70e91824037/PandaQ250808.jpg;md5;1099f9cedab19f487ac8fc283d9ca447"},
+    
+     {"key": "py厂长","name": "🚛┃厂长资源┃TV",
+    "type": 3,
+    "api": "https://d.kstore.dev/download/8240/%E5%8E%82%E9%95%BF%E8%B5%84%E6%BA%90.py",
+    "searchable": 1,
+    "quickSearch": 1,
+     "playerType": 2,
+    "changeable": 1,
+    "filterable": 1,
+    "timeout": 60},
+
+
 {
       "key": "瀑布盘资源网   ",
       "name": "🎀瀑布盘资源网   ",
@@ -796,6 +879,7 @@
     }
   ]
 }
+
 
 
 
