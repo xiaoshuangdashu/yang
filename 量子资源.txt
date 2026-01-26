@@ -95,8 +95,14 @@
      // "jar": "https://gitee.com/mtmz/test/raw/master/m/jar/xc1201.jar;md5;986eea2da6934d04577661b4f1991ac6",
       "searchable": 1,
       "quickSearch": 1
+    }, "url": "./20241019.txt",
+       {
+      "key": "影院大全",
+      "name": "影院大全(XBPQ)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./20241019.txt"
     },
-     
     
      {
       "key": "影院大全",
@@ -879,6 +885,7 @@
     }
   ]
 }
+
 
 
 
