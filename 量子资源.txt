@@ -14,6 +14,14 @@
  "searchable": 0,
  "quickSearch": 0,
  "filterable": 0 },
+ {"key":"天天","name":"天天影院复活",
+"type":3,
+"jar": "https://jihulab.com/yoursmile2/TVBox/-/raw/main/Yoursmile.jar",
+"api":"csp_TTian",
+"playerType":1,
+"ext":"7lj763gg0939791h1l3888jig44gi291li"},
+  {"key":"DRJS_虎牙","name":"虎牙直播(JS)","type":3,"api":"https://gitee.com/yanglongxiang/my/raw/master/JS2025/drpy2.min.js","ext":"https://d.kstore.dev/download/8240/%E8%99%8E%E7%89%99.js","searchable": 0,"quickSearch": 0,"filterable": 1},
+
   {
       "key": "爱奇艺",
       "name": "爱奇艺｜视频",
@@ -58,16 +66,17 @@
     
 {
       "key": "58视频.py",
-      "name": "58视频(py)",
+      "name": "🎀58视频修复🎀",
       "type": 3,
-      "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leiyou-li/PyramidStore/15ef8d9816809af43552052c478a0b07e421799f/custom/58视频.py",
+      "api": "https://gitee.com/yanglongxiang/my/raw/master/JS2025/drpy2.min.js",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2,
       "order_num": 0,
-      "ext": ""
+    
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/dr_py/js/%E9%87%91%E7%89%8C%E5%BD%B1%E8%A7%86.js"
     },
 
 
@@ -878,6 +887,7 @@
     }
   ]
 }
+
 
 
 
