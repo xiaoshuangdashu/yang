@@ -94,8 +94,8 @@
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/py_jieyingshi.py",
      // "jar": "https://gitee.com/mtmz/test/raw/master/m/jar/xc1201.jar;md5;986eea2da6934d04577661b4f1991ac6",
       "searchable": 1,
-      "quickSearch": 1
-    }, "url": "./20241019.txt",
+      "quickSearch": 1   },
+ 
        {
       "key": "永乐影视",
       "name": "永乐影视(XBPQ)",
@@ -893,6 +893,7 @@
     }
   ]
 }
+
 
 
 
