@@ -794,9 +794,8 @@
  "url": "./20241019.txt",
  "playerType": 1,
 
-"epg": "https://diyp0731.112114.xyz/?ch={name}&date={date}",
-
- "logo": "https://epg.112114.xyz/logo/{name}.png"},
+ "logo": "https://epg.zbds.top/logo/{name}.png",
+       "epg": "https://epg.zbds.top/?ch={name}&date={date}",
 
 {"name": "🎀快手号济宁裁缝大叔剧场",
  "type": 0,
@@ -985,6 +984,7 @@
     }
   ]
 }
+
 
 
 
