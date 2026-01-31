@@ -16,7 +16,7 @@
  "filterable": 0 },
  {"key":"天天","name":"天天影院复活",
 "type":3,
-"jar": "https://jihulab.com/yoursmile2/TVBox/-/raw/main/Yoursmile.jar",
+"jar": "https://d.kstore.dev/download/8240/fix260108.jar",
 "api":"csp_TTian",
 "playerType":1,
 "ext":"7lj763gg0939791h1l3888jig44gi291li"},
@@ -105,7 +105,105 @@
       "searchable": 1,
       "quickSearch": 1   },
  
- 
+   {
+      "key": "https://aries.yuanwangokk.nyc.mn/SmEs:bexNrn6C2MK4fbRddCNaARXE",
+      "name": "20263🎀555APP🎀",
+      "type": 3,
+       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+       "playerType": 2,
+      "ext": "https://aries.yuanwangokk.nyc.mn/SmEs/555影视[V2026].js"
+    },
+    
+    
+ {
+      "key": "https://aries.yuanwangokk.nyc.mn/ckfw:cB535Dy8fmbFwKHpR2ePFxcF",
+      "name": "20262🎀555APP🎀",
+      "type": 3,
+       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+       "playerType": 2,
+      "ext": "https://aries.yuanwangokk.nyc.mn/ckfw/555%E5%BD%B1%E8%A7%86[202601].js"
+    },
+
+   {
+      "key": "https://aries.yuanwangokk.nyc.mn/Tmfk:HXdpPyAz8QjBzKDTHzjJPny4",
+      "name": "20261🎀555APP🎀",
+      "type": 3,
+       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+       "playerType": 2,
+      "ext": "https://aries.yuanwangokk.nyc.mn/Tmfk/2026555%E5%BD%B1%E8%A7%86.js"
+    },
+
+ {
+      "key": "https://aries.yuanwangokk.nyc.mn/wBcG:4kKYzyz4hjGRfzBJYaa3ACdb",
+      "name": "2026🎀555APP🎀",
+      "type": 3,
+       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+       "playerType": 2,
+      "ext": "https://aries.yuanwangokk.nyc.mn/wBcG/555%E5%BD%B1%E8%A7%86.js"
+    },
+
+    
+    
+    
+       {
+      "key": " https://gh.qninq.cn/",
+      "name": "🎀555APP🎀",
+      "type": 3,
+       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+       "playerType": 2,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaoshuangdashu/xiaoshuangdashu/refs/heads/main/555%E5%BD%B1%E8%A7%86%5B%E9%A3%9E%5D.js"
+    },
+
+
+
+        {
+      "key": " https://gh.qninq.cn/",
+      "name": "🎀555APP🎀",
+      "type": 3,
+       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+       "playerType": 2,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaoshuangdashu/xiaoshuangdashu/refs/heads/main/555%E5%BD%B1%E8%A7%86%5B%E9%A3%9E%5D.js"
+    },
+      { "key": "https://www.tdys.cc.",
+      "name": "🎀糖豆影视🎀  ",
+      "type": 3,
+      "jar": "https://lz.qaiu.top/d/lz/i0fR72vesc2f",
+      "api": "csp_XBPQ",
+       "searchable":1,
+   "playerType":2,
+   "quickSearch":1,
+   "filterable":0,
+      "ext": {"导演": "裁缝大叔",
+      "简介": "快手号济宁裁缝大叔提醒您,请勿相信影片中的广告，以免上当受骗！+class=\"sketch content\">&&</span>",
+        "线路标题": "快手号济宁裁缝大叔专线",
+        "副标题": "裁缝在线+module-item-note&&</div>",
+        "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
+        "分类url": "https://www.tdys.cc/show/{cateId}-{area}-------{catePg}---.html;;ak",
+
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#体育$4#短剧$4",
+        "类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#奇幻片$10#恐怖片$11#战争片$12#动漫片$20#动画片$26#悬疑片$22#冒险片$23#犯罪片$24#惊悚片$45#歌舞片$46#灾难片$47#网络片$48||国产剧$13#港台剧$14#日剧$15#韩剧$33#欧美剧$16#泰剧$34#新马剧$35#其他剧$25||内地综艺$27#港台综艺$28#日本综艺$29#韩国综艺$36#欧美综艺$30#新马泰综艺$37#其他综艺$38||国产动漫$31#日本动漫$32#韩国动漫$39#港台动漫$40#新马泰动漫$41#欧美动漫$42#其他动漫$43"
+      }
+    },
+
+    
      {
       "key": "影院大全",
       "name": "影院大全(XBPQ)",
@@ -887,6 +985,7 @@
     }
   ]
 }
+
 
 
 
