@@ -682,7 +682,7 @@
  "type": 3,
  "api": "csp_TTian",
  "playerType": 1,
- "jar": "./jar/fix12210.jar",
+"jar": "https://d.kstore.dev/download/8240/fix260108.jar",
 "ext": "http://op.ysdqjs.cn" },
 
 {"key": "csp_Bili_9",
@@ -792,10 +792,10 @@
 {"name": "🎀快手号济宁裁缝大叔",
  "type": 0,
  "url": "./20241019.txt",
- "playerType": 1,
+  "logo": "https://diyp0731.112114.xyz/logo/{name}.png",
+  "epg": "https://diyp0731.112114.xyz/?ch={name}&date={date}",
+  "playerType": 1},
 
- "logo": "https://epg.zbds.top/logo/{name}.png",
-       "epg": "https://epg.zbds.top/?ch={name}&date={date}",
 
 {"name": "🎀快手号济宁裁缝大叔剧场",
  "type": 0,
@@ -984,6 +984,7 @@
     }
   ]
 }
+
 
 
 
