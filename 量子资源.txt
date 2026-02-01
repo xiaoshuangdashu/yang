@@ -793,7 +793,7 @@
  "type": 0,
  "url": "./20241019.txt",
   "logo": "https://api.erw.cc/logo/{name}.png",
-  "epg": "https://api.erw.cc/?ch={name}&date={date}",
+  "epg": "https://api.erw.cc/?ch={channel}&date={date}",
   "playerType": 1},
 
 
@@ -984,6 +984,7 @@
     }
   ]
 }
+
 
 
 
