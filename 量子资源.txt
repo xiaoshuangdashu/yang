@@ -792,8 +792,8 @@
 {"name": "🎀快手号济宁裁缝大叔",
  "type": 0,
  "url": "./20241019.txt",
-  "logo": "https://api.erw.cc/logo/{name}.png",
-  "epg": "https://api.erw.cc/?ch={channel}&date={date}",
+  "logo": "https://epg.136605.xyz/3days.xml",
+  "epg": "https://epg.136605.xyz/3days.xml",
   "playerType": 1},
 
 
@@ -984,6 +984,7 @@
     }
   ]
 }
+
 
 
 
