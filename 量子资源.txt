@@ -21,7 +21,12 @@
 "playerType":1,
 "ext":"7lj763gg0939791h1l3888jig44gi291li"},
   {"key":"DRJS_虎牙","name":"虎牙直播(JS)","type":3,"api":"https://gitee.com/yanglongxiang/my/raw/master/JS2025/drpy2.min.js","ext":"https://d.kstore.dev/download/8240/%E8%99%8E%E7%89%99.js","searchable": 0,"quickSearch": 0,"filterable": 1},
-
+  {"key":"搜狗.js",
+    "name":"🍄搜狗.js",
+    "type":3,
+    "api":"https://gitee.com/yanglongxiang/my/raw/master/JS2025/drpy2.min.js",
+    "order_num":142,
+    "ext":"https://d.kstore.dev/download/8240/%E6%90%9C%E7%8B%97.js"},
   {
       "key": "爱奇艺",
       "name": "爱奇艺｜视频",
@@ -49,6 +54,24 @@
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/zyzyzy523/api/main/JS/drpy2.min.js",
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/zyzyzy523/api/main/JS/芒果视频.js"  },
+ { "key": "河马短剧", 
+"name": "河马短剧",
+"type": 3,
+"api":"https://gitee.com/yiwu369/6758/raw/master/%E9%9D%92%E9%BE%99/%E6%B2%B3%E9%A9%AC%E7%9F%AD%E5%89%A7.py",
+"filterable":1,
+"quickSearch":1,
+"searchable":1,
+"changeable":0
+},
+{
+"key":"py_饭团PY",
+"name":"🍚饭团PY",
+"api":"https://gitee.com/yiwu369/6758/raw/master/%E9%9D%92%E9%BE%99/%E9%A5%AD%E5%9B%A2%E5%BD%B1%E8%A7%86.py",
+"filterable":1,
+"quickSearch":1,
+"searchable":1,
+"type":3
+},
 
 {
       "key": "金牌云.py",
@@ -1026,6 +1049,7 @@
     }
   ]
 }
+
 
 
 
