@@ -792,16 +792,16 @@
 {"name": "🎀快手号济宁裁缝大叔",
  "type": 0,
  "url": "./20241019.txt",
-  "logo": "https://epg.136605.xyz/3days.xml",
-  "epg": "https://epg.136605.xyz/3days.xml",
+"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+ "logo": "https://epg.iill.top/logo/{name}.png",
   "playerType": 1},
 
 
 {"name": "🎀快手号济宁裁缝大叔剧场",
  "type": 0,
  "url":"./济宁移动2.txt",
- "logo": "http://epg.51zmt.top/logo/{name}.png",
-  "epg": "http://epg.51zmt.top/?ch={channel}&date={date}",
+ "logo": "http://epg.51zmt.top:8000/api/diyp/logo/{name}.png",
+ "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
  "playerType": 1}
 
 ],
@@ -984,6 +984,7 @@
     }
   ]
 }
+
 
 
 
