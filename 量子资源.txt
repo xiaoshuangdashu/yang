@@ -800,8 +800,8 @@
 {"name": "🎀快手号济宁裁缝大叔剧场",
  "type": 0,
  "url":"./济宁移动2.txt",
- "logo": "https://api.erw.cc/logo/{name}.png",
-  "epg": "https://api.erw.cc/?ch={channel}&date={date}",
+ "logo": "http://epg.51zmt.top:8000/logo/{name}.png",
+  "epg": "http://epg.51zmt.top:8000/?ch={channel}&date={date}",
  "playerType": 1}
 
 ],
@@ -984,6 +984,7 @@
     }
   ]
 }
+
 
 
 
