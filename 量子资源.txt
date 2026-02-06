@@ -61,7 +61,9 @@
       "filterable": 1,
       "playerType": 2,
       "order_num": 0,
-      "ext": ""
+      "ext":  {
+            "site": "https://www.jiabaide.cn,https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com,https://www.hkybqufgh.com"
+        }
     },
 
   {
@@ -1024,6 +1026,7 @@
     }
   ]
 }
+
 
 
 
