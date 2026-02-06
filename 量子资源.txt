@@ -50,6 +50,34 @@
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/zyzyzy523/api/main/JS/drpy2.min.js",
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/zyzyzy523/api/main/JS/芒果视频.js"  },
 
+{
+      "key": "金牌云.py",
+      "name": "金牌浏览器(py)",
+      "type": 3,
+      "api": "./金牌.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "order_num": 0,
+      "ext": ""
+    },
+
+  {
+      "key": "土央库云.py",
+      "name": "央库云浏览器(py)",
+      "type": 3,
+      "api": "./央库云.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "order_num": 0,
+      "ext": ""
+    },
+
          {
       "key": "壹影视.py",
       "name": "壹影视(py)",
@@ -788,8 +816,16 @@
     }
   ],
 
-"lives": [
-{"name": "🎀快手号济宁裁缝大叔",
+"lives": [{"name": "🎀快手号济宁裁缝大叔1",
+ "type": 0,
+ "url": "./综合.txt",
+ "logo": "https://epg.zbds.top/logo/{name}.png",
+"epg": "https://epg.zbds.top/?ch={name}&date={date}",
+//"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+// "logo": "https://epg.iill.top/logo/{name}.png",
+  "playerType": 1},
+
+{"name": "🎀快手号济宁裁缝大叔2",
  "type": 0,
  "url": "./20241019.txt",
  "logo": "https://epg.zbds.top/logo/{name}.png",
@@ -799,7 +835,7 @@
   "playerType": 1},
 
 
-{"name": "🎀快手号济宁裁缝大叔剧场",
+{"name": "🎀快手号济宁裁缝大叔剧场3",
  "type": 0,
  "url":"./济宁移动2.txt",
  "logo": "https://epg.zbds.top/logo/{name}.png",
@@ -988,6 +1024,7 @@
     }
   ]
 }
+
 
 
 
