@@ -10,7 +10,7 @@
     }
   ],
   "sites": [  {  "key": "drpy_js_豆瓣",
-  "name": "🇨🇳快手号济宁裁缝大叔豆瓣[js]", 
+  "name": "🇨🇳快手号济宁裁缝大叔内置影视不要用豆瓣[js]", 
   "type": 3,
       "api": "https://gitee.com/yanglongxiang/my/raw/master/JS2025/drpy2.min.js",
       "ext": "https://d.kstore.dev/download/8240/douban.js"},
@@ -21,6 +21,39 @@
 "api":"csp_TTian",
 "playerType":1,
 "ext":"7lj763gg0939791h1l3888jig44gi291li"},
+{
+      "key": "量。小8 猫2子",
+      "name": "☀小8 猫2",
+      "type": 1,
+      "api": "http://154.219.117.232:9981/jacloudapi.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playurl": "json:https://lziplayer.com/?url=",
+      "categories": [
+        
+      ]
+    },
+
+    {"key": "T   V",
+			"name": "小 猫 (快手号|济宁裁缝大叔)",
+			"type": 1,
+			"api": "http://www.caiji.cyou//api.php/provide/vod",
+			"playUrl": "https://jiexi.789jiexi.net:4433/?url=",
+			"searchable": 1,
+			"quickSearch": 1
+		}, 
+
+   {"key": "T  🎀 V",
+			"name": "金蚕🎀 猫 🎀(快手号|济宁裁缝大叔)",
+			"type": 1,
+			"api": "https://zy.jinchancaiji.com/api.php/provide/vod/?ac=list",
+    
+      "playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1
+		}, 
+
    {"key": "直播转点播","name": "📺电视┃直播","type": 3,"api": "https://gitee.com/uncle-jining-tailor/study/raw/master/live2vod.js","searchable": 0,"quickSearch": 1,"filterable": 0,"ext": "https://d.kstore.dev/download/8240/m3u%E8%AE%A2%E9%98%85.txt"},  
    {"key": "直播转点播2",
    "name": "📺电视┃直播2",
@@ -3526,5 +3559,6 @@ Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36#Referer$https://m.cfkj86.co
     }
   ]
 }
+
 
 
