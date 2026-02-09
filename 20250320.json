@@ -6,15 +6,17 @@
       "name": "电视直播",
       "type": 0,
       "url": "https://d.kstore.dev/download/8240/1107.txt",
-      "playerType": 2
+     "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",     
+          "logo": "https://epg.iill.top/logo/{name}.png"
+      "playerType": 1
     },
     {
       "name": "live-1",
       "type": 0,
-      "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/xiaoshuangdashu/yang/refs/heads/main/20241019.txt",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/xiaoshuangdashu/yang/refs/heads/main/20241019.txt",
       "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
+     "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",     
+          "logo": "https://epg.iill.top/logo/{name}.png"
       "timeout": 10,
       "catchup": {
         "days": "7",
@@ -26,10 +28,10 @@
     {
       "name": "live-2",
       "type": 0,
-      "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/SPX372928/MyIPTV/refs/heads/master/%E5%B1%B1%E4%B8%9CSNM%E7%A7%BB%E5%8A%A8CDN%E7%89%88.txt",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/SPX372928/MyIPTV/refs/heads/master/%E5%B1%B1%E4%B8%9CSNM%E7%A7%BB%E5%8A%A8CDN%E7%89%88.txt",
       "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",     
+          "logo": "https://epg.iill.top/logo/{name}.png"
       "timeout": 10,
       "catchup": {
         "days": "7",
@@ -56,8 +58,10 @@
     {
       "name": "加密",
       "type": 3,
+     "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",     
+          "logo": "https://epg.iill.top/logo/{name}.png"
       "api": "csp_Smart",
-      "ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/xiaoshuangdashu/yang/refs/heads/main/%E7%BB%BC%E5%90%88.txt"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xiaoshuangdashu/yang/refs/heads/main/%E7%BB%BC%E5%90%88.txt"
     },
    
     {
@@ -70,10 +74,10 @@
     {
       "name": "山东联通",
       "type": 0,
-      "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/xiaoshuangdashu/yang/refs/heads/main/20241019.txt",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/xiaoshuangdashu/yang/refs/heads/main/20241019.txt",
       "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",     
+          "logo": "https://epg.iill.top/logo/{name}.png"
       "timeout": 10,
       "catchup": {
         "days": "7",
@@ -671,26 +675,47 @@ hg==",
 
 
 {"key":"快看影视","name":"快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"playerType":2,"quickSearch":1,"filterable":1},
-   
     {
-      "key": "dr_兔小贝",
-      "name": "📚儿童┃启蒙",
+      "key": "drpy_js_哔哩直播",
+      "name": "直播 | 哔哩[js]",
       "type": 3,
-      "api": "https://raw.gitmirror.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-      "ext": "https://raw.gitmirror.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
+      "api": "http://ztha.top/catjs/JS/lib/drpy2.min.js",
+      "ext": "http://ztha.top/catjs/JS/js/哔哩直播.js"
     },
     {
-      "key": "少儿教育",
-      "name": "📚少儿┃教育",
+      "key": "drpy_js_斗鱼直播",
+      "name": "直播 | 斗鱼[js]",
       "type": 3,
-      "api": "csp_BiliGuard",
+      "api": "http://ztha.top/catjs/JS/lib/drpy2.min.js",
+      "ext": "http://ztha.top/catjs/JS/js/斗鱼直播.js"
+    },
+    {
+      "key": "drpy_js_虎牙直播",
+      "name": "直播 | 虎牙[js]",
+      "type": 3,
+      "api": "http://ztha.top/catjs/JS/lib/drpy2.min.js",
+      "ext": "http://ztha.top/catjs/JS/js/虎牙直播.js"
+    },
+    
+    {
+      "key": "Bili",
+      "name": "🅱┃哔哔┃合集",
+      "type": 3,
+       "jar": "https://d.kstore.dev/download/8240/spider+%284%29.jar",
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 0,
+      "ext": "http://www.lyyytv.cn/yt/bili/bili.json"
+    
+    },
+ 
+   
+   {
+      "key": "少儿课堂",
+      "name": "📚少儿┃课堂",
+      "type": 3,
+  "jar": "https://gitee.com/uncle-jining-tailor/iptv/raw/master/jar/live.jar",
+      "api": "csp_Bili",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -698,15 +723,16 @@ hg==",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": {
-        "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce4019465168f841292"
-      }
+    
+      "ext": "https://gitee.com/uncle-jining-tailor/study/raw/master/%E5%B0%91%E5%84%BF%E6%95%99%E8%82%B2.json"
     },
+   
     {
       "key": "小学课堂",
       "name": "📚小学┃课堂",
       "type": 3,
-      "api": "csp_BiliGuard",
+  "jar": "https://gitee.com/uncle-jining-tailor/iptv/raw/master/jar/live.jar",
+      "api": "csp_Bili",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -714,15 +740,15 @@ hg==",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": {
-        "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce401946513bb42128a"
-      }
+      
+      "ext": "https://gitee.com/uncle-jining-tailor/study/raw/master/%E5%B0%8F%E5%AD%A6%E8%AF%BE%E5%A0%82.json"
     },
     {
       "key": "初中课堂",
       "name": "📚初中┃课堂",
+      "jar": "https://gitee.com/uncle-jining-tailor/iptv/raw/master/jar/live.jar",
       "type": 3,
-      "api": "csp_BiliGuard",
+      "api": "csp_Bili",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -730,15 +756,15 @@ hg==",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": {
-        "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce401946513bb2d1289"
-      }
+       
+      "ext": "https://gitee.com/uncle-jining-tailor/study/raw/master/%E5%88%9D%E4%B8%AD%E8%AF%BE%E5%A0%82.json"
     },
     {
       "key": "高中教育",
       "name": "📚高中┃课堂",
+      "jar":"https://d.kstore.dev/download/8240/spider+%284%29.jar",
       "type": 3,
-      "api": "csp_BiliGuard",
+      "api": "csp_Bili",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -746,10 +772,58 @@ hg==",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": {
-        "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce401946513bd90128b"
-      }
+      "jar": "https://gitee.com/uncle-jining-tailor/iptv/raw/master/jar/live.jar",
+      "ext": "https://gitee.com/uncle-jining-tailor/study/raw/master/%E9%AB%98%E4%B8%AD%E8%AF%BE%E5%A0%82.json"
     },
+{"key":"索尼采集",
+"name":"🥤索尼秒播",
+"jar":"https://gitee.com/yiwu369/6758/raw/master/jar/fm.jar",
+"type":1,
+"api":"https://suoniapi.com/api.php/provide/vod/?ac=list",
+"playUrl":"",
+"searchable":1,
+"quickSearch":1,
+"filterable":1,
+"categories":["科幻片",
+"动作片",
+"恐怖片",
+"纪录片",
+"爱情片",
+"战争片",
+"剧情片",
+"喜剧片",
+"大陆剧",
+"港澳剧",
+"台湾剧",
+"欧美剧",
+"动漫电影",
+"韩剧",
+"日剧",
+"泰剧"]},
+{"key":"暴风采集",
+"name":"🌪️暴风秒播",
+"jar":"https://gitee.com/yiwu369/6758/raw/master/jar/fm.jar",
+"type":1,
+"api":"https://app.bfzyapi.com/api.php/provide/vod/",
+"playUrl":"",
+"categories":[
+"科幻片",
+"战争片",
+"动作片",
+"剧情片",
+"喜剧片",
+"爱情片",
+"恐怖片",
+"国产剧",
+"香港剧",
+"台湾剧",
+"日本剧",
+"欧美剧",
+"泰国剧",
+"国产动漫",
+"日本动漫",
+"纪录片"]},
+  
 
 {"key":"360_spider","name":"360影视","api":"csp_XBPQ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://d.kstore.dev/download/8240/%E5%A4%A9%E9%BE%99%E5%BD%B1%E9%99%A2.json"}
 
