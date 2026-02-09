@@ -21,7 +21,38 @@
 "playerType":1,
 "ext":"7lj763gg0939791h1l3888jig44gi291li"},
   {"key":"DRJS_虎牙","name":"虎牙直播(JS)","type":3,"api":"https://gitee.com/yanglongxiang/my/raw/master/JS2025/drpy2.min.js","ext":"https://d.kstore.dev/download/8240/%E8%99%8E%E7%89%99.js","searchable": 0,"quickSearch": 0,"filterable": 1},
-  {"key":"搜狗.js",
+  {"key": "T   V",
+			"name": "小 猫 (快手号|济宁裁缝大叔)",
+			"type": 1,
+			"api": "http://www.caiji.cyou//api.php/provide/vod",
+			"playUrl": "https://jiexi.789jiexi.net:4433/?url=",
+			"searchable": 1,
+			"quickSearch": 1
+		}, 
+
+   {"key": "T  🎀 V",
+			"name": "金蚕🎀 猫 🎀(快手号|济宁裁缝大叔)",
+			"type": 1,
+			"api": "https://zy.jinchancaiji.com/api.php/provide/vod/?ac=list",
+    
+      "playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1
+		}, 
+{"key": "空气屋（APP）",
+      "name": "🌙空气屋（APP）",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "ext": "https://www.airfun.fun/xgapp.php/v2/"},
+{"key": "天天美剧网（APP）",
+      "name": "🌙天天美剧网（APP）",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "ext": "https://www.ttmja.com/api.php/app/"},
+
+
+
+{"key":"搜狗.js",
     "name":"🍄搜狗.js",
     "type":3,
     "api":"https://gitee.com/yanglongxiang/my/raw/master/JS2025/drpy2.min.js",
@@ -1049,6 +1080,7 @@
     }
   ]
 }
+
 
 
 
