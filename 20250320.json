@@ -7,7 +7,7 @@
       "type": 0,
       "url": "https://d.kstore.dev/download/8240/1107.txt",
      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",     
-          "logo": "https://epg.iill.top/logo/{name}.png"
+                 "logo": "https://epg.iill.top/logo/{name}.png"，  
       "playerType": 1
     },
     {
@@ -16,7 +16,7 @@
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/xiaoshuangdashu/yang/refs/heads/main/20241019.txt",
       "playerType": 1,
      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",     
-          "logo": "https://epg.iill.top/logo/{name}.png"
+                   "logo": "https://epg.iill.top/logo/{name}.png"，
       "timeout": 10,
       "catchup": {
         "days": "7",
@@ -31,7 +31,7 @@
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/SPX372928/MyIPTV/refs/heads/master/%E5%B1%B1%E4%B8%9CSNM%E7%A7%BB%E5%8A%A8CDN%E7%89%88.txt",
       "playerType": 1,
       "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",     
-          "logo": "https://epg.iill.top/logo/{name}.png"
+                   "logo": "https://epg.iill.top/logo/{name}.png"， 
       "timeout": 10,
       "catchup": {
         "days": "7",
@@ -46,7 +46,7 @@
       "url": "https://d.kstore.dev/download/7202/Ironmanlive_theater.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
+     
       "timeout": 10,
       "catchup": {
         "days": "7",
@@ -59,7 +59,7 @@
       "name": "加密",
       "type": 3,
      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",     
-          "logo": "https://epg.iill.top/logo/{name}.png"
+     
       "api": "csp_Smart",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xiaoshuangdashu/yang/refs/heads/main/%E7%BB%BC%E5%90%88.txt"
     },
@@ -77,7 +77,7 @@
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/xiaoshuangdashu/yang/refs/heads/main/20241019.txt",
       "playerType": 1,
       "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",     
-          "logo": "https://epg.iill.top/logo/{name}.png"
+          "logo": "https://epg.iill.top/logo/{name}.png"，
       "timeout": 10,
       "catchup": {
         "days": "7",
