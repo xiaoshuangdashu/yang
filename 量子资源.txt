@@ -20,6 +20,63 @@
 "api":"csp_TTian",
 "playerType":1,
 "ext":"7lj763gg0939791h1l3888jig44gi291li"},
+{
+      "key": "drpy_js_xb6v",
+      "name": "磁力 | 新版6v[js]",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/xb6v.js",
+      "playerType": "1",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "timeout": 30
+    },
+
+ {
+      "key": "索尼🏮蓝光",
+      "name": "索尼🏮蓝光",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "篮球",
+        "足球",
+        "影视解说",
+        "科幻片",
+        "动作片",
+        "恐怖片",
+        "纪录片",
+        "预告片",
+        "喜剧片",
+        "爱情片",
+        "国产剧",
+        "欧美剧",
+        "韩剧",
+        "日剧",
+        "港剧",
+        "台剧",
+        "泰剧",
+        "纪录片",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "动画片",
+        "港台动漫",
+        "海外动漫"
+      ]
+    },
+    
+   
+
+
   {"key":"DRJS_虎牙","name":"虎牙直播(JS)","type":3,"api":"https://gitee.com/yanglongxiang/my/raw/master/JS2025/drpy2.min.js","ext":"https://d.kstore.dev/download/8240/%E8%99%8E%E7%89%99.js","searchable": 0,"quickSearch": 0,"filterable": 1},
   {"key": "T   V",
 			"name": "小 猫 (快手号|济宁裁缝大叔)",
@@ -1080,6 +1137,7 @@
     }
   ]
 }
+
 
 
 
