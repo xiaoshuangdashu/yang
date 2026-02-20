@@ -120,28 +120,32 @@
       "key": "爱奇艺",
       "name": "爱奇艺｜视频",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/zyzyzy523/api/main/JS/drpy2.min.js",
+       "api":"https://gitee.com/yanglongxiang/my/raw/master/JS2025/drpy2.min.js",
+    "order_num":142,
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/zyzyzy523/api/main/JS/爱奇艺.js"
     },
     {
       "key": "腾讯视频",
       "name": "腾讯｜视频",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/zyzyzy523/api/main/JS/drpy2.min.js",
+        "api":"https://gitee.com/yanglongxiang/my/raw/master/JS2025/drpy2.min.js",
+    "order_num":142,
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/zyzyzy523/api/main/JS/腾讯视频.js"
     },
     {
       "key": "优酷视频",
       "name": "优酷｜视频",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/zyzyzy523/api/main/JS/drpy2.min.js",
+        "api":"https://gitee.com/yanglongxiang/my/raw/master/JS2025/drpy2.min.js",
+    "order_num":142,
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/zyzyzy523/api/main/JS/优酷视频.js"
     },
     {
       "key": "芒果视频",
       "name": "芒果｜视频",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/zyzyzy523/api/main/JS/drpy2.min.js",
+        "api":"https://gitee.com/yanglongxiang/my/raw/master/JS2025/drpy2.min.js",
+    "order_num":142,
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/zyzyzy523/api/main/JS/芒果视频.js"  },
  { "key": "河马短剧", 
 "name": "河马短剧",
@@ -251,7 +255,8 @@
       "key": "https://aries.yuanwangokk.nyc.mn/SmEs:bexNrn6C2MK4fbRddCNaARXE",
       "name": "20263🎀555APP🎀",
       "type": 3,
-       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
+       "api":"https://gitee.com/yanglongxiang/my/raw/master/JS2025/drpy2.min.js",
+    "order_num":142,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -264,7 +269,8 @@
       "key": "https://aries.yuanwangokk.nyc.mn/ckfw:cB535Dy8fmbFwKHpR2ePFxcF",
       "name": "20262🎀555APP🎀",
       "type": 3,
-       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
+        "api":"https://gitee.com/yanglongxiang/my/raw/master/JS2025/drpy2.min.js",
+    "order_num":142,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -1138,6 +1144,7 @@
     }
   ]
 }
+
 
 
 
