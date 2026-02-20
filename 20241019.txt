@@ -3,7 +3,6 @@
 CHC动作电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index.m3u8
 CHC家庭影院,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002028/index.m3u8
 CHC影迷电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002029/index.m3u8
-东方卫视4k,video://https://live.kankanews.com/huikan/#video://https://live.kankanews.com/huikan/#video://https://live.jstv.com/#https://yzzy21.playback-speed.com/20250430/42755_cc803404/index.m3u8#https://yzzy21.playback-speed.com/20250430/42755_cc803404/2000k/hls/mixed.m3u8
 
 电影国内,video://https://www.yy.com/1355076627/1355076627
 电影连续剧,video://https://www.yy.com/1352946111/1352946111
