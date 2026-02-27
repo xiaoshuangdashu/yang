@@ -16,7 +16,7 @@
  "filterable": 0 },
  {"key":"天天","name":"天天影院复活",
 "type":3,
-"jar": "http://cdn.qiaoji8.com/fix260214.jar",
+"jar": "https://gh.sevencdn.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/qiaoji/lh260223.jar",
 "api":"csp_TTian",
 "playerType":1,
 "ext":"7lj763gg0939791h1l3888jig44gi291li"},
@@ -1144,6 +1144,7 @@
     }
   ]
 }
+
 
 
 
