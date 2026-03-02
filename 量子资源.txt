@@ -35,7 +35,7 @@
 
  {
       "key": "iysdq",
-      "name": "🧿影院",
+      "name": "🌙影院🌙",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -48,7 +48,9 @@
     },
 {
       "key": "视频库",
-      "name": "快手号济宁裁缝大叔视库",
+      "name": "🧿视频库🌙",
+
+ "jar": "https://gitee.com/yanglongxiang/xs/raw/master/spider.jar",
       "type": 3,
       "api": "csp_WebVidHub",
       "searchable": 1,
@@ -1186,6 +1188,7 @@
     }
   ]
 }
+
 
 
 
