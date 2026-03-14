@@ -1,256 +1,32 @@
-//本资源来源于互联网公开渠道，仅可用于个人学习爬虫技术。
-//严禁将其用于任何商业用途，下载后请于 24 小时内删除，搜索结果均来自源站，本人不承担任何责任。
-
-const DEFAULT_HEADERS = {
-    'User-Agent': 'Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; BOIE9;ZHCN)',
-    'Connection': 'Keep-Alive'
-};
-const FALLBACK_HOST = 'http://124.221.30.100:8088/';
-
-let HOST = '';
-let homeVodList = [];
-let filterYearStr = '';
-
-async function init(cfg) {
-    try {
-        let url = 'http://tv.kltvyg.top/api/api.php?bb=9.9';
-        let res = await req(url, { headers: DEFAULT_HEADERS, method: 'get' });
-        let content = res.content;
-        let urlMatch = content.match(/url1#([^#]+)#/);
-        if (urlMatch) HOST = urlMatch[1].trim();
-        let match;
-        let vodRegex = /#tvkl#&tp&([^&]+)&id&([^&]+)&mz&([^&]+)&#kltv#/g;
-        homeVodList = [];
-        while ((match = vodRegex.exec(content)) !== null) {
-            homeVodList.push({ vod_pic: match[1], vod_id: match[2], vod_name: match[3] });
-        }
-        let nfMatch = content.match(/nf&([^&]+)&/);
-        if (nfMatch) filterYearStr = nfMatch[1];
-    } catch (e) {}
-}
-
-async function home(filter) {
-    const CLASS_MOVIE = "kltvv#id##mz#全部##kkkk#kltvv#id#最新#mz#最新##kkkk#kltvv#id#喜剧#mz#喜剧##kkkk#kltvv#id#爱情#mz#爱情##kkkk#kltvv#id#动作#mz#动作##kkkk#kltvv#id#恐怖#mz#恐怖##kkkk#kltvv#id#科幻#mz#科幻##kkkk#kltvv#id#剧情#mz#剧情##kkkk#kltvv#id#犯罪#mz#犯罪##kkkk#kltvv#id#奇幻#mz#奇幻##kkkk#kltvv#id#战争#mz#战争##kkkk#kltvv#id#悬疑#mz#悬疑##kkkk#kltvv#id#动画#mz#动画##kkkk#kltvv#id#文艺#mz#文艺##kkkk#kltvv#id#纪录#mz#纪录##kkkk#kltvv#id#传记#mz#传记##kkkk#kltvv#id#歌舞#mz#歌舞##kkkk#kltvv#id#古装#mz#古装##kkkk#kltvv#id#历史#mz#历史##kkkk#kltvv#id#惊悚#mz#惊悚##kkkk#kltvv#id#伦理#mz#伦理##kkkk#kltvv#id#其他#mz#其他##kkkk#";
-    const CLASS_TV = "kltvv#id##mz#全部##kkkk#kltvv#id#最新#mz#最新##kkkk#kltvv#id#国产#mz#国产##kkkk#kltvv#id#港台#mz#港台##kkkk#kltvv#id#日韩#mz#日韩##kkkk#kltvv#id#欧美#mz#欧美##kkkk#kltvv#id#言情#mz#言情##kkkk#kltvv#id#剧情#mz#剧情##kkkk#kltvv#id#农村#mz#农村##kkkk#kltvv#id#伦理#mz#伦理##kkkk#kltvv#id#喜剧#mz#喜剧##kkkk#kltvv#id#悬疑#mz#悬疑##kkkk#kltvv#id#都市#mz#都市##kkkk#kltvv#id#偶像#mz#偶像##kkkk#kltvv#id#古装#mz#古装##kkkk#kltvv#id#军事#mz#军事##kkkk#kltvv#id#警匪#mz#警匪##kkkk#kltvv#id#历史#mz#历史##kkkk#kltvv#id#励志#mz#励志##kkkk#kltvv#id#神话#mz#神话##kkkk#kltvv#id#谍战#mz#谍战##kkkk#kltvv#id#青春#mz#青春##kkkk#kltvv#id#家庭#mz#家庭##kkkk#kltvv#id#动作#mz#动作##kkkk#kltvv#id#情景#mz#情景##kkkk#kltvv#id#武侠#mz#武侠##kkkk#kltvv#id#科幻#mz#科幻##kkkk#kltvv#id#其他#mz#其他##kkkk#";
-    const CLASS_ZONGYI = "kltvv#id##mz#全部##kkkk#kltvv#id#最新#mz#最新##kkkk#kltvv#id#脱口秀#mz#脱口秀##kkkk#kltvv#id#真人秀#mz#真人秀##kkkk#kltvv#id#搞笑#mz#搞笑##kkkk#kltvv#id#选秀#mz#选秀##kkkk#kltvv#id#八卦#mz#八卦##kkkk#kltvv#id#访谈#mz#访谈##kkkk#kltvv#id#情感#mz#情感##kkkk#kltvv#id#生活#mz#生活##kkkk#kltvv#id#晚会#mz#晚会##kkkk#kltvv#id#音乐#mz#音乐##kkkk#kltvv#id#职场#mz#职场##kkkk#kltvv#id#美食#mz#美食##kkkk#kltvv#id#时尚#mz#时尚##kkkk#kltvv#id#游戏#mz#游戏##kkkk#kltvv#id#少儿#mz#少儿##kkkk#kltvv#id#体育#mz#体育##kkkk#kltvv#id#纪实#mz#纪实##kkkk#kltvv#id#曲艺#mz#曲艺##kkkk#kltvv#id#歌舞#mz#歌舞##kkkk#kltvv#id#财经#mz#财经##kkkk#kltvv#id#汽车#mz#汽车##kkkk#kltvv#id#播报#mz#播报##kkkk#kltvv#id#其他#mz#其他##kkkk#";
-    const CLASS_DONGMAN = "kltvv#id##mz#全部##kkkk#kltvv#id#最新#mz#最新##kkkk#kltvv#id#热血#mz#热血##kkkk#kltvv#id#科幻#mz#科幻##kkkk#kltvv#id#美少女#mz#美少女##kkkk#kltvv#id#魔幻#mz#魔幻##kkkk#kltvv#id#经典#mz#经典##kkkk#kltvv#id#励志#mz#励志##kkkk#kltvv#id#少儿#mz#少儿##kkkk#kltvv#id#冒险#mz#冒险##kkkk#kltvv#id#搞笑#mz#搞笑##kkkk#kltvv#id#推理#mz#推理##kkkk#kltvv#id#恋爱#mz#恋爱##kkkk#kltvv#id#治愈#mz#治愈##kkkk#kltvv#id#校园#mz#校园##kkkk#kltvv#id#机战#mz#机战##kkkk#kltvv#id#亲子#mz#亲子##kkkk#kltvv#id#儿歌#mz#儿歌##kkkk#kltvv#id#运动#mz#运动##kkkk#kltvv#id#悬疑#mz#悬疑##kkkk#kltvv#id#怪物#mz#怪物##kkkk#kltvv#id#战争#mz#战争##kkkk#kltvv#id#益智#mz#益智##kkkk#kltvv#id#青春#mz#青春##kkkk#kltvv#id#童话#mz#童话##kkkk#kltvv#id#竞技#mz#竞技##kkkk#kltvv#id#动作#mz#动作##kkkk#kltvv#id#社会#mz#社会##kkkk#kltvv#id#其他#mz#其他##kkkk#";
-    let classes = [
-        { type_id: '1', type_name: '电影' },
-        { type_id: '2', type_name: '连续剧' },
-        { type_id: '3', type_name: '综艺' },
-        { type_id: '4', type_name: '动漫' }
-    ];
-    let defaultYear = "kltvv#id##mz#全部##kkkk#kltvv#id#2023#mz#2023##kkkk#kltvv#id#2022#mz#2022##kkkk#kltvv#id#2021#mz#2021##kkkk#kltvv#id#2020#mz#2020##kkkk#kltvv#id#2019#mz#2019##kkkk#kltvv#id#2018#mz#2018##kkkk#kltvv#id#2017#mz#2017##kkkk#kltvv#id#2016#mz#2016##kkkk#kltvv#id#2015#mz#2015##kkkk#kltvv#id#2014#mz#2014##kkkk#kltvv#id#2013#mz#2013##kkkk#kltvv#id#2012#mz#2012##kkkk#kltvv#id#2011#mz#2011##kkkk#kltvv#id#2010#mz#2010##kkkk#kltvv#id#2009#mz#2009##kkkk#kltvv#id#2008#mz#2008##kkkk#kltvv#id#2007#mz#2007##kkkk#";
-    let parsedYear = parseFilterStr(filterYearStr || defaultYear);
-    let filterObj = {
-        "1": [{ key: 'class', name: '分类', init: '', value: parseFilterStr(CLASS_MOVIE) }, { key: 'year', name: '年份', init: '', value: parsedYear }],
-        "2": [{ key: 'class', name: '分类', init: '', value: parseFilterStr(CLASS_TV) }, { key: 'year', name: '年份', init: '', value: parsedYear }],
-        "3": [{ key: 'class', name: '分类', init: '', value: parseFilterStr(CLASS_ZONGYI) }, { key: 'year', name: '年份', init: '', value: parsedYear }],
-        "4": [{ key: 'class', name: '分类', init: '', value: parseFilterStr(CLASS_DONGMAN) }, { key: 'year', name: '年份', init: '', value: parsedYear }]
-    };
-    return JSON.stringify({ class: classes, filters: filterObj });
-}
-
-async function homeVod() {
-    return JSON.stringify({ list: homeVodList });
-}
-
-async function category(tid, pg, filter, extend) {
-    try {
-        let baseUrl = HOST || FALLBACK_HOST;
-        let url = `${baseUrl}ysapi/api.php?vid=2&id=${tid}&page=${pg}`;
-        if (extend.year) url += `&year=${extend.year}`;
-        if (extend.class) url += `&class=${rc4EncryptHex('kltvv', extend.class)}`;
-        let headers = Object.assign({ 'Referer': `${baseUrl}ysapi/api.php?vid=2&id=${tid}&page=${pg}` }, DEFAULT_HEADERS);
-        let res = await req(url, { headers: headers, method: 'get' });
-        let hexMatch = res.content.match(/api#([0-9a-fA-F]+)#/);
-        if (!hexMatch) return JSON.stringify({ list: [], page: parseInt(pg), pagecount: pg });
-        let decryptedStr = decodeURIComponent(rc4Decrypt('kltvv', hexMatch[1])).trim();
-        let list = parseItemList(decryptedStr);
-        return JSON.stringify({
-            page: parseInt(pg),
-            pagecount: list.length > 0 ? parseInt(pg) + 1 : parseInt(pg),
-            limit: 20, total: 9999, list: list
-        });
-    } catch (e) {
-        return JSON.stringify({ list: [], page: parseInt(pg), pagecount: pg });
-    }
-}
-
-async function search(wd, quick, pg = 1) {
-    try {
-        let baseUrl = HOST || FALLBACK_HOST;
-        let url = `${baseUrl}ysapi/ss.php?id=${encodeURIComponent(wd)}&from=`;
-        let res = await req(url, { headers: { 'User-Agent': 'Apache-HttpClient/UNAVAILABLE (java 1.4)' }, method: 'get' });
-        let hexMatch = res.content.match(/api#([0-9a-fA-F]+)#/);
-        if (!hexMatch) return JSON.stringify({ list: [], page: 1, pagecount: 1 });
-        let decryptedStr = decodeURIComponent(rc4Decrypt('kltvv', hexMatch[1])).trim();
-        let list = parseItemList(decryptedStr);
-        return JSON.stringify({ page: 1, pagecount: 1, limit: list.length, total: list.length, list: list });
-    } catch (e) {
-        return JSON.stringify({ list: [], page: 1, pagecount: 1 });
-    }
-}
-
-async function detail(id) {
-    try {
-        let baseUrl = HOST || FALLBACK_HOST;
-        let url = `${baseUrl}ysapi/id.php?vid=2&id=${id}`;
-        let headers = Object.assign({ 'Referer': baseUrl, 'Content-Type': 'application/x-www-form-urlencoded' }, DEFAULT_HEADERS);
-        let res = await req(url, { headers: headers, method: 'get' });
-        let hexMatch = res.content.match(/api#([0-9a-fA-F]+)#/);
-        if (!hexMatch) return JSON.stringify({ list: [] });
-        let decryptedStr = decodeURIComponent(rc4Decrypt('kltvv', hexMatch[1])).trim();
-        let jsonObj = JSON.parse(decryptedStr);
-        if (jsonObj && jsonObj.list && jsonObj.list.length > 0) {
-            let vod = jsonObj.list[0];
-            return JSON.stringify({
-                list: [{
-                    vod_id: vod.vod_id, vod_name: vod.vod_name, vod_pic: vod.vod_pic,
-                    type_name: vod.type_name, vod_year: vod.vod_year, vod_area: vod.vod_area,
-                    vod_remarks: vod.vod_remarks, vod_actor: vod.vod_actor, vod_director: vod.vod_director,
-                    vod_content: vod.vod_content, vod_play_from: vod.vod_play_from, vod_play_url: vod.vod_play_url
-                }]
-            });
-        }
-        return JSON.stringify({ list: [] });
-    } catch (e) {
-        return JSON.stringify({ list: [] });
-    }
-}
-
-async function play(flag, id, flags) {
-    try {
-        let jx = /iqiyi|qq|youku|mgtv|bilibili/.test(id) ? 1 : 0;
-        return JSON.stringify({
-            parse: 0,
-            jx: jx,
-            url: id,
-            header: { 'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' }
-        });
-    } catch (e) {
-        return JSON.stringify({ parse: 0, url: id });
-    }
-}
-
-const _HEX_MAP = new Array(256);
-for (let i = 0; i < 256; i++) {
-    _HEX_MAP[i] = (i < 16 ? '0' : '') + i.toString(16);
-}
-
-function strToUtf8Bytes(str) {
-    let encoded = encodeURIComponent(str);
-    let bytes = new Uint8Array(encoded.length);
-    let idx = 0;
-    for (let i = 0; i < encoded.length; i++) {
-        if (encoded[i] === '%') {
-            bytes[idx++] = parseInt(encoded.substring(i + 1, i + 3), 16);
-            i += 2;
-        } else {
-            bytes[idx++] = encoded.charCodeAt(i);
-        }
-    }
-    return bytes.slice(0, idx);
-}
-
-function utf8BytesToStr(bytes) {
-    if (typeof TextDecoder !== 'undefined') {
-        return new TextDecoder().decode(bytes);
-    }
-    let escaped = '';
-    for (let i = 0; i < bytes.length; i++) {
-        escaped += '%' + _HEX_MAP[bytes[i]];
-    }
-    try {
-        return decodeURIComponent(escaped);
-    } catch (e) {
-        return "";
-    }
-}
-
-function _initRC4SBox(key) {
-    let s = new Uint8Array(256);
-    for (let i = 0; i < 256; i++) s[i] = i;
-    let j = 0, x;
-    let keyLen = key.length;
-    for (let i = 0; i < 256; i++) {
-        j = (j + s[i] + key.charCodeAt(i % keyLen)) & 255;
-        x = s[i]; s[i] = s[j]; s[j] = x;
-    }
-    return s;
-}
-
-function rc4EncryptHex(key, str) {
-    let bytes = strToUtf8Bytes(str);
-    let s = _initRC4SBox(key);
-    let i = 0, j = 0, x, res = '';
-    for (let y = 0; y < bytes.length; y++) {
-        i = (i + 1) & 255;
-        j = (j + s[i]) & 255;
-        x = s[i]; s[i] = s[j]; s[j] = x;
-        res += _HEX_MAP[bytes[y] ^ s[(s[i] + s[j]) & 255]];
-    }
-    return res;
-}
-
-function rc4Decrypt(key, hexStr) {
-    let s = _initRC4SBox(key);
-    let i = 0, j = 0, x;
-    let len = hexStr.length / 2;
-    let decryptedBytes = new Uint8Array(len);
-    for (let y = 0; y < len; y++) {
-        let charCode = parseInt(hexStr.substring(y * 2, y * 2 + 2), 16);
-        i = (i + 1) & 255;
-        j = (j + s[i]) & 255;
-        x = s[i]; s[i] = s[j]; s[j] = x;
-        decryptedBytes[y] = charCode ^ s[(s[i] + s[j]) & 255];
-    }
-    return utf8BytesToStr(decryptedBytes);
-}
-
-function parseItemList(decryptedStr) {
-    let list = [];
-    let items = decryptedStr.split('##kkkk#');
-    for (let item of items) {
-        if (!item || !item.includes('id#')) continue;
-        let idMatch = item.match(/id#([^#]*)/);
-        let nameMatch = item.match(/mz#([^#]*)/);
-        if (idMatch && nameMatch) {
-            let picMatch = item.match(/tp#([^#]*)/);
-            let remarkMatch = item.match(/dsz#([^#]*)/);
-            list.push({
-                vod_id: idMatch[1],
-                vod_name: nameMatch[1],
-                vod_pic: picMatch ? picMatch[1] : '',
-                vod_remarks: remarkMatch ? remarkMatch[1] : ''
-            });
-        }
-    }
-    return list;
-}
-
-function parseFilterStr(str) {
-    let arr = [];
-    let items = str.split('##kkkk#');
-    for (let item of items) {
-        if (!item.includes('id#')) continue;
-        let idMatch = item.match(/id#([^#]*)/);
-        let nameMatch = item.match(/mz#([^#]*)/);
-        if (idMatch && nameMatch) {
-            arr.push({ n: nameMatch[1] || '全部', v: idMatch[1] });
-        }
-    }
-    return arr;
-}
-
-export function __jsEvalReturn() {
-    return {
-        init: init,
-        home: home,
-        homeVod: homeVod,
-        category: category,
-        search: search,
-        detail: detail,
-        play: play
-    };
+var rule = {
+	title: '555电影', // csp_AppYsV2
+	host: 'https://www.555k9.com/',
+	//host: 'https://555dy1.vip',
+	//host: 'https://555dy2.vip',
+	homeUrl:'/api.php/app/index_video',
+	// url: '/api.php/app/video?tid=fyclass&class=&area=&lang=&year=&limit=20&pg=fypage',
+	url: '/api.php/app/video?tid=fyclassfyfilter&limit=20&pg=fypage',
+	filter_url:'&class={{fl.class}}&area={{fl.area}}&lang={{fl.lang}}&year={{fl.year}}',
+	filter: {
+		"1":[{"key":"class","name":"剧情","value":[{"n":"全部","v":""},{"n":"Netflix","v":"Netflix"},{"n":"仙侠","v":"仙侠"},{"n":"剧情","v":"剧情"},{"n":"科幻","v":"科幻"},{"n":"动作","v":"动作"},{"n":"喜剧","v":"喜剧"},{"n":"爱情","v":"爱情"},{"n":"冒险","v":"冒险"},{"n":"儿童","v":"儿童"},{"n":"歌舞","v":"歌舞"},{"n":"音乐","v":"音乐"},{"n":"奇幻","v":"奇幻"},{"n":"动画","v":"动画"},{"n":"恐怖","v":"恐怖"},{"n":"惊悚","v":"惊悚"},{"n":"丧尸","v":"丧尸"},{"n":"战争","v":"战争"},{"n":"传记","v":"传记"},{"n":"纪录","v":"纪录"},{"n":"犯罪","v":"犯罪"},{"n":"悬疑","v":"悬疑"},{"n":"西部","v":"西部"},{"n":"灾难","v":"灾难"},{"n":"古装","v":"古装"},{"n":"武侠","v":"武侠"},{"n":"家庭","v":"家庭"},{"n":"短片","v":"短片"},{"n":"校园","v":"校园"},{"n":"文艺","v":"文艺"},{"n":"运动","v":"运动"},{"n":"青春","v":"青春"},{"n":"同性","v":"同性"},{"n":"励志","v":"励志"},{"n":"人性","v":"人性"},{"n":"美食","v":"美食"},{"n":"女性","v":"女性"},{"n":"治愈","v":"治愈"},{"n":"历史","v":"历史"},{"n":"真人秀","v":"真人秀"},{"n":"脱口秀","v":"脱口秀"}]},{"key":"area","name":"地区","value":[{"n":"全部","v":""},{"n":"大陆","v":"大陆"},{"n":"香港","v":"香港"},{"n":"台湾","v":"台湾"},{"n":"美国","v":"美国"},{"n":"日本","v":"日本"},{"n":"韩国","v":"韩国"},{"n":"英国","v":"英国"},{"n":"法国","v":"法国"},{"n":"德国","v":"德国"},{"n":"印度","v":"印度"},{"n":"泰国","v":"泰国"},{"n":"丹麦","v":"丹麦"},{"n":"瑞典","v":"瑞典"},{"n":"巴西","v":"巴西"},{"n":"加拿大","v":"加拿大"},{"n":"俄罗斯","v":"俄罗斯"},{"n":"意大利","v":"意大利"},{"n":"比利时","v":"比利时"},{"n":"爱尔兰","v":"爱尔兰"},{"n":"西班牙","v":"西班牙"},{"n":"澳大利亚","v":"澳大利亚"}]},{"key":"lang","name":"语言","value":[{"n":"全部","v":""},{"n":"英语","v":"英语"},{"n":"法语","v":"法语"},{"n":"国语","v":"国语"},{"n":"粤语","v":"粤语"},{"n":"日语","v":"日语"},{"n":"韩语","v":"韩语"},{"n":"泰语","v":"泰语"},{"n":"德语","v":"德语"},{"n":"俄语","v":"俄语"},{"n":"闽南语","v":"闽南语"},{"n":"丹麦语","v":"丹麦语"},{"n":"波兰语","v":"波兰语"},{"n":"瑞典语","v":"瑞典语"},{"n":"印地语","v":"印地语"},{"n":"挪威语","v":"挪威语"},{"n":"意大利语","v":"意大利语"},{"n":"西班牙语","v":"西班牙语"}]},{"key":"year","name":"年份","value":[{"n":"全部","v":""},{"n":"2023","v":"2023"},{"n":"2022","v":"2022"},{"n":"2021","v":"2021"},{"n":"2020","v":"2020"},{"n":"2019","v":"2019"},{"n":"2018","v":"2018"},{"n":"2017","v":"2017"},{"n":"2016","v":"2016"},{"n":"2015","v":"2015"},{"n":"2014","v":"2014"},{"n":"2013","v":"2013"},{"n":"2012","v":"2012"},{"n":"2011","v":"2011"},{"n":"2010","v":"2010"},{"n":"2009","v":"2009"},{"n":"2008","v":"2008"},{"n":"2007","v":"2007"}]}],
+		"2":[{"key":"class","name":"剧情","value":[{"n":"全部","v":""},{"n":"Netflix","v":"Netflix"},{"n":"剧情","v":"剧情"},{"n":"丧尸","v":"丧尸"},{"n":"仙侠","v":"仙侠"},{"n":"穿越","v":"穿越"},{"n":"惊悚","v":"惊悚"},{"n":"恐怖","v":"恐怖"},{"n":"言情","v":"言情"},{"n":"科幻","v":"科幻"},{"n":"动作","v":"动作"},{"n":"喜剧","v":"喜剧"},{"n":"爱情","v":"爱情"},{"n":"偶像","v":"偶像"},{"n":"都市","v":"都市"},{"n":"军旅","v":"军旅"},{"n":"谍战","v":"谍战"},{"n":"罪案","v":"罪案"},{"n":"宫廷","v":"宫廷"},{"n":"冒险","v":"冒险"},{"n":"儿童","v":"儿童"},{"n":"歌舞","v":"歌舞"},{"n":"音乐","v":"音乐"},{"n":"奇幻","v":"奇幻"},{"n":"动画","v":"动画"},{"n":"战争","v":"战争"},{"n":"传记","v":"传记"},{"n":"记录","v":"记录"},{"n":"犯罪","v":"犯罪"},{"n":"悬疑","v":"悬疑"},{"n":"西部","v":"西部"},{"n":"灾难","v":"灾难"},{"n":"古装","v":"古装"},{"n":"武侠","v":"武侠"},{"n":"家庭","v":"家庭"},{"n":"短片","v":"短片"},{"n":"校园","v":"校园"},{"n":"文艺","v":"文艺"},{"n":"运动","v":"运动"},{"n":"青春","v":"青春"},{"n":"同性","v":"同性"},{"n":"励志","v":"励志"},{"n":"人性","v":"人性"},{"n":"美食","v":"美食"},{"n":"女性","v":"女性"},{"n":"治愈","v":"治愈"},{"n":"历史","v":"历史"},{"n":"真人秀","v":"真人秀"},{"n":"脱口秀","v":"脱口秀"}]},{"key":"area","name":"地区","value":[{"n":"全部","v":""},{"n":"大陆","v":"大陆"},{"n":"香港","v":"香港"},{"n":"韩国","v":"韩国"},{"n":"美国","v":"美国"},{"n":"日本","v":"日本"},{"n":"法国","v":"法国"},{"n":"英国","v":"英国"},{"n":"德国","v":"德国"},{"n":"台湾","v":"台湾"},{"n":"泰国","v":"泰国"},{"n":"印度","v":"印度"},{"n":"其他","v":"其他"}]},{"key":"year","name":"年份","value":[{"n":"全部","v":""},{"n":"2023","v":"2023"},{"n":"2022","v":"2022"},{"n":"2021","v":"2021"},{"n":"2020","v":"2020"},{"n":"2019","v":"2019"},{"n":"2018","v":"2018"},{"n":"2017","v":"2017"},{"n":"2016","v":"2016"},{"n":"2015","v":"2015"},{"n":"2014","v":"2014"},{"n":"2013","v":"2013"},{"n":"2012","v":"2012"},{"n":"2011","v":"2011"},{"n":"2010","v":"2010"},{"n":"2009","v":"2009"},{"n":"2008","v":"2008"},{"n":"2007","v":"2007"}]}],
+		"4":[{"key":"class","name":"剧情","value":[{"n":"全部","v":""},{"n":"Netflix","v":"Netflix"},{"n":"热血","v":"热血"},{"n":"科幻","v":"科幻"},{"n":"美少女","v":"美少女"},{"n":"魔幻","v":"魔幻"},{"n":"经典","v":"经典"},{"n":"励志","v":"励志"},{"n":"少儿","v":"少儿"},{"n":"冒险","v":"冒险"},{"n":"搞笑","v":"搞笑"},{"n":"推理","v":"推理"},{"n":"恋爱","v":"恋爱"},{"n":"治愈","v":"治愈"},{"n":"幻想","v":"幻想"},{"n":"校园","v":"校园"},{"n":"动物","v":"动物"},{"n":"机战","v":"机战"},{"n":"亲子","v":"亲子"},{"n":"儿歌","v":"儿歌"},{"n":"运动","v":"运动"},{"n":"悬疑","v":"悬疑"},{"n":"怪物","v":"怪物"},{"n":"战争","v":"战争"},{"n":"益智","v":"益智"},{"n":"青春","v":"青春"},{"n":"童话","v":"童话"},{"n":"竞技","v":"竞技"},{"n":"动作","v":"动作"},{"n":"社会","v":"社会"},{"n":"友情","v":"友情"},{"n":"真人版","v":"真人版"},{"n":"电影版","v":"电影版"},{"n":"OVA版","v":"OVA版"},{"n":"TV版","v":"TV版"},{"n":"新番动画","v":"新番动画"},{"n":"完结动画","v":"完结动画"}]},{"key":"area","name":"地区","value":[{"n":"全部","v":""},{"n":"大陆","v":"大陆"},{"n":"日本","v":"日本"},{"n":"欧美","v":"欧美"},{"n":"其他","v":"其他"}]},{"key":"lang","name":"语言","value":[{"n":"全部","v":""},{"n":"国语","v":"国语"},{"n":"英语","v":"英语"},{"n":"粤语","v":"粤语"},{"n":"闽南语","v":"闽南语"},{"n":"韩语","v":"韩语"},{"n":"日语","v":"日语"},{"n":"其它","v":"其它"}]},{"key":"year","name":"年份","value":[{"n":"全部","v":""},{"n":"2023","v":"2023"},{"n":"2022","v":"2022"},{"n":"2021","v":"2021"},{"n":"2020","v":"2020"},{"n":"2019","v":"2019"},{"n":"2018","v":"2018"},{"n":"2017","v":"2017"},{"n":"2016","v":"2016"},{"n":"2015","v":"2015"},{"n":"2014","v":"2014"},{"n":"2013","v":"2013"},{"n":"2012","v":"2012"},{"n":"2011","v":"2011"},{"n":"2010","v":"2010"},{"n":"2009","v":"2009"},{"n":"2008","v":"2008"},{"n":"2007","v":"2007"},{"n":"2006","v":"2006"},{"n":"2005","v":"2005"},{"n":"2004","v":"2004"},{"n":"更早","v":"更早"}]}],
+		"3":[{"key":"class","name":"剧情","value":[{"n":"全部","v":""},{"n":"YouTube","v":"YouTube"},{"n":"脱口秀","v":"脱口秀"},{"n":"真人秀","v":"真人秀"},{"n":"选秀","v":"选秀"},{"n":"八卦","v":"八卦"},{"n":"访谈","v":"访谈"},{"n":"情感","v":"情感"},{"n":"生活","v":"生活"},{"n":"晚会","v":"晚会"},{"n":"搞笑","v":"搞笑"},{"n":"音乐","v":"音乐"},{"n":"时尚","v":"时尚"},{"n":"游戏","v":"游戏"},{"n":"少儿","v":"少儿"},{"n":"体育","v":"体育"},{"n":"纪实","v":"纪实"},{"n":"科教","v":"科教"},{"n":"曲艺","v":"曲艺"},{"n":"歌舞","v":"歌舞"},{"n":"财经","v":"财经"},{"n":"汽车","v":"汽车"},{"n":"播报","v":"播报"},{"n":"其他","v":"其他"}]},{"key":"area","name":"地区","value":[{"n":"全部","v":""},{"n":"大陆","v":"大陆"},{"n":"韩国","v":"韩国"},{"n":"香港","v":"香港"},{"n":"台湾","v":"台湾"},{"n":"美国","v":"美国"},{"n":"其它","v":"其它"}]},{"key":"lang","name":"语言","value":[{"n":"全部","v":""},{"n":"国语","v":"国语"},{"n":"英语","v":"英语"},{"n":"粤语","v":"粤语"},{"n":"闽南语","v":"闽南语"},{"n":"韩语","v":"韩语"},{"n":"日语","v":"日语"},{"n":"其它","v":"其它"}]},{"key":"year","name":"年份","value":[{"n":"全部","v":""},{"n":"2023","v":"2023"},{"n":"2022","v":"2022"},{"n":"2021","v":"2021"},{"n":"2020","v":"2020"},{"n":"2019","v":"2019"},{"n":"2018","v":"2018"},{"n":"2017","v":"2017"},{"n":"2016","v":"2016"},{"n":"2015","v":"2015"},{"n":"2014","v":"2014"},{"n":"2013","v":"2013"},{"n":"2012","v":"2012"},{"n":"2011","v":"2011"},{"n":"2010","v":"2010"},{"n":"2009","v":"2009"},{"n":"2008","v":"2008"},{"n":"2007","v":"2007"},{"n":"2006","v":"2006"},{"n":"2005","v":"2005"},{"n":"2004","v":"2004"},{"n":"2003","v":"2003"},{"n":"2002","v":"2002"},{"n":"2001","v":"2001"},{"n":"2000","v":"2000"},{"n":"1999","v":"1999"}]}]
+	},
+	detailUrl:'/api.php/app/video_detail?id=fyid',
+	searchUrl: '/api.php/app/search?text=**&pg=fypage',
+	searchable: 2,
+	quickSearch: 0,
+	filterable:1,//是否启用分类筛选,
+	headers:{'User-Agent':'Dart/2.14 (dart:io)'},
+	timeout:5000,
+	class_name:'连续剧&电影&综艺&动漫', // 分类筛选 /api.php/app/nav
+	class_url:'2&1&3&4',
+	play_parse:true,
+	lazy:'js:input=/ddvod/.test(input)?"http://jhsj.manduhu.com/?url="+input:input',
+	limit:6,
+	推荐:'json:list[0].vlist;*;*;*;*',
+	一级:'json:list;vod_name;vod_pic;vod_remarks;vod_id',
+	二级:'js:try{let html=request(input);print(html);html=JSON.parse(html);let node=html.data;VOD={vod_id:node["vod_id"],vod_name:node["vod_name"],vod_pic:node["vod_pic"],type_name:node["vod_class"],vod_year:node["vod_year"],vod_area:node["vod_area"],vod_remarks:node["vod_remarks"],vod_actor:node["vod_actor"],vod_director:node["vod_director"],vod_content:node["vod_content"].strip()};let episodes=node.vod_url_with_player;let playMap={};if(typeof play_url==="undefined"){var play_url=""}episodes.forEach(function(ep){let source=ep["name"];if(!playMap.hasOwnProperty(source)){playMap[source]=[]}playMap[source].append(ep["url"])});let playFrom=[];let playList=[];Object.keys(playMap).forEach(function(key){playFrom.append(key);playList.append(playMap[key])});let vod_play_from=playFrom.join("$$$");let vod_play_url=playList.join("$$$");VOD["vod_play_from"]=vod_play_from;VOD["vod_play_url"]=vod_play_url}catch(e){log("获取二级详情页发生错误:"+e.message)}',
+	搜索:'*',
 }
