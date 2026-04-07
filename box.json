@@ -10,6 +10,35 @@
       "epg": "https://epg.zbds.top/?ch={name}&date={date}",
       "logo": "https://epg.zbds.top/logo/{name}.png"
     }，
+
+{"name": "🎀快手号济宁裁缝大叔1",
+ "type": 0,
+ "url": "./综合.txt",
+ "logo": "https://epg.zbds.top/logo/{name}.png",
+"epg": "https://epg.zbds.top/?ch={name}&date={date}",
+//"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+// "logo": "https://epg.iill.top/logo/{name}.png",
+  "playerType": 1},
+
+{"name": "🎀快手号济宁裁缝大叔2",
+ "type": 0,
+ "url": "./20241019.txt",
+ "logo": "https://epg.zbds.top/logo/{name}.png",
+"epg": "https://epg.zbds.top/?ch={name}&date={date}",
+//"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+// "logo": "https://epg.iill.top/logo/{name}.png",
+  "playerType": 1},
+
+
+{"name": "🎀快手号济宁裁缝大叔剧场3",
+ "type": 0,
+ "url":"./济宁移动2.txt",
+ "logo": "https://epg.zbds.top/logo/{name}.png",
+ "epg": "https://epg.zbds.top/?ch={name}&date={date}",
+//"logo": "http://epg.51zmt.top:8000/api/diyp/logo/{name}.png",
+ //"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+ "playerType": 1},
+	 
  {
       "name": "live2",
       "type": 0,
@@ -27,7 +56,7 @@
       "url": "https://aries.yuanwangokk.nyc.mn/d3ty",
        "logo": "https://epg.zbds.top/logo/{name}.png",
        "epg": "https://epg.zbds.top/?ch={name}&date={date}",
-       "ua": "AptvPlayer-UA",
+
       "timeout": "30",
        "playerType": 1
      
@@ -35,7 +64,7 @@
     },
     {"name":"🈴🎀3快手号济宁裁缝大叔🎀","type": 0,"boot": true,"logo": "https://diyp0731.112114.xyz/logo/{name}.png",
        "epg": "https://epg.zbds.top/?ch={name}&date={date}",
-       "ua": "AptvPlayer-UA",
+    
       "timeout": "15","url": "https://aries.yuanwangokk.nyc.mn/w5i5","playerType": 1}
 
 
