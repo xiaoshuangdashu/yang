@@ -11,34 +11,7 @@
       "logo": "https://epg.zbds.top/logo/{name}.png"
     }，
 
-{"name": "🎀快手号济宁裁缝大叔1",
- "type": 0,
- "url": "./综合.txt",
- "logo": "https://epg.zbds.top/logo/{name}.png",
-"epg": "https://epg.zbds.top/?ch={name}&date={date}",
-//"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-// "logo": "https://epg.iill.top/logo/{name}.png",
-  "playerType": 1},
 
-{"name": "🎀快手号济宁裁缝大叔2",
- "type": 0,
- "url": "./20241019.txt",
- "logo": "https://epg.zbds.top/logo/{name}.png",
-"epg": "https://epg.zbds.top/?ch={name}&date={date}",
-//"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-// "logo": "https://epg.iill.top/logo/{name}.png",
-  "playerType": 1},
-
-
-{"name": "🎀快手号济宁裁缝大叔剧场3",
- "type": 0,
- "url":"./济宁移动2.txt",
- "logo": "https://epg.zbds.top/logo/{name}.png",
- "epg": "https://epg.zbds.top/?ch={name}&date={date}",
-//"logo": "http://epg.51zmt.top:8000/api/diyp/logo/{name}.png",
- //"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
- "playerType": 1},
-	 
  {
       "name": "live2",
       "type": 0,
