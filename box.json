@@ -7,9 +7,30 @@
       "type": 0,
       "playerType": 1,
       "url": "https://d.kstore.dev/download/8240/1107.txt",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }
+      "epg": "https://epg.zbds.top/?ch={name}&date={date}",
+      "logo": "https://epg.zbds.top/logo/{name}.png"
+    }，
+
+{
+      "name": "🎀2快手号济宁裁缝大叔🎀电视直播2",
+      "type": 0,
+      "boot": true,
+      "url": "https://aries.yuanwangokk.nyc.mn/d3ty",
+       "logo": "https://epg.zbds.top/logo/{name}.png",
+       "epg": "https://epg.zbds.top/?ch={name}&date={date}",
+       "ua": "AptvPlayer-UA",
+      "timeout": "30",
+       "playerType": 1
+     
+ 
+    },
+    {"name":"🈴🎀3快手号济宁裁缝大叔🎀","type": 0,"boot": true,"logo": "https://diyp0731.112114.xyz/logo/{name}.png",
+       "epg": "https://epg.zbds.top/?ch={name}&date={date}",
+       "ua": "AptvPlayer-UA",
+      "timeout": "15","url": "https://aries.yuanwangokk.nyc.mn/w5i5","playerType": 1}
+
+
+	 
   ],
   "sites": [{  "key": "drpy_js_豆瓣",
   "name": "🇨🇳快手号济宁裁缝大叔豆瓣[js]", 
