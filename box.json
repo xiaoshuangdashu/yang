@@ -10,6 +10,15 @@
       "epg": "https://epg.zbds.top/?ch={name}&date={date}",
       "logo": "https://epg.zbds.top/logo/{name}.png"
     }，
+ {
+      "name": "live2",
+      "type": 0,
+      "playerType": 1,
+      "url": "./20241019.txt",
+      "epg": "https://epg.zbds.top/?ch={name}&date={date}",
+      "logo": "https://epg.zbds.top/logo/{name}.png"
+    }，
+	 
 
 {
       "name": "🎀2快手号济宁裁缝大叔🎀电视直播2",
