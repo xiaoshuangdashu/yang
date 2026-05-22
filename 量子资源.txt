@@ -272,8 +272,8 @@
 "changeable":0
 },
 {
-"key":"py_饭团PY",
-"name":"🍚饭团PY",
+"key":"py_嗨皮PY",
+"name":"🍚嗨皮PY",
 "api":"./嗨皮影视.py",
 "filterable":1,
 "quickSearch":1,
