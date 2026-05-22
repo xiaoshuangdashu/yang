@@ -10,7 +10,7 @@
 {"key":"豆豆",
  "name":"🎀快手号济宁裁缝大叔在线🈲贩卖",
  "type": 3, 
-"jar":"./豆瓣.jar",
+"jar":"https://d.kstore.dev/download/8240/%E8%B1%86%E7%93%A3.jar",
  "api": "csp_DouDou",
  "searchable": 0,
  "quickSearch": 0,
