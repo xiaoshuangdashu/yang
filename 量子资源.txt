@@ -463,10 +463,21 @@
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
       },
       "jar": "https://gitee.com/mtmz/test/raw/master/m/jar/XYQ0720.jar;md5; 08627128682cda2802a3c4ab7bc3a375"
-    },
+    },{
+            "key": "bibili 资源",
+            "name": "🍀┃789哔哩┃资源",
+            "type": 1,
+            "api": "https://www.caiji.cyou/api.php/provide/vod/?",
+            "playUrl": "https://jiexi.789jiexi.com/?url=",    
+            "quickSearch": 1,
+            "filterable": 1,  
+            "searchable": 1,
+            "changeable": 1,
+  "categories": ["动作片", "科幻片","战争片", "悬疑片", "惊悚片","犯罪片","奇幻片","冒险片","国产剧","港台剧","bilibili电影","bilibili电视剧","动漫", "动画片","bilibili国创","libili番剧","综艺"]
+        },
 
     {"key":"csp_Gz360","name":"🍉┃瓜子┃影视","type":3,"api":"csp_Gz360","playerType":2,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/37e4d70e91824037/PandaQ250808.jpg;md5;1099f9cedab19f487ac8fc283d9ca447"},
+      "jar": "https://gitee.com/dentist_chen/tvbox/raw/ef459a0093b8dfa571188d4e7b4b9b1b37a5d4a9/Interface/jar/yydf.jar"},
     
      {"key": "py厂长","name": "🚛┃厂长资源┃TV",
     "type": 3,
@@ -481,10 +492,10 @@
 
 {
       "key": "瀑布盘资源网   ",
-      "name": "🎀瀑布盘资源网   ",
+      "name": "🎀茅台资源   ",
       "type": 1,
       "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
-      "playUrl": "https://mtjiexi.cc:966/?url=",
+      "playUrl": "https://maotai888.vip:966/?url=",
       
       "searchable": 1,
       "quickSearch": 1,
@@ -895,7 +906,7 @@
 {"key": "黑木耳",
 "name": "🍄黑木",
 "type": 1,
-"api": "https://json.heimuer.xyz/api.php/provide/vod/?ac=list",
+"api": "https://ww.tyyszy5.com/api.php/provide/vod/?ac=lis",
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 1,
@@ -905,7 +916,7 @@
 {"key": "zy_最大",
  "name": "🦾最大",
   "type": 1,
-  "api":"https://zuidazy.me/api.php/provide/vod/",
+  "api":"https://www.zuidazy.co/api.php/provide/vod/",
   "searchable":1,
   "quickSearch":1,
   "filterable": 0,
@@ -1040,8 +1051,8 @@
 "lives": [{"name": "🎀快手号济宁裁缝大叔1",
  "type": 0,
  "url": "./综合.txt",
- "logo": "https://epg.zbds.top/logo/{name}.png",
-"epg": "https://epg.zbds.top/?ch={name}&date={date}",
+ "logo": "https://api.erw.cc/logo/{name}.png",
+"epg": "https://api.erw.cc/?ch={name}&date={date}",
 //"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 // "logo": "https://epg.iill.top/logo/{name}.png",
   "playerType": 1},
@@ -1049,8 +1060,8 @@
 {"name": "🎀快手号济宁裁缝大叔2",
  "type": 0,
  "url": "./20241019.txt",
- "logo": "https://epg.zbds.top/logo/{name}.png",
-"epg": "https://epg.zbds.top/?ch={name}&date={date}",
+ "logo": "https://api.erw.cc/logo/{name}.png",
+"epg": "https://api.erw.cc/?ch={name}&date={date}",
 //"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 // "logo": "https://epg.iill.top/logo/{name}.png",
   "playerType": 1},
@@ -1059,8 +1070,8 @@
 {"name": "🎀快手号济宁裁缝大叔剧场3",
  "type": 0,
  "url":"./济宁移动2.txt",
- "logo": "https://epg.zbds.top/logo/{name}.png",
- "epg": "https://epg.zbds.top/?ch={name}&date={date}",
+ "logo": "https://api.erw.cc/logo/{name}.png",
+ "epg": "https://api.erw.cc/?ch={name}&date={date}",
 //"logo": "http://epg.51zmt.top:8000/api/diyp/logo/{name}.png",
  //"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
  "playerType": 1}
