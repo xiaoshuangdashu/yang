@@ -30,7 +30,20 @@
       "quickSearch": 0,
       "playerType": 2,
       "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
-    },
+    },   {
+"key":"河马",
+"name":"🌴河马影视",
+"type":3,
+"api":"./河马短剧.py",
+"changeable":1
+},
+   {
+"key":"饭团",
+"name":"🌴饭团影视",
+"type":3,
+"api":"./饭团影视.py",
+"changeable":1
+},
     {
 "key":"华数",
 "name":"🌴华数影视",
