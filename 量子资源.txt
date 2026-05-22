@@ -494,6 +494,7 @@
       "key": "csp_Qiyou",
       "name": "🥝┃奇优┃影视",
       "type": 3,
+"jar": "https://gitee.com/mtmz/test/raw/master/m/jar/XYQ0720.jar;md5; 08627128682cda2802a3c4ab7bc3a375"
       "api": "csp_Qiyou",
       "ext": "http://www.dyxz2.com/"
     },
