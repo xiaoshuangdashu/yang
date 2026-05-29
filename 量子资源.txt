@@ -163,8 +163,8 @@
 
 
   {"key":"DRJS_虎牙","name":"虎牙直播(JS)","type":3,"api":"https://gitee.com/yanglongxiang/my/raw/master/JS2025/drpy2.min.js","ext":"https://d.kstore.dev/download/8240/%E8%99%8E%E7%89%99.js","searchable": 0,"quickSearch": 0,"filterable": 1},
-  {"key": "T   V",
-			"name": "小 猫 (快手号|济宁裁缝大叔)",
+  {"key": "T789   V",
+			"name": "789(快手号|济宁裁缝大叔)",
 			"type": 1,
 			"api": "http://www.caiji.cyou//api.php/provide/vod",
 			"playUrl": "https://jiexi.789jiexi.net:4433/?url=",
@@ -173,11 +173,11 @@
 		}, 
 
    {"key": "T  🎀 V",
-			"name": "金蚕🎀 猫 🎀(快手号|济宁裁缝大叔)",
+			"name": "暴风(快手号|济宁裁缝大叔)",
 			"type": 1,
-			"api": "https://zy.jinchancaiji.com/api.php/provide/vod/?ac=list",
+			"api": "https://bfzyapi.com/api.php/provide/vod/",
     
-      "playUrl": "",
+      "playUrl": "https://vip.vipuuvip.com/?url=",
 			"searchable": 1,
 			"quickSearch": 1
 		}, 
@@ -240,6 +240,16 @@
 "searchable":1,
 "changeable":0
 },
+{
+"key":"py_/界.pyPY",
+"name":"🍚/界.py",
+"api":"./界.py",
+"filterable":1,
+"quickSearch":1,
+"searchable":1,
+"type":3
+},
+
 {
 "key":"py_嗨皮PY",
 "name":"🍚嗨皮PY",
