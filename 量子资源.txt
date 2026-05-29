@@ -48,7 +48,7 @@
 "key":"华数",
 "name":"🌴华数影视",
 "type":3,
-"api":"https://gitee.com/yiwu369/6758/raw/master/py/华数.py",
+"api":"./华数.py",
 "changeable":1
 },
 
