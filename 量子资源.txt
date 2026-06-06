@@ -57,6 +57,14 @@
 "type":3,
 "api":"https://gitee.com/yanglongxiang/my/raw/master/JS2025/drpy2.min.js",
 "ext":"https://d.kstore.dev/download/8240/%E7%93%9C%E5%AD%90.js"},
+ {
+		    "key": "猎手影视",
+		    "name": "猎手┃影视",
+		    "type": 3,
+		    "api": "https://d.kstore.dev/download/8240/%E7%8C%8E%E6%89%8B.py",
+		    "searchable": 1,
+		    "changeable": 1
+	    },
 
 {
       "key": "量。西瓜猫6子",
