@@ -2373,7 +2373,7 @@ $40#新马泰动漫$41#欧美动漫$42#其他动漫$43"
 0,"quickSearch": 0,"filterable": 1,"ext": "https://gitee.com/uncle-jining-tailor/iptv/raw/master/%E8%9C%BB%E8%9C%93FM.js" } ], "parses": [ { "name": 
 
 "Json聚合", "type": 3, "url": "Demo" }, { "name": "Web聚合", "type": 3, "url": "Web" }, 
-   { "name": "济宁叔", "type": 0, "url": "https://www.yemu.xyz/?url=", "ext": { "flag": [ "qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", 
+   { "name": "济宁叔", "type": 0, "url": "https://z1.m1907.top/?jx=", "ext": { "flag": [ "qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", 
 
 "tucheng", "sohu", "搜狐", "letv", "乐视", "mgtv", "芒果", "tnmb", "seven", "yzm", "aliyun", "RJuMao", "bilibili", "1905", "xinvip", "XAL", "qiqi", 
 
@@ -2385,17 +2385,17 @@ $40#新马泰动漫$41#欧美动漫$42#其他动漫$43"
 
 ", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "tucheng", "sohu", "搜狐", "letv", "乐视", "mgtv", "芒果", "tnmb", "seven", "yzm", "aliyun", "RJuMao", 
 
-"bilibili", "1905", "xinvip", "XAL", "qiqi", "XALS", "YuMi-vip" ] } }, { "name": "裁缝", "type": 0, "url": "https://jx.dmflv.cc/?url=", "ext": { 
+"bilibili", "1905", "xinvip", "XAL", "qiqi", "XALS", "YuMi-vip" ] } }, { "name": "裁缝", "type": 0, "url": "https://jx.xyflv.cc/?url=", "ext": { 
 
 "flag": [ "qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "tucheng", "sohu", "搜狐", "letv", "乐视", "mgtv", "芒果", "tnmb", "seven", 
 
 "yzm", "aliyun", "RJuMao", "bilibili", "1905", "xinvip", "XAL", "qiqi", "XALS", "YuMi-vip" ] } },{"name": "济宁大叔","type": 0,"url": 
 
-"https://jx.xmflv.com/?url=","ext": {  "flag": [    "qq",    "腾讯",    "qiyi",    "爱奇艺",    "奇艺",    "youku",    "优酷",    "tucheng",    
+"https://jx.xymp4.cc/?url=","ext": {  "flag": [    "qq",    "腾讯",    "qiyi",    "爱奇艺",    "奇艺",    "youku",    "优酷",    "tucheng",    
 
 "sohu",    "搜狐",    "letv",    "乐视",    "mgtv",    "芒果",    "tnmb",    "seven",    "yzm",    "aliyun",    "RJuMao",    "bilibili",    "1905",  
 
-  "xinvip",    "XAL",    "qiqi",    "XALS",    "YuMi-vip"  ]} },{ "name": "快手号┃济宁裁缝大叔", "type": 0, "url": "https://www.yemu.xyz/?url=", 
+  "xinvip",    "XAL",    "qiqi",    "XALS",    "YuMi-vip"  ]} },{ "name": "快手号┃济宁裁缝大叔", "type": 0, "url": "https://z1.m1907.top/?jx=", 
 
 "ext": { "flag": [ "qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "tucheng", "sohu", "搜狐", "letv", "乐视", "mgtv", "芒果", "tnmb", 
 
