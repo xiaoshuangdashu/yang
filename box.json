@@ -44,38 +44,29 @@
 "api":"https://d.kstore.dev/download/8240/58.py",
 "changeable":1
 },
-{
-"key":"Dygang",
-"name":"🥯电影港",
-"jar":"https://d.kstore.dev/download/8240/lh250220.jar",
-"type":3,
-"searchable":1,
-"changeable":1,
-"api":"csp_Dygang"
-},
-{
-"key":"Lib",
-"name":"🌶Lib直连",
-"jar":"https://d.kstore.dev/download/8240/lh250220.jar",
-"type":3,
-"api":"csp_Lib",
-"searchable":1,
-"changeable":1,
-"filterable":1,
-"ext":"faHR0cHM6Ly9saWJ2aW8uYXJ0L3N0YXRpYy9qcy9wbGF5ZXJjb25maWcuanM="
-},
-{
-"key":"ZXZJ",
-"name":"🥭在线直连",
-"jar":"https://d.kstore.dev/download/8240/lh250220.jar",
-"api":"csp_Zxzj",
-"type":3,
-"filterable":1,
-"searchable":1,
-"changeable":1,
-"playerType":2,
-"ext":"caHR0cHM6Ly93d3cuenh6anlzLmNvbS8="
-},
+  {
+      "key": " 人人影视.jsWWW.https://gh.qninq.cn",
+      "name": "🏴󠁧󠁢󠁷󠁬󠁳󠁿TVB云播影视🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "type": 3,
+      "api": "https://gitee.com/yanglongxiang/my/raw/master/JS2025/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": 2,
+      "ext": "https://d.kstore.dev/download/8240/yyets.js"
+    },
+    {
+      "key": " 凌云影视.jsWWW.https://gh.qninq.cn",
+      "name": "🏴󠁧󠁢󠁷󠁬󠁳󠁿567🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "type": 3,
+      "api": "https://gitee.com/yanglongxiang/my/raw/master/JS2025/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": 2,
+      "ext": "https://d.kstore.dev/download/8240/%E5%87%8C%E4%BA%91%E5%BD%B1%E8%A7%86.js"
+    },
+    
     {
       "key": "量。小8 猫2子",
       "name": "☀小8 猫2",
@@ -293,7 +284,7 @@
      
       "key": "44",
       "name": "🌈A 旺旺短剧🌈",
-      "api": "https://api.wwzy.tv/api.php/provide/vod/at/xml/?ac=list",
+      "api": "https://tyyszyapi.com/api.php/provide/vod/?ac=list",
         "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -512,14 +503,7 @@
             "filterable": 1,
             "changeable": 1
         },
- {
-            "key": "芒果",
-            "name": "🥭芒果┃4K",
-            "type": 3,
-            "api": "csp_HBcms10Dou",
-            "jar":"https://gitee.com/senno/tvbox/raw/master/jar/BLS.jar",
-            "ext": "https://zy.jinchancaiji.com/api.php/provide/vod/from/mgtv/"
-        },
+
 {
 			"key": "至臻清风",
 			"name": "🎙︎清风┃极速┃2k",
