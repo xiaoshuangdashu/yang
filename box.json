@@ -3929,7 +3929,7 @@ $40#新马泰动漫$41#欧美动漫$42#其他动漫$43"
         "副标题": "裁缝在线+module-item-note&&</div>",
         "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
       
-        "分类url": "https://www.xiaohys.com/show/tv[https://www.xiaohys.com/show/movie]",
+        "分类url": "https://www.christiacummings.com/yyds/{cateId}.html",
             "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
         "类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#奇幻片$10#恐怖片$11#战争片$12#动漫片$20#动画片$26#悬疑片$22#冒险片$23#犯罪片$24#惊悚片$45#歌舞
 
@@ -4070,27 +4070,27 @@ $40#新马泰动漫$41#欧美动漫$42#其他动漫$43"
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2,
-"ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/xiaoshuangdashu/xiaoshuangdashu/refs/heads/main/%E7%93%9C%E5%AD%90%E5%BD
+"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaoshuangdashu/xiaoshuangdashu/refs/heads/main/%E7%93%9C%E5%AD%90%E5%BD
 
 %B1%E8%A7%86.JSON" }, 
 
 
  {
       "key": "69大5全",
-      "name": "🍵69┃5",
+      "name": "🍵freeok",
       "type": 3,
-     "api": "https://tv.youdu.fan:666/毒盒影视/drpy_libs/drpy2.min.js",
+     "api": "https://gh-proxy.com/raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/xiaoshuangdashu/xiaoshuangdashu/refs/heads/main/FreeOKLOL.js"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaoshuangdashu/xiaoshuangdashu/refs/heads/main/FreeOKLOL.js"
     },
  {
       "key": "央视大5全",
       "name": "🍵55┃5",
       "type": 3,
-      "api": "https://tv.youdu.fan:666/毒盒影视/drpy_libs/drpy2.min.js",
+      "api": "https://gh-proxy.com/raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -4108,17 +4108,7 @@ $40#新马泰动漫$41#欧美动漫$42#其他动漫$43"
       "order_num": 0,
       "ext": "https://gitee.com/yanglongxiang/js/raw/master/539%E5%BD%B1%E8%A7%86.js"
     },
-      {
-      "key": "央视大全",
-      "name": "🍵央视┃大全",
-      "type": 3,
-      "api": "https://tv.youdu.fan:666/毒盒影视/drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "https://tv.youdu.fan:666/毒盒影视/js/央视大全.js"
-    },
+     
    
     {
       "key": "csp_Wwys",
@@ -4451,59 +4441,9 @@ $40#新马泰动漫$41#欧美动漫$42#其他动漫$43"
 	    },
          
  
-    {
-      "key": "天龙",
-      "name": "天龙",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://tvbox.catvod.com/js/tianlong.json"
-    },     
-    {
-      "key": "天天",
-      "name": "天天",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://tvbox.catvod.com/js/tiantian.json"
-    },
-    {
-      "key": "旺旺",
-      "name": "旺旺",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://tvbox.catvod.com/js/wangwang.json"
-    },
-    {
-      "key": "4k",
-      "name": "4k",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://tvbox.catvod.com/js/4k.json"
-    },            
   
   
   
-    {
-      "key": "晴天",
-      "name": "晴天",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://tvbox.catvod.com/js/qingtian.json"
-    },
     {
       "key": "heihu",
       "name": "黑狐",
@@ -4564,37 +4504,7 @@ $40#新马泰动漫$41#欧美动漫$42#其他动漫$43"
       "filterable": 1,
       "ext": "https://tvbox.catvod.com/js/pianba.json"
     },
-    {
-      "key": "Movies",
-      "name": "Movies",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://tvbox.catvod.com/js/Movies.json"
-    },
-    {
-      "key": "sdsrty",
-      "name": "影视大全",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://tvbox.catvod.com/js/sdsrty.json"
-    },
-    {
-      "key": "db",
-      "name": "电波",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://tvbox.catvod.com/js/db.json"
-    },
-        
+  
         
         
         {
@@ -4979,7 +4889,7 @@ $40#新马泰动漫$41#欧美动漫$42#其他动漫$43"
 			]
 		},
          {//"key": "T   V",
-			"name": "小 猫 咪()",
+			"name": "小 猫 咪(18禁止)",
 			"type": 1,
 			"api": "https://www.heiliaozyapi.com/api.php/provide/vod/",
 			"playUrl": "",
@@ -4989,7 +4899,7 @@ $40#新马泰动漫$41#欧美动漫$42#其他动漫$43"
         
         
  {//"key": "T   V",
-			"name": "小 猫 咪()",
+			"name": "小 猫 咪( 18禁止)",
 			"type": 1,
 			"api": "https://www.heiliaozyapi.com/api.php/provide/vod/",
 			"playUrl": "",
@@ -5666,7 +5576,7 @@ confirm')[0].click()"]}],
        "logo": "https://tb.zbds.top/logo/{name}.png",
        "epg": "https://epg.zbds.top/?ch={name}&date={date}",
     
-       "playerType": 2
+       "playerType": 1
      
  
     },
@@ -5823,7 +5733,7 @@ confirm')[0].click()"]}],
       "name": "🎀快手号济宁裁缝大叔🎀2025电影联播7",
       "type": 0,
        "boot": true,
-      "url": "http://d.kstore.dev/download/8240/xiaoshuang.txt",
+      "url": "http://d.kstore.dev/download/8240/1107.txt",
       "playerType":1,
       "ua":"okhttp/3.15,AptvPlayer/1.4.0",
       "epg": "https://epg.zbds.top/?ch={name}&date={date}",
@@ -5893,7 +5803,7 @@ confirm')[0].click()"]}],
             "name": "最强国内直播(250831)13",
             "type": 0,
             "pass": true,
-            "url": "https://gh.llkk.cc/https://github.com/wwb521/live/raw/refs/heads/main/tv.txt",
+            "url": "https://gh.qninq.cn/https://github.com/wwb521/live/raw/refs/heads/main/tv.txt",
             "ua": "okhttp/3.15",
              "epg": "https://epg.zbds.top/?ch={name}&date={date}",
                 "logo": "https://epg.zbds.top/logo/{name}.png",
