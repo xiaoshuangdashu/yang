@@ -14,7 +14,7 @@ var rule = {
     timeout:5000,
     limit:6,
     play_parse:true,
-    lazy:'js:let vid = input.split("/view/")[1];var playJsonUrl="https://so.v.163.com/mobile/getBatchOnlineVideo.do?vidstr=";var reqUrl=playJsonUrl+vid;var reqJson=JSON.parse(request(reqUrl)).data.video_list[0];input={jx:0,url:reqJson.mp4SdUrl,parse:0}',
+    lazy:'js:let vid = input.split("/view/")[1];var playJsonUrl="https://www.wangyike.net/mobile/getBatchOnlineVideo.do?vidstr=";var reqUrl=playJsonUrl+vid;var reqJson=JSON.parse(request(reqUrl)).data.video_list[0];input={jx:0,url:reqJson.mp4SdUrl,parse:0}',
     // lazy:'',
     推荐:'*',
     一级:'json:list;title;cover_pic;meida_type;vid',
