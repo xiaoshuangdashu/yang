@@ -1,6 +1,6 @@
 var rule = {
     title:'网易公版影像',
-    host:'https://active.163.com',
+    host:'https://www.wangyike.net/',
     homeUrl:'/service/form/v1/9347/view/1618.jsonp?param_entry_kinds=his&page=1&pageSize=20',
     url:'/service/form/v1/9347/view/1618.jsonp?param_entry_kinds=fyclass&page=fypage&pageSize=20',
     class_name:'电影&纪录片&动画片&珍贵史料',
