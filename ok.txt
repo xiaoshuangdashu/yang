@@ -10,7 +10,7 @@
 {"key":"豆豆",
  "name":"🎀快手号济宁裁缝大叔在线🈲贩卖",
  "type": 3, 
-"jar":"https://d.kstore.dev/download/8240/%E8%B1%86%E7%93%A3.jar",
+"jar":"https://dl.kstore.dev/download/8240/%E8%B1%86%E7%93%A3.jar",
  "api":"csp_Douban",
  "searchable": 0,
  "quickSearch": 0,
@@ -25,18 +25,119 @@
       "key": "斗量",
       "name": "南瓜｜极速",
       "type": 3,
-      "jar": "https://d.kstore.dev/download/8240/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86.jar",
+      "jar": "https://dl.kstore.dev/download/8240/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86.jar",
       "api": "csp_NanGua",
       "quickSearch": 0,
       "playerType": 2,
       "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
-    },   {
+    }, 
+
+{
+      "key": " 毒舌影视.py.jssWWW.https://gh.qninq.cn",
+      "name": "🇨🇳毒舌影视.py🇨🇳",
+      "type": 3,
+      "api": "https://dl.kstore.dev/download/8240/%E6%AF%92%E8%88%8C%E5%BD%B1%E8%A7%86.py",
+
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": 2
+  
+    },
+ {
+      "key": " 泥泥5视频.jssWWW.https://gh.qninq.cn",
+      "name": "🇨🇳红果短剧.py🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "type": 3,
+      "api": "https://www.panurl.cn/down.php/879bd10cded0718dc68500b2c8027437.py",
+
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": 2
+  
+    },
+ {
+      "key": " 泥泥4视频.jssWWW.https://gh.qninq.cn",
+      "name": "🇨🇳真不错4K .py🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "type": 3,
+      "api": "https://www.panurl.cn/down.php/4995a44400e87ae694d6d71e00124c1c.py",
+
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": 2
+  
+    },
+    
+     {
+      "key": " 泥泥3视频.jssWWW.https://gh.qninq.cn",
+      "name": "🇨🇳瓜子视频.py🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "type": 3,
+      "api": "https://dl.kstore.dev/download/8240/%E7%93%9C%E5%AD%90.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": 2
+  
+    },
+     {"key":"1奈飞4K","name":"丨2奈飞丨4K","type":3,
+"api":"https://www.panurl.cn/down.php/1ca689a296b8e00aa334cf8cbfd3d83b.py",
+"searchable":1,"quickSearch":1,"filterable":1
+},
+    
+    
+  
+    
+       {
+      "key": " 80视频.jssWWW.https://gh.qninq.cn",
+      "name": "🇨🇳80影院.py🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "type": 3,
+      "api": "https://www.panurl.cn/down.php/5f1989060fbb37a224c3ec265e0e126a.py&123",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": 2
+  
+    },
+    
+    
+    
+       {
+      "key": " 泥泥2视频.jssWWW.https://gh.qninq.cn",
+      "name": 🇨🇳808影院.py🇨🇳󠁧󠁢󠁷󠁬󠁳󠁿",
+      "type": 3,
+      "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/alantang1977/X/main/py/808%E5%BD%B1%E9%99%A2.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": 2
+  
+    },
+    {
+      "key": " 荐片频.jssWWW.https://gh.qninq.cn",
+      "name": "🇨🇳e荐片.js🇨🇳",
+      "type": 3,
+      "api": "https://dl.kstore.dev/download/8240/荐片影视.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": 2 },
+  
+   
+
+
+
+
+
+
+{
 "key":"河马",
 "name":"🌴河马影视",
 "type":3,
 "api":"./河马短剧.py",
 "changeable":1
 },
+
    {
 "key":"饭团",
 "name":"🌴饭团影视",
@@ -93,16 +194,12 @@
                 "decrypt": "0"
             }
         },
-{"key":"资...源",
-"name":"☀🎀瓜子💡",
-"type":3,
-"api":"https://gitee.com/yanglongxiang/my/raw/master/JS2025/drpy2.min.js",
-"ext":"https://d.kstore.dev/download/8240/%E7%93%9C%E5%AD%90.js"},
+
  {
 		    "key": "猎手影视",
 		    "name": "猎手┃影视",
 		    "type": 3,
-		    "api": "https://d.kstore.dev/download/8240/%E7%8C%8E%E6%89%8B.py",
+		    "api": "https://dl.kstore.dev/download/8240/%E7%8C%8E%E6%89%8B.py",
 		    "searchable": 1,
 		    "changeable": 1
 	    },
@@ -611,7 +708,7 @@
     
      {"key": "py厂长","name": "🚛┃厂长资源┃TV",
     "type": 3,
-    "api": "https://d.kstore.dev/download/8240/%E5%8E%82%E9%95%BF%E8%B5%84%E6%BA%90.py",
+    "api": "https://dl.kstore.dev/download/8240/%E5%8E%82%E9%95%BF%E8%B5%84%E6%BA%90.py",
     "searchable": 1,
     "quickSearch": 1,
      "playerType": 2,
