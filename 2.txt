@@ -2420,7 +2420,7 @@ f封神榜,https://live.ottiptv.cc/yy/1382797534
 燕双鹰1,https://live.ottiptv.cc/yy/1352227153
 YY连续剧,https://live.ottiptv.cc/yy/1352227227
 玲宝陪你看,https://live.ottiptv.cc/yy/1353215589
-虎牙，#genre#
+虎牙,#genre#
 
 鬼吹灯之云南虫谷,https://live.ottiptv.cc/huya/11352898
 鬼吹灯之怒晴湘西,https://live.ottiptv.cc/huya/11602075
