@@ -41,7 +41,7 @@ tailor/ip/raw/master/%E8%A3%81%E7%BC%9D%E5%A4%A7%E5%8F%94.gif",
     {
       "name": "🎀快手号济宁裁缝大叔🎀电视直播🎀",
       "type": 0,
-      "url": "http://rihou.cc:567/gggg.nzk/",
+      "url": "https://github.catvod.com/https://github.com/xiaoshuangdashu/yang/blob/main/tt2t.txt",
       "logo": "https://tb.zbds.top/logo/{name}.png",
        "epg": "https://api.erw.cc/?ch={name}&date={date}",
       "playerType": 2
@@ -164,7 +164,7 @@ tailor/ip/raw/master/%E8%A3%81%E7%BC%9D%E5%A4%A7%E5%8F%94.gif",
         {
             "name": "FeiYang牧场",
             "type": 0,
-            "url": "http://sub.ottiptv.cc/iptv.m3u",
+            "url": "https://github.catvod.com/https://github.com/xiaoshuangdashu/yang/blob/main/tt2t.txt",
             "ua": "okHttp/Mod-1.0.0",
             "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date=DATE1SUB",
             "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
@@ -267,7 +267,17 @@ tailor/ip/raw/master/%E8%A3%81%E7%BC%9D%E5%A4%A7%E5%8F%94.gif",
         }
     ],
 
-"sites": [{"key":"csp_豆瓣","name":"🌈防失联，关注快手号济宁裁缝大叔","type":3,"api":"csp_Douban","searchable":0,"quickSearch":0,"filterable":0},
+"sites": [  {
+      "key": "drpy_js_豆瓣",
+      "name": "🇨🇳快手号济宁裁缝大叔豆瓣[js]",
+      "type": 3,
+      "api": "https://gitee.com/yanglongxiang/my/raw/master/JS2025/drpy2.min.js",
+       "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      
+      "ext": "https://dl.kstore.dev/download/8240/douban.js"
+    },
 
  {"key":"腾优爱芒B","name":"丨APP丨影视","type":3,
  "api":"http://d.kstore.dev/download/8240/%E5%A4%AA%E4%B9%99%E5%BD%B1%E8%A7%86.py",
