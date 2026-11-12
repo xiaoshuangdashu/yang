@@ -240,7 +240,7 @@ tailor/ip/raw/master/%E8%A3%81%E7%BC%9D%E5%A4%A7%E5%8F%94.gif",
 {
       "name": "🎀台湾流🎀快手号济宁裁缝大叔直播🎀",
       "type": 0,
-      "url": "https://aries.yuanwangokk.nyc.mn/RDzR",
+      "url": "https://github.catvod.com/https://github.com/xiaoshuangdashu/yang/blob/main/tt2t.txt",
     "logo": "https://diyp0731.112114.xyz/logo/{name}.png",
         "epg": "https://diyp0731.112114.xyz/?ch={name}&date={date}",
       "playerType": 2
@@ -314,17 +314,136 @@ tailor/ip/raw/master/%E8%A3%81%E7%BC%9D%E5%A4%A7%E5%8F%94.gif",
 "api":"https://gitee.com/yanglongxiang/my/raw/master/JS2025/drpy2.min.js",
 "ext":"https://gitee.com/luodayouv5/ys/raw/master/lib/%E7%93%9C%E5%AD%90.js"},
 
-        {
-            "key": "猎手影视",
-            "name": "🐆┃猎手┃影视",
-            "type": 3,
-            "api": "https://gitee.com/PizazzXS/another-d/raw/master/movie/py/LSYS.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },
+      {
+      "key": " 毒舌影视.py.jssWWW.https://gh.qninq.cn",
+      "name": "🇨🇳毒舌影视.py🇨🇳",
+      "type": 3,
+      "api": "https://dl.kstore.dev/download/8240/%E6%AF%92%E8%88%8C%E5%BD%B1%E8%A7%86.py",
+
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": 2
+  
+    },
+ {
+      "key": " 泥泥5视频.jssWWW.https://gh.qninq.cn",
+      "name": "🇨🇳红果短剧.py🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "type": 3,
+      "api": "https://www.panurl.cn/down.php/879bd10cded0718dc68500b2c8027437.py",
+
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": 2
+  
+    },
+ {
+      "key": " 泥泥4视频.jssWWW.https://gh.qninq.cn",
+      "name": "🇨🇳真不错4K .py🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "type": 3,
+      "api": "https://www.panurl.cn/down.php/4995a44400e87ae694d6d71e00124c1c.py",
+
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": 2
+  
+    },
+    
+     {
+      "key": " 泥泥3视频.jssWWW.https://gh.qninq.cn",
+      "name": "🇨🇳瓜子视频.py🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "type": 3,
+      "api": "https://dl.kstore.dev/download/8240/%E7%93%9C%E5%AD%90.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": 2
+  
+    },
+     {"key":"1奈飞4K","name":"丨2奈飞丨4K","type":3,
+"api":"https://www.panurl.cn/down.php/1ca689a296b8e00aa334cf8cbfd3d83b.py",
+"searchable":1,"quickSearch":1,"filterable":1
+},
+    
+    
+  
+    
+       {
+      "key": " 80视频.jssWWW.https://gh.qninq.cn",
+      "name": "🇨🇳80影院.py🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "type": 3,
+      "api": "https://www.panurl.cn/down.php/5f1989060fbb37a224c3ec265e0e126a.py&123",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": 2
+  
+    },
+    
+    
+    
+       {
+      "key": " 泥泥2视频.jssWWW.https://gh.qninq.cn",
+      "name": 🇨🇳808影院.py🇨🇳󠁧󠁢󠁷󠁬󠁳󠁿",
+      "type": 3,
+      "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/alantang1977/X/main/py/808%E5%BD%B1%E9%99%A2.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": 2
+  
+    },
+    {
+      "key": " 荐片频.jssWWW.https://gh.qninq.cn",
+      "name": "🇨🇳e荐片.js🇨🇳",
+      "type": 3,
+      "api": "https://dl.kstore.dev/download/8240/荐片影视.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": 2 },
+  
+   
+  
+  {
+      "key": " 泥泥29视频.jssWWW.https://gh.qninq.cn",
+      "name": "🇨🇳emby影视.js🇨🇳",
+      "type": 3,
+      "api": "https://dl.kstore.dev/download/8240/emby%E5%BD%B1%E8%A7%86.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": 2   },
+  
+ 
+{"name":"🇨🇳虎牙┃🦃","key":"HuyaLive",
+"type":3,
+"api":"csp_HuyaLiveAmns",
+"searchable":1,"quickSearch":1,
+"jar":"https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png",
+
+"changeable":0,"style":{"type":"rect","ratio":1.433}},
+
+ {"key":"戏曲55","name":"戏曲🇨🇳丨丨直播",
+"type":3,
+"api":"https://gh-proxy.com/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+"ext":"https://iduo.us.ci/gt/leevi0709/one/main/js/戏曲大全.js","style":{"type":"rect","ratio":1.755},
+"timeout":10,"playerType":"2","searchable":1,"quickSearch":0,"changeable":0},
+
+  
+ 
+
+ 
+     {"key":"星芽短剧","name":"🇨🇳丨星芽丨短剧","type":3,"api":"https://dl.kstore.dev/download/8240/%E6%98%9F%E8%8A%BD.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1},
+   {"key":"七猫","name":"🇨🇳丨七猫丨短剧","type":3,"api":"https://dl.kstore.dev/download/8240/%E4%B8%83%E7%8C%AB.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1},
+   {"key":"百度短剧","name":"🇨🇳丨百度丨短剧","type":3,"api":"https://dl.kstore.dev/download/8240/%E7%99%BE%E5%BA%A6%E7%9F%AD%E5%89%A7.js","searchable":1,"quickSearch":0,"filterable":1},
+   {"key":"聚合短剧","name":"🇨🇳丨聚合丨短剧","type":3,"api":"https://dl.kstore.dev/download/8240/%E8%81%9A%E5%90%88%E7%9F%AD%E5%89%A7.js","searchable":1,"quickSearch":0,"filterable":1},
+    
+    {"key":"🦃兄弟PY","name":"🦃丨🦃太极丨PY","api":"https://dl.kstore.dev/download/8240/%E5%A4%AA%E4%B9%99%E5%BD%B1%E8%A7%86.py","filterable":1,"quickSearch":1,"searchable":1,"type":3},
+    
+   
      {
       "key": "http://www.52baiduseo.cn",
       "name": "🎀猫咪影院🎀  ",
